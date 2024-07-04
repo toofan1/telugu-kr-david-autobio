@@ -1,0 +1,10 @@
+#separator:tab
+#html:true
+చరిత్ర[sound:charithra.mp3]	history
+కఠినమైన[sound:kathinamaina.mp3]	tough, hard
+నిజం[sound:nijam.mp3]	true
+సత్యమైన[sound:satyamaina.mp3]	truthful
+సత్యాలు[sound:satyaalu.mp3]	the truths
+వాటిని నువ్వు నమ్మలేకపోవచ్చును.[sound:nammalekapovachunu.mp3]	You may not believe them.
+నీ నమ్మకంతో వాటిని వినలేదు.[sound:vinaledhu.mp3]	With your belief, you did not listen to them.
+స్థిర[sound:sdhira.mp3]	fixed
