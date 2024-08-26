@@ -1,6 +1,3848 @@
+﻿a 	 ﻿a
+abandon 	 త్యజించు
+abandoned 	 త్యాగపూరిత
+ability 	 నేర్పు
+able 	 యోగ్యమైన
+about 	 గురించి
+above 	 మీద
+abroad 	 విదేశాలలో
+absence 	 పరోక్షం
+absent 	 గైర్హాజరు
+absolute 	 సంపూర్ణ
+absolutely 	 పూర్తిగా
+absorb 	 పీల్చు
+abuse 	 తిట్టు
+academic 	 అకడమిక్
+accent 	 యాస
+accept 	 ఒప్పుకో
+acceptable 	 ఆమోదయోగ్యమైన
+access 	 ప్రవేశం
+accident 	 ప్రమాదం
+accidental 	 ఆకస్మిక
+accidentally 	 అకస్మాత్తుగా
+accommodation 	 వసతి
+accompany 	 దానితో పాటు
+according to 	 ప్రకారం
+account 	 ఖాతా
+account for 	 ఖాతా కొరకు
+accurate 	 ఖచ్చితమైన
+accurately 	 ఖచ్చితంగా
+accuse 	 ఆరోపించు
+achieve 	 సాధించు
+achievement 	 సాధించిన విజయం
+acid 	 ఆమ్లం
+acknowledge 	 అంగీకరించండి
+a couple 	 ఒక జంట
+acquire 	 ఆర్జించు
+across 	 అవతల
+act 	 నటించు
+action 	 చర్య
+active 	 చురుకైన
+actively 	 చురుకుగా
+activity 	 క్రియ
+actor 	 నటుడు
+actress 	 నటి
+actual 	 అసలు
+actually 	 నిజంగా
+ad 	 ప్రకటన
+adapt 	 అడాప్ట్
+add 	 కూడండి
+addition 	 కూడిక
+additional 	 అదనపు
+add on 	 జోడించు
+address 	 చిరునామా
+add up 	 జోడించండి
+add up to 	 దీనికి జోడించండి
+adequate 	 తగినంత
+adequately 	 తగినంతగా
+adjust 	 పరిష్కరించు
+admiration 	 ప్రశంస
+admire 	 మెచ్చుకొను
+admit 	 అంగీకరించు
+adopt 	 దత్తత తీసుకో
+adult 	 వయోజనుడు
+advance 	 బయానా
+advanced 	 అడ్వాన్స్ డ్
+advantage 	 సఫలత
+adventure 	 తెగించు
+advert 	 ప్రకటన
+advertise 	 ప్రకటించు
+advertisement 	 ప్రకటన
+advertising 	 ప్రకటనలు
+advice 	 సలహా
+advise 	 సలహా ఇచ్చు
+affair 	 వ్యవహారం
+affect 	 ప్రభావం
+affection 	 ప్రేమ
+afford 	 భరించండి
+afraid 	 భయం
+after 	 తరువాత
+afternoon 	 మధ్యాహ్నం
+afterwards 	 ఆనక
+again 	 మళ్లీ
+against 	 ఎదురు
+age 	 వయసు
+aged 	 ముసలి
+agency 	 ఏజెన్సీ
+agent 	 ఏజెంట్
+aggressive 	 దూకుడు
+ago 	 ago
+agree 	 ఒప్పుకోవడం
+agreement 	 ఒప్పందం
+ahead 	 ముందు
+aid 	 ఆదుకొను
+aim 	 ధ్యేయం
+air 	 గాలి
+aircraft 	 విమానము
+airport 	 విమానాశ్రయం
+alarm 	 హెచ్చరిక
+alarmed 	 ఆందోళన చెందారు
+alarming 	 ఆందోళనకరంగా ఉంది
+alcohol 	 ఆల్కహాల్
+alcoholic 	 మత్తు
+alive 	 సజీవ
+all 	 అందరూ
 allied 	 మిత్ర
 allow 	 అంగీకరించు
 allow for 	 అనుమతించండి
 all right 	 అయితే సరే
 ally 	 మిత్రపక్షం
 almost 	 దరిదాపు
+alone 	 ఒంటరి
+along 	 కలిసి
+alongside 	 పక్కన
+aloud 	 గట్టిగా
+alphabet 	 అక్షరమాల
+alphabetical 	 అక్షరమాల
+alphabetically 	 అక్షరక్రమం ప్రకారం
+already 	 ఇప్పటికే
+also 	 కూడా
+alter 	 తప్పించు
+alternative 	 ప్రత్యామ్నాయం
+alternatively 	 ప్రత్యామ్నాయంగా
+although 	 అయినప్పటికీ
+altogether 	 మొత్తానికి
+always 	 ఎప్పుడు
+a.m. 	 ఎ.ఎం.
+amaze 	 amaze
+amazed 	 ఆశ్చర్యంగా ఉంది
+amazing 	 అద్భుతం
+ambition 	 ఆశయం
+ambulance 	 అంబులెన్స్
+among 	 లో
+amount 	 మొత్తం
+amount to 	 ఈ మొత్తం
+amuse 	 ఆహ్లాదాన్ని కలిగిస్తుంది
+amused 	 సరదాగా ఉంది
+amusing 	 సరదాగా ఉంది
+analyse 	 విడదీయు
+analysis 	 విశ్లేషణ
+ancient 	 పాత
+and 	 మరియు
+anger 	 కోపం
+angle 	 కోణం
+angrily 	 కోపంగా
+angry 	 కోపం
+animal 	 జంతువు
+ankle 	 చీలమండ
+anniversary 	 వార్షికోత్సవం
+announce 	 ప్రకటించు
+annoy 	 చిరాకు
+annoyed 	 విసుగెత్తిపోవు
+annoying 	 చిరాకు కలిగిస్తుంది
+annual 	 వార్షిక
+annually 	 ఏటా
+another 	 వేరొక
+answer 	 జవాబు
+anti- 	 యాంటీ-
+anticipate 	 ఎదురుచూచు
+anxiety 	 ఆత్రుత
+anxious 	 ఆత్రుత
+anxiously 	 ఆత్రుతగా
+any 	 ఏదైనా
+anybody 	 ఎవరైనా
+anyone 	 ఎవరైనా
+anything 	 ఏదైనా
+anyway 	 ఏదేమైనా
+anywhere 	 ఎక్కడైనా
+apart 	 ప్రత్యేకంగా
+apart from 	 కాకుండా
+apartment 	 అపార్ట్ మెంట్
+apologize 	 క్షమాపణ చెప్పండి
+apparent 	 దృశ్యమాన
+apparently 	 చూడటానికి
+appeal 	 నివేదన
+appear 	 కనిపించు
+appearance 	 పొడ
+apple 	 ఆపిల్ పండు
+application 	 పూత
+apply 	 సరిపడు
+appoint 	 నియమించు
+appointment 	 నియామకం
+appreciate 	 మెచ్చుకొను
+approach 	 సమీపించు
+appropriate 	 తగిన
+approval 	 ఆమోదం
+approve 	 ఆమోదించు
+approving 	 ఆమోదిస్తూ
+approximate 	 సుమారు
+approximately 	 ఇంచు మించు
+April 	 ఏప్రిల్
+area 	 ప్రాంతం
+argue 	 వాదించు
+argument 	 వాదన
+arise 	 తలెత్తు
+arm 	 బాహువు
+armed 	 సాయుధ
+arms 	 చేతులు
+army 	 సైన్యం
+around 	 సుమారుగా
+arrange 	 అమర్చు
+arrangement 	 ఏర్పాటు
+arrest 	 చెర
+arrival 	 వచ్చి చేరడం
+arrive 	 చేరు
+arrive at 	 రండి
+arrow 	 బాణము
+art 	 కళ
+article 	 వస్తువు
+artificial 	 కృత్రిమమైన
+artificially 	 కృత్రిమంగా
+artist 	 చిత్రకారుడు
+artistic 	 కళాత్మక
+artistically 	 కళాత్మకంగా
+as 	 లాంటి
+ashamed 	 సిగ్గు
+aside 	 పక్కకు
+aside from 	 పక్కన పెడితే..
+ask 	 అడుగు
+asleep 	 నిద్ర
+aspect 	 అంశం
+assist 	 తోడ్పడు
+assistance 	 అండ
+assistant 	 సహాయకుడు
+associate 	 సహచరుడు
+associated 	 అసోసియేటెడ్
+association 	 సాంగత్యం
+assume 	 అనుకో
+assure 	 భరోసా ఇవ్వండి
+at 	 వద్ద
+atmosphere 	 వాతావరణం
+atom 	 పరమాణువు
+attach 	 అంటించు
+attached 	 జతచేయబడింది
+attack 	 దాడి
+attempt 	 ప్రయత్నించు
+attempted 	 ప్రయత్నించారు.
+attend 	 పాల్గొను
+attend to 	 దీనికి హాజరు అవ్వండి
+attention 	 ధ్యాస
+attitude 	 తీరు
+attorney 	 న్యాయవాది
+attract 	 ఆకర్షించు
+attraction 	 ఆకర్షణ
+attractive 	 ఆకట్టుకునే
+audience 	 వినువారు
+August 	 ఆగస్ట్
+aunt 	 అత్త
+author 	 రచయిత
+authority 	 అధికారం
+automatic 	 automatic
+automatically 	 స్వయంచాలకంగా
+autumn 	 శరత్కాలం
+available 	 దొరుకు
+average 	 సగటు
+avoid 	 తప్పించుకో
+awake 	 మేల్కొని ఉండడం
+award 	 పురస్కారం
+aware 	 ఎరిగిన
+away 	 అవతలికి
+awful 	 భయంకరంగా ఉంది
+awfully 	 భయంకరంగా ఉంది
+awkward 	 ఇబ్బందికరంగా ఉంది
+awkwardly 	 వికారంగా
+baby 	 పసికందు
+back 	 వీపు
+background 	 నేపథ్యం
+back up 	 బ్యాకప్
+backward 	 వెనకబడ్డ
+backwards 	 వెనుకకు
+bacteria 	 బాక్టీరియా
+bad 	 చెడు
+badly 	 ఘోరంగా
+bad-tempered 	 చెడు-కోపం
+bag 	 సంచి
+baggage 	 లగేజీ
+bake 	 బేక్
+balance 	 తక్కెడ
+ball 	 బంతి
+ban 	 నిషేధించు
+band 	 కట్టు
+bandage 	 కట్టు
+bank 	 ఒడ్డు
+bar 	 కమ్మి
+bargain 	 బేరం
+barrier 	 ఆటంకం
+base 	 పునాది
+based 	 ఆధారిత
+base on 	 ఆధారం
+basic 	 మౌలిక
+basically 	 ప్రాథమికంగా
+basis 	 ఆకరం
+bath 	 స్నానము
+bathroom 	 స్నానాలగది
+battery 	 బ్యాటరీ
+battle 	 యుద్ధము
+bay 	 అఖాతం
+be 	 అవ్వు
+beach 	 బీచ్
+beak 	 నోరు
+bear 	 ఎలుగుబంటి
+beard 	 గడ్డం
+beat 	 కొట్టు
+beat up 	 కొట్టబడింది
+beautiful 	 అందమైన
+beautifully 	 అందంగా
+beauty 	 అందం
+because 	 ఎందుకంటే
+because of 	 వల్ల
+become 	 అవు
+bed 	 పడక
+bedroom 	 పడక గది
+beef 	 గొడ్డు మాంసం
+beer 	 బీరు
+before 	 ముందు
+begin 	 ప్రారంభించు
+beginning 	 మొదలు
+behalf 	 తరఫున
+behave 	 ప్రవర్తించు
+behaviour 	 ప్రవర్తన
+behind 	 వెనక
+be left over 	 వదిలేయాలి
+belief 	 నమ్మిక
+believe 	 నమ్ము
+believe in 	 నమ్మండి
+bell 	 గంట
+belong 	 చెందు
+belong to 	 దేనికి చెందినది
+below 	 కింద
+belt 	 బెల్టు
+bend 	 వంగు
+beneath 	 క్రింద
+benefit 	 ప్రయోజనం
+bent 	 వంకర
+beside 	 పక్కన
+best 	 అత్యుత్తమ
+bet 	 పందెం
+better 	 మేలు
+betting 	 బెట్టింగ్
+between 	 మధ్య
+beyond 	 అటుపైన
+bicycle 	 సైకిలు
+bid 1 	 బిడ్ 1
+big 	 పెద్ద
+bike 	 సైకిలు
+bill 	 బిల్లు
+billion 	 బిలియన్
+bin 	 తొట్టి
+biology 	 జీవశాస్త్రం
+bird 	 పిట్ట
+birth 	 పుట్టుక
+birthday 	 పుట్టినరోజు
+biscuit 	 బిస్కెట్
+bit 	 తునక
+bite 	 కుట్టు
+bitter 	 చేదు
+bitterly 	 చేదుగా
+black 	 నలుపు
+blade 	 బ్లేడు
+blame 	 నింద
+blank 	 ఖాళీ
+blind 	 గుడ్డి
+block 	 అడ్డగించు
+blonde 	 అందగత్తె
+blood 	 రక్తం
+blow 	 ఊదు
+blow out 	 పేలిపోండి
+blow up 	 పేలిపోండి
+blue 	 నీలం
+board 	 పలక
+boat 	 పడవ
+body 	 దేహం
+boil 	 కాగు
+bomb 	 బాంబు
+bone 	 ఎముక
+book 	 పుస్తకం
+boot 	 బూటు
+border 	 కొంగు
+bore 	 విసిగించు
+bored 	 విసుగు చెందింది
+boring 	 బోరింగ్
+born 	 పుట్టిన
+borrow 	 అప్పు చేయు
+boss 	 బాస్
+both 	 రెండు
+bother 	 పట్టించు
+bottle 	 సీసా
+bottom 	 క్రింద
+bound 	 బద్ధ
+bowl 	 గిన్నె
+box 	 పెట్టె
+boy 	 అబ్బాయి
+boyfriend 	 ప్రియుడు
+brain 	 మెదడు
+branch 	 కొమ్మ
+brand 	 వాత
+brave 	 ధైర్యవంతులు
+bread 	 రొట్టె
+break 	 తెంపు
+break down 	 విచ్ఛిన్నం చేయండి
+breakfast 	 చద్ది
+break in 	 బ్రేక్ ఇన్
+break into 	 అందులోకి ప్రవేశించండి
+break off 	 బ్రేక్ ఆఫ్
+break out 	 బ్రేక్ అవుట్
+break up 	 విడిపోవటం
+breast 	 రొమ్ము
+breath 	 ఊపిరి
+breathe 	 ఊపిరి పీల్చు
+breathe in 	 పీల్చు
+breathe out 	 నిశ్వాసించు
+breathing 	 ఊపిరి
+breed 	 జాతి
+brick 	 ఇటుక
+bridge 	 వంతెన
+brief 	 టూకీ
+briefly 	 క్లుప్తంగా
+bright 	 ప్రకాశవంతమైన
+brightly 	 ప్రకాశవంతంగా
+brilliant 	 అద్భుతమైనది
+bring 	 తెచ్చు
+bring back 	 తిరిగి తీసుకురండి
+bring down 	 కిందకు దించండి
+bring forward 	 ముందుకు తీసుకురండి
+bring out 	 బయటకు తీసుకురండి
+bring up 	 పెంచు
+broad 	 విశాలమైన
+broadcast 	 ప్రసారం చేయు
+broadly 	 స్థూలంగా
+broken 	 పగిలిన
+brother 	 తమ్ముడు
+brown 	 పింగళము
+brush 	 తుడువు
+bubble 	 బుడగ
+budget 	 బడ్జెట్
+build 	 నిర్మించు
+building 	 కట్టడం
+build up 	 బిల్ అప్ చేయండి
+bullet 	 తూటా
+bunch 	 గుత్తి
+burn 	 మండు
+burn down 	 కాలిపోవడం
+burnt 	 కాలిన
+burst 	 తెగు
+burst into 	 పేలిపోయింది.
+burst out 	 పేలిపోయింది.
+bury 	 పూడ్చు
+bus 	 బస్సు
+bush 	 పొద
+business 	 పని
+businessman 	 షావుకారు
+busy 	 తీరికలేని
+but 	 కాని
+butter 	 వెన్న
+button 	 గుండీ
+buy 	 కొను
+buyer 	 కొనుగోలుదారు
+by 	 గుండా
+bye 	 ఇక ఉంటా
+cabinet 	 క్యాబినెట్
+cable 	 కేబుల్
+cake 	 కేక్
+calculate 	 గణించు
+calculation 	 గణన
+call 	 పిలుపు
+call back 	 తిరిగి కాల్ చేయండి
+called 	 పిలిచారు
+call for 	 కాల్ చేయండి
+call off 	 కాల్ ఆఫ్ చేయండి
+call up 	 కాల్ అప్ చేయండి
+calm 	 ప్రశాంతత
+calm down 	 శాంతించండి
+calmly 	 ప్రశాంతంగా
+camera 	 కెమేరా
+camp 	 శిబిరం
+campaign 	 దండయాత్ర
+camping 	 క్యాంపింగ్
+can 1 	 క్యాన్ 1
+can 2 	 చేయగలదు 2
+cancel 	 రద్దు
+cancer 	 కర్కాటకరాశి
+candidate 	 అభ్యర్థి
+candy 	 ఖండి
+cannot 	 సాధ్యం కాదు
+cap 	 టోపీ
+capable 	 సామర్థ్యం
+capacity 	 సామర్థ్యం
+capital 	 పెట్టుబడి
+captain 	 కెప్టెన్
+capture 	 సంగ్రహించు
+car 	 కారు
+card 	 కార్డు
+cardboard 	 అట్ట
+care 	 జాగ్రత్త
+career 	 వృత్తి
+care for 	 ఎన్ను
+careful 	 జాగ్రత్త
+carefully 	 జాగ్రత్తగా
+careless 	 అలక్ష్యం చేయు
+carelessly 	 అజాగ్రత్తగా
+carpet 	 తివాచి
+carrot 	 గాజర్ గడ్డ
+carry 	 మోయు
+carry on 	 కొనసాగవచ్చు
+carry out 	 
+case 	 విభక్తి
+cash 	 నగదు
+cast 	 విసరడం
+castle 	 కోట
+cat 	 పిల్లి
+catch 	 చిక్కుకో
+catch up 	 పట్టుకోండి
+category 	 కోవ
+cause 	 హేతువు
+CD 	 CD
+cease 	 చాలించు
+ceiling 	 లోకప్పు
+celebrate 	 జరుపుకోండి
+celebration 	 వేడుక
+cell 	 కణము
+cell phone 	 చరవాణి
+cent 	 సెంటు
+centimetre 	 centimetre
+central 	 కేంద్ర
+centre 	 కేంద్రం
+century 	 శతాబ్దం
+ceremony 	 ఉత్సవం
+certain 	 తధ్యం
+certainly 	 అవశ్యం
+certificate 	 సర్టిఫికేట్
+chain 	 గొలుసు
+chair 	 కుర్చీ
+chairman 	 అధ్యక్షుడు
+chairwoman 	 చైర్ పర్సన్
+challenge 	 సవాలు
+chamber 	 కోష్ఠిక
+chance 	 వీలు
+change 	 మార్పు
+change round 	 రౌండ్ మార్చండి
+channel 	 కాలువ
+chapter 	 అధ్యాయం
+character 	 అక్షరం
+characteristic 	 గుణం
+charge 	 వెల కట్టు
+charity 	 తిరిపెం
+chart 	 పట్టిక
+chase 	 తరుము
+chase away 	 తరిమివేయండి
+chat 	 ముచ్చటించు
+cheap 	 చౌక
+cheaply 	 చౌకగా
+cheat 	 మోసగించు
+cheat of 	 మోసం చేయడం
+check 	 తనిఖీ
+check in 	 తనిఖీ
+check into 	 చెక్ చేయండి
+check on 	 చెక్ చేయండి
+check out 	 తనిఖీ
+check over 	 చెక్ ఓవర్
+check up on 	 చెక్ అప్ చేయండి
+cheek 	 చెంప
+cheerful 	 ఉల్లాసంగా ఉంది
+cheerfully 	 సంతోషంగా
+cheese 	 జున్ను
+chemical 	 రసాయన
+chemist 	 రసాయన శాస్త్రవేత్త
+chemistry 	 రసాయన శాస్త్రం
+cheque 	 చెక్కు
+chest 	 రొమ్ము
+chew 	 నములు
+chicken 	 కోడి
+chief 	 కేతువు
+child 	 బిడ్డ
+chin 	 గడ్డం
+chip 	 ముక్క
+chocolate 	 చాక్లెట్
+choice 	 ఎన్నిక
+choose 	 ఎంచుకో
+chop 	 తిరుగు
+chop down 	 కత్తిరించండి
+chop off 	 కత్తిరించండి
+church 	 చర్చి
+cigarette 	 సిగరెట్టు
+cinema 	 సినిమా
+circle 	 వృత్తం
+circumstance 	 [మార్చు] పరిస్థితి
+citizen 	 పౌరుడు
+city 	 నగరం
+civil 	 సివిల్
+claim 	 చెప్పుకో
+clap 	 చప్పట్లు కొట్టు
+class 	 తరగతి
+classic 	 classic
+classroom 	 తరగతిగది
+clean 	 కడగడం
+clean up 	 శుభ్రం చేయండి
+clear 	 స్పష్ట
+clearly 	 స్పష్టంగా
+clear out 	 క్లియర్ చేయండి
+clear up 	 క్లియర్ చేయండి
+clerk 	 గుమాస్తా
+clever 	 గడుసైన
+click 	 క్లిక్ చేయండి
+client 	 క్లయింట్
+climate 	 వాతావరణం
+climb 	 ఎక్కు
+climbing 	 పర్వతారోహణ
+clock 	 గడియారం
+close 1 	 ముగింపు 1
+close 2 	 ముగింపు 2
+closed 	 నిమీలిత
+closely 	 దగ్గరగా
+closet 	 closet
+cloth 	 బట్ట
+clothes 	 దుస్తులు
+clothing 	 బట్టలు
+cloud 	 మబ్బు
+club 	 గద
+coach 	 బండి
+coal 	 బొగ్గు
+coast 	 కోస్తా
+coat 	 కోటు
+code 	 కోడ్
+coffee 	 కాఫీ
+coin 	 నాణెం
+cold 	 చలి
+coldly 	 చల్లగా
+collapse 	 పతనం[మార్చు]
+colleague 	 సహోద్యోగి
+collect 	 వసూలు చెయ్యి
+collection 	 సేకరణ
+college 	 కాలేజీ
+colour 	 రంగు
+coloured 	 రంగు
+column 	 కాలమ్
+combination 	 సంధి
+combine 	 కూడు
+come 	 రా
+come across 	 రండి
+come down 	 కిందకు రండి
+comedy 	 కామెడీ
+come from 	 ఎక్కడి నుంచి వచ్చింది
+come in 	 వస్తాయి
+come off 	 రండి
+come on 	 రండి
+come out 	 బయటకు రండి
+come round 	 చుట్టూ రండి
+come to 	 రండి
+come up 	 పైకి రండి
+come up to 	 పైకి రండి
+comfort 	 సౌకర్యం
+comfortable 	 సౌకర్యవంతంగా ఉంది
+comfortably 	 దర్జాగా
+command 	 ఆజ్ఞ
+comment 	 వ్యాఖ్య
+commercial 	 వాణిజ్య
+commission 	 అడితి
+commit 	 కమిట్
+commitment 	 అభినివేశం
+committee 	 కచేరీ
+common 	 సామాన్య
+commonly 	 సాధారణంగా
+communicate 	 కమ్యూనికేట్ చేయండి
+communication 	 సందేశం
+community 	 లోకులు
+company 	 కంపెనీ
+compare 	 పోల్చు
+comparison 	 పోల్చడం
+compete 	 పోటీ-పడు
+competition 	 పోటీ
+competitive 	 పోటీ
+complain 	 ఫిర్యాదు చేయు
+complaint 	 ఫిర్యాదు
+complete 	 సమాప్తం
+completely 	 పూర్తిగా
+complex 	 క్లిష్ట
+complicate 	 క్లిష్టత
+complicated 	 సంక్లిష్టమైన
+computer 	 కంప్యూటర్
+concentrate 	 కేంద్రీకరించు
+concentrate on 	 వీటిపై దృష్టి పెట్టండి
+concentration 	 ఏకాగ్రత
+concept 	 భావన
+concern 	 పట్టింపు
+concerned 	 ఆందోళన చెందుతున్నారు
+concerning 	 కూర్చి
+concert 	 కచేరీ
+conclude 	 ముగించు
+conclusion 	 ముగింపు
+concrete 	 కాంక్రీట్
+condition 	 స్థితి
+conduct 	 నడత
+conference 	 సదస్సు
+confidence 	 నమ్మకం
+confident 	 ఆత్మవిశ్వాసం
+confidently 	 ఆత్మవిశ్వాసంతో
+confine 	 నిర్బంధించు
+confined 	 పరిమితం చేయబడింది
+confirm 	 ధ్రువపరచు
+conflict 	 ఘర్షణ
+confront 	 ఎదురవ్వు
+confuse 	 తికమక
+confused 	 గందరగోళం
+confusing 	 గందరగోళం
+confusion 	 అల్లరి
+congratulate 	 అభినందించు
+congratulation 	 అభినందనలు
+congress 	 కాంగ్రెస్
+connect 	 అనుసంధించు
+connected 	 శ్లిష్ట
+connection 	 సంబంధం
+conscious 	 స్పృహ
+consequence 	 పరిణామం
+conservative 	 సంప్రదాయవాద
+consider 	 ఆలోచించుకో
+considerable 	 గణనీయమైనవి
+considerably 	 గణనీయంగా
+consideration 	 ఆలోచన
+consist 	 కలిగి ఉంటాయి
+consist of 	 వీటిని కలిగి ఉంటాయి
+constant 	 స్థిరం
+constantly 	 నిరంతరం
+construct 	 నిర్మాణం
+construction 	 నిర్మాణం
+consult 	 సంప్రదించు
+consumer 	 వినియోగదారుడు
+contact 	 తాకు
+contain 	 కలిగి ఉండు
+container 	 డబ్బా
+contemporary 	 సమకాలీన
+content 1 	 కంటెంట్ 1
+contest 	 పోటీ చేయు
+context 	 సందర్భం
+continent 	 ఖండం
+continue 	 కొనసాగు
+continuous 	 నిరంతర
+continuously 	 నిరంతరం
+contract 	 ఒడంబడిక
+contrast 	 వైరుధ్యం
+contrasting 	 దీనికి విరుద్ధంగా
+contribute 	 దోహదం చేయు
+contribution 	 చందా
+control 	 నియంత్రించు
+controlled 	 నియంత్రించబడింది
+convenient 	 అనుకూలమైన
+convention 	 లోకమర్యాద
+conventional 	 సాంప్రదాయిక
+conversation 	 సంభాషణ
+convert 	 కన్వర్ట్
+convince 	 నమ్మించు
+cook 	 వంటవాడు
+cooker 	 పొయ్యి
+cookie 	 kuie
+cooking 	 వంట
+cool 	 చల్లార్చు
+cool down 	 చల్లబరచండి
+cope 	 cope
+copy 	 ప్రతి
+core 	 core
+corner 	 మూల
+correct 	 అవును
+correctly 	 సరిగ్గా
+cost 	 వెల
+cottage 	 కుటీరం
+cotton 	 పత్తి
+cough 	 దగ్గు
+coughing 	 దగ్గు
+could 	 చేయగలదు
+council 	 సభ
+count 	 లెక్కించు
+counter 	 కౌంటర్
+count on 	 లెక్కించండి
+country 	 దేశం
+countryside 	 జనపదం
+county 	 కౌంటీ
+couple 	 జంట
+courage 	 ధైర్యం
+course 	 గమనం
+court 	 న్యాయ స్థానం
+cousin 	 కజిన్
+cover 	 మూత
+covered 	 కవర్ చేయబడింది
+covering 	 కప్పుట
+cover up 	 కప్పిపుచ్చుకోండి
+cow 	 ఆవు
+crack 	 ఓడు
+cracked 	 పగుళ్లు ఏర్పడ్డాయి
+craft 	 యుక్తి
+crash 	 క్రాష్
+crazy 	 క్రేజీ
+cream 	 మీగడ
+create 	 ఏర్పరచు
+creature 	 ప్రాణి
+credit 	 నమ్మిక
+credit card 	 క్రెడిట్ కార్డ్
+crime 	 నేరం
+criminal 	 నేరస్తుడు
+crisis 	 సంక్షోభం
+crisp 	 క్రిస్ప్
+criterion 	 ప్రమాణం
+critical 	 కీలకమైనది
+criticism 	 ఆక్షేపణ
+criticize 	 విమర్శించండి
+crop 	 పంట
+cross 	 దాటు
+cross out 	 క్రాస్ అవుట్
+crowd 	 గుంపు
+crowded 	 రద్దీగా ఉంది
+crown 	 కిరీటం
+crucial 	 కీలకమైనది
+cruel 	 క్రూరమైన
+crush 	 చితక్కొట్టు
+cry 	 ఏడుపు
+cry out 	 కేకలు వేయడం
+cultural 	 సాంస్కృతిక
+culture 	 సంస్కృతి
+cup 	 చిప్ప
+cupboard 	 అలమార
+curb 	 నిరోధించండి
+cure 	 నయం చేయు
+curious 	 ఆసక్తిగా ఉంది
+curiously 	 ఆసక్తికరంగా
+curl 	 కర్ల్
+curl up 	 గుండ్రంగా ఉండండి
+curly 	 కర్లీ
+current 	 ప్రస్తుతం
+currently 	 ప్రస్తుతం
+curtain 	 పరదా
+curve 	 వంకర
+curved 	 వంకర
+custom 	 ఆచారం
+customer 	 ఖాతాదారుడు
+customs 	 ఆచారాలు
+cut 	 కత్తిరించు
+cut back 	 కట్ బ్యాక్
+cut down 	 తగ్గించండి
+cut off 	 కట్ చేయబడింది
+cut out 	 కట్ చేయండి
+cut up 	 కట్ చేయండి
+cycle 	 సైకిలు
+cycling 	 సైక్లింగ్
+dad 	 నాన్న
+daily 	 రోజువారీ
+damage 	 హాని
+damp 	 చెమ్మ
+dance 	 నాట్యం
+dancer 	 నర్తకి
+dancing 	 నృత్యం
+danger 	 అపాయం
+dangerous 	 ప్రమాదకరమైన
+dare 	 తెగించు
+dark 	 చీకటి
+data 	 డేటా
+date 	 ఖర్జూరం
+date back 	 తేదీ తిరిగి
+daughter 	 కూతురు
+day 	 రోజు
+dead 	 చచ్చిన
+deaf 	 చెవిటి
+deal 	 వ్యవహారం
+deal in 	 డీల్ ఇన్
+deal with 	 డీల్ చేయండి
+dear 	 ప్రియమైన
+death 	 చావు
+debate 	 చర్చ
+debt 	 అప్పు
+decade 	 దశాబ్దం
+decay 	 క్షయం
+December 	 డిసెంబర్
+decide 	 నిర్ణయించు
+decide on 	 నిర్ణయించండి
+decision 	 నిర్ధారణ
+declare 	 చాటించు
+decline 	 పతనమగు
+decorate 	 అలంకరించు
+decoration 	 అలంకరణ
+decorative 	 అలంకరణ
+decrease 	 తగ్గుదల
+deep 	 లోతు
+deeply 	 లోతుగా
+defeat 	 ఓటమి
+defence 	 రక్షణ
+defend 	 రక్షించు
+define 	 నిర్వచించు
+definite 	 ఇదమిత్థం
+definitely 	 కచ్చితంగా
+definition 	 నిర్వచనం
+degree 	 డిగ్రీ
+delay 	 ఆలస్యం
+deliberate 	 ఆలోచించు
+deliberately 	 కావాలని
+delicate 	 సుకుమారమైన
+delight 	 సంతోషం
+delighted 	 సంతోషం
+deliver 	 అందించు
+delivery 	 అప్పగింత
+demand 	 కోరు
+demonstrate 	 నిరూపించు
+dentist 	 దంతవైద్యుడు
+deny 	 కాదను
+department 	 విభాగం
+departure 	 వెళ్లిపోవడం
+depend 	 ఆధారపడు
+depend on 	 వీటిపై ఆధారపడతారు
+deposit 	 ధరావత్తు
+depress 	 depress
+depressed 	 దళిత
+depressing 	 నిరుత్సాహం
+depth 	 లోతు
+derive 	 తెప్పించు
+derive from 	 దీని నుండి ఉద్భవించింది
+describe 	 వర్ణించు
+description 	 వర్ణన
+desert 	 ఎడారి
+deserted 	 నిర్మానుష్యంగా ఉంది
+deserve 	 అర్హత ఉంది
+design 	 డిజైన్
+desire 	 అభిలాష
+desk 	 బల్ల
+desperate 	 నిరాశ
+desperately 	 నిస్సహాయంగా
+despite 	 అయినప్పటికీ
+destroy 	 చెడగొట్టు
+destruction 	 నష్టము
+detail 	 వివరం
+detailed 	 సవిస్తరంగా
+determination 	 అభినివేశం
+determine 	 నిర్ణయించు
+determined 	 పట్టు వదలని
+develop 	 వికసించు
+development 	 అభివృద్ధి
+device 	 కిటుకు
+devote 	 భక్తుడు
+devoted 	 అర్పించబడ్డ
+devote to 	 దేనికి అంకితం
+diagram 	 పటం
+diamond 	 వజ్రం
+diary 	 దినచర్య
+dictionary 	 నిఘంటువు
+die 	 పాచిక
+die away 	 చావు దూరంగా
+die out 	 die out
+diet 	 ఆహారం
+difference 	 తేడా
+different 	 వేరు
+differently 	 విభిన్నంగా
+difficult 	 కష్టమైన
+difficulty 	 కష్టం
+dig 	 తవ్వు
+digital 	 డిజిటల్
+dinner 	 డిన్నర్
+direct 	 సరాసరి
+direction 	 దిశ
+directly 	 తక్షణము
+director 	 దర్శకుడు
+dirt 	 మురికి
+dirty 	 మురికైన
+disabled 	 వికలాంగులు
+disadvantage 	 ప్రతికూల
+disagree 	 అంగీకరించరు
+disagreement 	 అసమ్మతి
+disagree with doing 	 చేయడానికి అంగీకరించడం లేదు
+disappear 	 అదృశ్యం
+disappoint 	 భంగపరచు
+disappointed 	 నిరాశ చెందింది
+disappointing 	 నిరాశపరిచింది
+disappointment 	 ఆశాభంగం
+disapproval 	 అసమ్మతి
+disapprove 	 disapprove
+disapproving 	 తిరస్కరించడం
+disaster 	 చేటు
+disc 	 డిస్క్
+discipline 	 క్రమ శిక్షణ
+discount 	 ముదరా
+discover 	 కనిపెట్టు
+discovery 	 కనుక్కోవడం
+discuss 	 చర్చించు
+discussion 	 చర్చ
+disease 	 జబ్బు
+disgust 	 అసహ్యం
+disgusted 	 అసహ్యం
+disgusting 	 అసహ్యకరమైన
+dish 	 వంటకం
+dishonest 	 Dishonest
+dishonestly 	 నిజాయితీగా
+disk 	 డిస్క్
+dislike 	 అనిష్టత
+dismiss 	 తొలగించు
+display 	 చూపించు
+dissolve 	 కరగించు
+distance 	 దూరం
+distinguish 	 తేడా చూపు
+distribute 	 పంచు
+distribution 	 పంచుకోవడం
+district 	 జిల్లా
+disturb 	 డిస్టర్బ్
+disturbing 	 కలవరపెడుతోంది
+divide 	 విభజించు
+division 	 ముక్కలు
+divorce 	 విడాకులు
+divorced 	 విడాకులు తీసుకున్నారు
+do 1 	 చేయండి 1
+doctor 	 వైద్యుడు
+document 	 దస్తావేజు
+dog 	 కుక్క
+dollar 	 డాలర్
+domestic 	 పెంపుడు
+dominate 	 ఆధిపత్యం
+door 	 తలుపు
+dot 	 చుక్క
+double 	 రెట్టింపు
+doubt 	 శంక
+do up 	 చేయండి
+do with 	 దీనితో చేయండి
+do without 	 లేకుండా చేయండి
+down 	 కింద
+downstairs 	 కిందకు
+downward 	 దింపుడు
+downwards 	 దిగువకు
+dozen 	 డజను
+draft 	 ముసాయిదా
+drag 	 లాగు
+drama 	 నాటకం
+dramatic 	 నాటకీయం
+dramatically 	 నాటకీయంగా
+draw 	 గీయు
+drawer 	 సొరుగు
+drawing 	 చిత్ర పటం
+dream 	 కల
+dress 	 దుస్తులు
+dressed 	 ముస్తాబవు
+dress up 	 దుస్తులు ధరించండి
+drink 	 తాగు
+drive 	 నడుపు
+drive away 	 దూరంగా వెళ్లండి
+drive off 	 డ్రైవ్ ఆఫ్ చేయండి
+driver 	 చోదకుడు
+driving 	 డ్రైవింగ్
+drop 	 బొట్టు
+drop out 	 డ్రాప్ అవుట్
+drug 	 మందు
+drugstore 	 మందుల దుకాణం
+drum 	 డోలు
+drunk 	 ఉన్మత్త
+dry 	 ఎండు
+dry off 	 ఎండిపోండి
+dry up 	 ఎండు
+due 	 కట్టవలసిన
+dull 	 కండరాల నొప్పితో ఇబ్బంది పడుతున్నాను
+dump 	 కుమ్మరించు
+during 	 అప్పుడు
+dust 	 దుమ్ము
+duty 	 కర్తవ్యం
+DVD 	 DVD
+dying 	 చనిపోవడం
+each 	 ప్రతి
+each other 	 ఒకరికొకరు
+ear 	 చెవి
+early 	 పెందరాళే
+earn 	 సంపాదించు
+earth 	 భూమి
+ease 	 అవలీల
+easily 	 చులాగ్గా
+east 	 తూర్పు
+eastern 	 ప్రాచీన
+easy 	 అనుకూలమైన
+eat 	 తిను
+eat out 	 బయట తినండి
+eat up 	 తినండి
+economic 	 ఆర్థిక
+economy 	 పొదుపు
+edge 	 అంచు
+edition 	 కూర్పు
+editor 	 సంపాదకుడు
+educate 	 తెలియజెప్పు
+educated 	 విద్యావంతులు
+education 	 విద్య
+effect 	 ప్రభావం
+effective 	 ప్రభావవంతంగా ఉంటుంది
+effectively 	 సమర్థవంతంగా
+efficient 	 సమర్థవంతంగా
+efficiently 	 సమర్థవంతంగా
+effort 	 ప్రయత్నం
+e.g. 	 ఉదా:
+egg 	 గుడ్డు
+eight 	 ఎనిమిది
+eighteen 	 పద్దెనిమిది
+eighteenth 	 అష్టాదశ
+eighth 	 ఎనిమిదవ
+eightieth 	 ఎనభైవ స్థానం
+eighty 	 ఎనభై
+either 	 లేదా
+elbow 	 మోచేయి
+elderly 	 వృద్ధులు
+elect 	 ఎంపిక చేయండి
+election 	 ఎన్నిక
+electric 	 విద్యుత్
+electrical 	 ఎలక్ట్రికల్
+electricity 	 విద్యుత్తు
+electronic 	 ఎలక్ట్రానిక్
+elegant 	 సొంపైన
+element 	 భూతం
+elevator 	 లిఫ్ట్
+eleven 	 పదకొండు
+eleventh 	 పదకొండో
+else 	 లేకపోతే
+elsewhere 	 మరెక్కడా
+email 	 ఇమెయిల్
+embarrass 	 ఇబ్బంది పడుతున్నారు
+embarrassed 	 సిగ్గుగా ఉంది
+embarrassing 	 ఇబ్బందికరంగా ఉంది
+embarrassment 	 చిరాకు
+emerge 	 బయటపడు
+emergency 	 అత్యవసర
+emotion 	 ఉద్రేకం
+emotional 	 భావోద్వేగం
+emotionally 	 భావోద్వేగపరంగా
+emphasis 	 ఉద్ఘాటన
+emphasize 	 నొక్కి పలుకు
+empire 	 సామ్రాజ్యం
+employ 	 ఉపాధి
+employee 	 ఉద్యోగి
+employer 	 యజమాని
+employment 	 పని
+empty 	 ఖాళీ
+enable 	 ఎనేబుల్
+encounter 	 కలుసుకొను
+encourage 	 ప్రోత్సహించు
+encouragement 	 ప్రోత్సాహం
+end 	 ముగించు
+end in 	 దీనితో ముగుస్తుంది
+ending 	 ముగింపు
+end up 	 ముగుస్తుంది
+enemy 	 శత్రువు
+energy 	 శక్తి
+engage 	 నిమగ్నం
+engaged 	 నిశ్చితార్థం
+engine 	 ఇంజను
+engineer 	 యంత్రకారుడు
+engineering 	 ఇంజనీరింగ్
+enjoy 	 అనుభవించు
+enjoyable 	 ఆహ్లాదకరంగా ఉంటుంది
+enjoyment 	 వినోదం
+enormous 	 అపారమైన
+enough 	 సరి అయిన
+enquiry 	 విచారణ
+ensure 	 నిర్ధారించుకోండి
+enter 	 దూరు
+entertain 	 పెట్టుకో
+entertainer 	 ఎంటర్ టైనర్
+entertaining 	 వినోదాత్మకం
+entertainment 	 వినోదం
+enthusiasm 	 ఉత్సాహం
+enthusiastic 	 పరమానందం
+enthusiastically 	 ఉత్సాహంగా
+entire 	 పూర్తి
+entirely 	 పూర్తిగా
+entitle 	 entitle
+entrance 1 	 ప్రవేశము 1
+entry 	 ఆరోపం
+envelope 	 కవరు
+environment 	 పర్యావరణం
+environmental 	 పర్యావరణం
+equal 	 సాటి
+equally 	 సరిసమానంగా
+equipment 	 సరంజామా
+equivalent 	 సమానము
+error 	 పొరపాటు
+escape 	 తప్పించు
+especially 	 విశేషించి
+essay 	 వ్యాసం
+essential 	 అవసరమైన
+essentially 	 తప్పనిసరిగా
+establish 	 నిర్ధారించు
+estate 	 ఆస్తి
+estimate 	 అంచనా
+etc. 	 కంకి.
+euro 	 యూరో
+even 	 సరి
+evening 	 సాయంత్రం
+event 	 కార్యక్రమం
+eventually 	 నిలకడమీద
+ever 	 నిత్యం
+every 	 ప్రతి
+everybody 	 అందరూ
+everyone 	 ప్రతి ఒక్కరు
+everything 	 అంతా
+everywhere 	 ప్రతిచోటా
+evidence 	 సాక్ష్యం
+evil 	 కీడు
+ex- 	 మాజీ-
+exact 	 ఖచ్చితమైన
+exactly 	 కచ్చితంగా
+exaggerate 	 అతిశయోక్తి
+exaggerated 	 అతిశయోక్తి
+exam 	 పరీక్ష
+examination 	 పరీక్ష
+examine 	 పరికించు
+example 	 ఉదాహరణ
+excellent 	 ఉత్తమ
+except 	 తక్కిన
+exception 	 మినహాయింపు
+exchange 	 మార్చు
+excite 	 రేపు
+excited 	 ఉద్విగ్న
+excitement 	 ఉత్తేజం
+exciting 	 ఉత్తేజకరమైనది
+exclude 	 మినహాయించు
+excluding 	 మినహాయించి..
+excuse 	 క్షమించు
+executive 	 ఎగ్జిక్యూటివ్
+exercise 	 వ్యాయామం
+exhibit 	 ప్రదర్శించు
+exhibition 	 చూపడం
+exist 	 జీవించు
+existence 	 ఉనికి
+exit 	 నిష్క్రమణ
+expand 	 సాగదియ్యి
+expect 	 ఎదురుచూచు
+expectation 	 సగటు
+expected 	 ఆశించబడింది
+expense 	 వ్యయము
+expensive 	 విలువైన
+experience 	 అనుభవించు
+experienced 	 చెందు
+experiment 	 ప్రయోగం
+expert 	 నిపుణుడు
+explain 	 వివరించు
+explanation 	 వివరణ
+explode 	 పేలు
+explore 	 అన్వేషించండి
+explosion 	 పేలుడు
+export 	 ఎగుమతి
+expose 	 బయట పెట్టు
+express 	 వ్యక్తపరచు
+expression 	 ఉక్తి
+extend 	 పొడిగించు
+extension 	 విస్తరించడం
+extensive 	 విరివి
+extent 	 విస్తారం
+extra 	 అదనం
+extraordinary 	 అసాధారణం
+extreme 	 పరమ
+extremely 	 చాలా
+eye 	 కన్ను
+face 	 ముఖం
+face up to 	 ముఖం పైకి
+facility 	 సౌలభ్యం
+fact 	 వాస్తవం
+factor 	 కారణం
+factory 	 కర్మాగారం
+fail 	 విఫలమవ్వు
+failure 	 ఓడు
+faint 	 మూర్ఛ
+faintly 	 మూర్ఛగా
+fair 	 సంత
+fairly 	 న్యాయంగా
+faith 	 భక్తి
+faithful 	 నమ్మకమైన
+faithfully 	 నమ్మకంగా
+fall 	 పడు
+false 	 తప్పు
+fame 	 ఖ్యాతి
+familiar 	 సుపరిచితం
+family 	 సంసారం
+famous 	 ప్రశస్త
+fan 	 పంఖా
+fancy 	 భ్రమ
+far 	 దూరం
+farm 	 తోట
+farmer 	 కాపు
+farming 	 వ్యవసాయం
+farther 	 మరింత దూరం
+farthest 	 farthest
+fashion 	 శోకు
+fashionable 	 ఫ్యాషన్
+fast 	 వేగవంతమైన
+fasten 	 బిగించు
+fat 	 కొవ్వు
+father 	 తండ్రి
+faucet 	 faucet
+fault 	 తప్పిదం
+favour 	 కరుణించు
+favourite 	 ఫేవరెట్
+fear 	 బెదురు
+feather 	 ఈక
+feature 	 అలవాటు
+February 	 ఫిబ్రవరి
+federal 	 ఫెడరల్
+fee 	 ఫీజు
+feed 	 తినిపించు
+feel 	 అనుభూతి
+feeling 	 అనుభూతి
+fellow 	 నేస్తం
+female 	 ఆడ
+fence 	 దడి
+festival 	 పండుగ
+fetch 	 సంపాదించండి
+fever 	 జ్వరం
+few 	 కొద్ది
+field 	 చేను
+fifteen 	 పదిహేను
+fifteenth 	 పదిహేనవది
+fifth 	 అయిదవ
+fiftieth 	 fiftieth
+fifty 	 యాభై
+fight 	 పోరాటం
+fighting 	 పోరాటం
+figure 	 ఆకృతి
+figure out 	 గుర్తించండి
+file 	 ఆకురాయి
+fill 	 నింపు
+fill in 	 నింపండి
+fill out 	 లావు కావడం
+fill up 	 పూడ్చు
+film 	 చలన చిత్రం
+final 	 కడపటి
+finally 	 కట్టకడకు
+finance 	 మూలధనం
+financial 	 ఆర్థిక
+find 	 కనుగొనండి
+find out 	 కనుగొనండి
+fine 	 సన్నని
+finely 	 చక్కగా
+finger 	 వేలు
+finish 	 పూర్తిచేయు
+finished 	 పూర్తయింది
+finish off 	 ముగించండి
+fire 	 మంటలు
+firm 	 గట్టిగా
+firmly 	 దృఢంగా
+first 	 తొలి
+fish 	 చేప
+fishing 	 చేపలు పట్టడం
+fit 	 కుదుర్చు
+fit in 	 ఫిట్ ఇన్
+five 	 ఐదు
+fix 	 నాటుకో
+fixed 	 స్థిరమైన
+flag 	 జెండా
+flame 	 జ్వాల
+flash 	 తళుక్కుమను
+flat 	 చదును
+flavour 	 రుచి
+flesh 	 కండ
+flight 	 పలాయనం
+float 	 తేలు
+flood 	 వరద
+flooded 	 వరదలు ముంచెత్తాయి
+flooding 	 వరదలు[మార్చు]
+floor 	 నేల
+flour 	 పిండి
+flow 	 ప్రవహించు
+flower 	 పువ్వు
+flu 	 ఫ్లూ
+fly 	 ఈగ
+flying 	 ఎగరడం
+focus 	 కేంద్రీకరించు
+fold 	 మడత
+folding 	 ఫోల్డింగ్
+follow 	 వెంబడించు
+following 	 ఈ క్రిందివి
+follow up 	 అనుసరణ
+food 	 ఆహారం
+foot 	 పాదం
+football 	 ఫుట్ బాల్
+for 	 కొరకు
+force 	 బలం
+forecast 	 భావిసూచన
+foreign 	 విదేశీ
+forest 	 అడవి
+forever 	 ఎప్పటికీ
+forget 	 మరిచిపో
+forgive 	 క్షమించు
+fork 	 fork
+form 	 ఏర్పడు
+formal 	 సాంప్రదాయిక
+formally 	 లాంఛనంగా
+former 	 తొలి
+formerly 	 గతంలో
+formula 	 నియమం
+fortieth 	 నలభైవ
+fortune 	 తలరాత
+forty 	 నలభై
+forward 	 పంపు
+found 	 దొరికింది
+foundation 	 పునాది
+four 	 నాలుగు
+fourteen 	 పద్నాలుగు
+fourteenth 	 పద్నాలుగువది
+fourth 	 నాలుగవ
+frame 	 చట్రం
+free 	 ఉచిత
+freedom 	 స్వేచ్ఛ
+freely 	 స్వేచ్ఛగా
+freeze 	 గడ్డకట్టు
+frequent 	 తరచు
+frequently 	 తరచుగా
+fresh 	 తాజా
+freshly 	 తాజాగా
+Friday 	 శుక్రవారం
+fridge 	 ఫ్రిజ్
+friend 	 స్నేహితుడు
+friendly 	 స్నేహపూర్వక
+friendship 	 స్నేహం
+frighten 	 భయపెట్టు
+frighten away/off 	 భయపెట్టండి/ఆఫ్ చేయండి
+frightened 	 భయం
+frightening 	 భయానక
+from 	 నుండి
+front 	 ముందు
+frozen 	 గడ్డకట్టిన
+fruit 	 ఫలం
+fry 	 వేపు
+fuel 	 ఇంధనం
+full 	 పూర్తి
+fully 	 సంపూర్ణంగా
+fun 	 తమాషా
+function 	 ప్రమేయం
+function as 	 ఈ విధంగా పనిచేస్తుంది
+fund 	 నిధి
+fundamental 	 మౌలిక
+funeral 	 అంత్యక్రియలు[మార్చు]
+funny 	 తమాషా
+fur 	 బొచ్చు
+furniture 	 ఫర్నిచర్
+further 	 అవతలి
+future 	 భవిష్యత్తు
+gain 	 పొందు
+gallon 	 గాలన్
+gamble 	 జూదం
+gambling 	 జూదం
+game 	 ఆట
+gap 	 పగులు
+garage 	 గ్యారేజీ
+garbage 	 చెత్త
+garden 	 తోట
+gas 	 వాయువు
+gasoline 	 గ్యాసోలిన్
+gate 	 ద్వారం
+gather 	 సేకరించు
+gear 	 గేర్
+general 	 సాధారణం
+generally 	 మామూలుగా
+generate 	 పుట్టించు
+generation 	 తరం
+generous 	 ఉదారంగా
+generously 	 ఉదారంగా
+gentle 	 నింపాది
+gentleman 	 మర్యాదస్తుడు
+gently 	 అల్లన
+genuine 	 అసలు
+genuinely 	 నిజంగా
+geography 	 భూగోళ శాస్త్రం
+get 	 తెచ్చుకో
+get away 	 బయటపడు
+get away with 	 దీనితో తప్పించుకోండి
+get back 	 తిరిగి పొందండి
+get by 	 పొందండి
+get in 	 లోపలకు రండి
+get into 	 లోపలికి ప్రవేశించండి
+get off 	 వెళ్ళిపో
+get on 	 ఆన్ అవ్వండి
+get on with 	 దీనితో ముందుకు సాగండి
+get out of 	 బయటకు రండి
+get over 	 ముగియండి
+get round 	 గుండ్రంగా ఉండండి
+get round to 	 రౌండ్ కు వెళ్లండి
+get through 	 పూర్తి చేయండి
+get up 	 నిలబడు
+giant 	 అసమానుడు
+gift 	 కానుక
+girl 	 అమ్మాయి
+girlfriend 	 స్నేహితురాలు
+give 	 ఇవ్వు
+give away 	 ఇచ్చివేయడం
+give back 	 తిరిగి ఇవ్వండి
+give in 	 ఇవ్వండి
+give off 	 ఇవ్వండి
+give out 	 ఇవ్వండి
+give up 	 త్యజించు
+glad 	 సంతోషం
+glass 	 గ్లాసు
+global 	 గ్లోబల్
+glove 	 glove
+glue 	 బంక
+go 	 వెళ్ళు
+go ahead 	 ముందుకు వెళ్ళు
+goal 	 లక్ష్యం
+go away 	 దూరంగా వెళ్ళు
+go back 	 వెనక్కి వెళ్ళు
+go back to 	 తిరిగి వెళ్లండి
+go by 	 వెళ్ళండి
+god 	 దేవుడు
+go down 	 దిగు
+go into 	 లోపలికి వెళ్లండి
+gold 	 బంగారం
+good 	 యోగ్యమైన
+goodbye 	 వీడ్కోలు
+goods 	 సరుకులు
+go off 	 వెళ్లిపోండి
+go on 	 కొనసాగించు
+go on doing 	 చేస్తూనే ఉండండి
+go out 	 బయటకి వెళ్ళు
+go out with 	 బయటకు వెళ్లండి
+go over 	 వెళ్లండి
+go round 	 చుట్టూ తిరగండి
+go through 	 దాని గుండా వెళ్ళండి
+go through with 	 దీనితో ముందుకు సాగండి
+go to 	 వెళ్ళండి
+go up 	 పైకి వెళ్ళండి
+govern 	 పరిపాలించు
+government 	 ప్రభుత్వం
+governor 	 పాలకుడు
+go with 	 తోడుగా వెళ్ళు
+go without 	 లేకుండా వెళ్ళండి
+grab 	 grab
+grade 	 దర్జా
+gradual 	 క్రమంగా
+gradually 	 క్రమంగా
+grain 	 గింజ
+gram 	 గ్రాము
+grammar 	 వ్యాకరణం
+grand 	 గ్రాండ్
+grandchild 	 మనమరాలు
+granddaughter 	 మనుమరాలు
+grandfather 	 తాతయ్య
+grandmother 	 అమ్మమ్మ
+grandparent 	 తాత
+grandson 	 మనుమడు
+grant 	 దానం
+grass 	 గడ్డి
+grateful 	 కృతజ్ఞత
+grave 1 	 సమాధి 1
+gravely 	 గంభీరంగా
+great 	 గొప్ప
+greatly 	 గొప్పగా
+green 	 పచ్చ
+grey 	 బూడిదరంగు
+grocery 	 కిరాణా
+ground 	 నేల
+group 	 సమూహం
+grow 	 ఎదుగు
+growth 	 పెరుగుదల
+grow up 	 ఎదుగు
+guarantee 	 పూచీ
+guard 	 ఆదుకునేవాడు
+guess 	 ఊహించు
+guest 	 చుట్టపు
+guide 	 పర్యవేక్షకుడు
+guilty 	 దోషి
+gun 	 తుపాకి
+guy 	 అబ్బాయి
+habit 	 అలవాటు
+hair 	 వెంట్రుక
+hairdresser 	 హెయిర్ డ్రెస్సర్
+half 	 సగము
+hall 	 హాలు
+hammer 	 సుత్తి
+hand 	 చెయ్యి
+hand back 	 చేతిని వెనక్కి తిప్పండి
+hand down 	 చేతిని కిందకు దించండి
+hand in 	 చేతితో
+handle 	 పిడి
+hand out 	 చేతిని బయటకు తీయండి
+hand over 	 అందించు
+hand round 	 చేతి గుండ్రంగా
+hang 	 వేలాడు
+hang about 	 వేలాడదీయండి
+hang about with 	 వారితో కలిసి తిరగండి
+hang around 	 చుట్టూ తిరగండి
+hang around with 	 వారితో కలిసి తిరగండి
+hang on 	 వింటారు
+hang on to 	 వేలాడదీయండి
+hang up 	 వేలాడదీయండి
+happen 	 జరుగుతుంది
+happen to 	 ఇలా జరుగుతుంది
+happily 	 ఆనందంగా
+happiness 	 సంతోషం
+happy 	 ప్రశాంతం
+hard 	 గట్టి
+hardly 	 తక్కువగా
+harm 	 హాని
+harmful 	 హానికరమైన
+harmless 	 హానిచేయని
+hat 	 టోపీ
+hate 	 ద్వేషించు
+hatred 	 పగ
+have 	 కలిగినది
+have back 	 తిరిగి వచ్చాయి
+have on 	 ఉన్నాయి
+have to 	 ఉండాలి
+he 	 అతను
+head 	 తల
+headache 	 తలనొప్పి
+heal 	 మాను
+health 	 ఆరోగ్యం
+healthy 	 ఆరోగ్యకరమైన
+hear 	 విను
+hear from 	 దీని నుండి వినండి
+hearing 	 వినడం
+hear of 	 దాని గురించి వినండి
+heart 	 గుండె
+heat 	 వేడి
+heating 	 వేడెక్కడం
+heat up 	 వేడి చేయండి
+heaven 	 స్వర్గం
+heavily 	 భారీగా
+heavy 	 బరువైన
+heel 	 మడమ
+height 	 ఎత్తు
+hell 	 నరకం
+hello 	 హలో
+help 	 సహాయం చేయు
+helpful 	 సహాయభూత
+help out 	 సహాయం చేయండి
+hence 	 అందువల్ల
+her 	 ఆమెను
+here 	 ఇక్కడ
+hero 	 ధీరుడు
+hers 	 ఆమెది
+herself 	 స్వయంగా
+hesitate 	 జంకు
+hi 	 హాయ్
+hide 	 దాచు
+high 	 మిక్కిలి
+highlight 	 హైలైట్
+highly 	 ఎక్కువగా
+highway 	 రహదారి
+hill 	 గుట్ట
+him 	 అతనిని
+himself 	 తాను
+hip 	 తుంటి ఎముక
+hire 	 అద్దెకు తీసుకో
+hire out 	 అద్దెకు తీసుకోండి
+his 	 అతని
+historical 	 చారిత్రక
+history 	 చరిత్ర
+hit 	 తగులు
+hobby 	 అలవాటు
+hold 	 పట్టు
+hold back 	 వెనక్కి తగ్గండి
+hold on 	 ఆగు
+hold on to 	 పట్టుకోండి
+hold out 	 పట్టుకోండి
+hold up 	 పట్టుకొని ఉండు
+hole 	 కన్నం
+holiday 	 సెలవు
+hollow 	 తొర్ర
+holy 	 పవిత్రం
+home 	 ఉనికిపట్టు
+homework 	 ఇంటిపని
+honest 	 నిజాయితీ
+honestly 	 నిజాయితీగా
+honour 	 గౌరవం
+hook 	 తగిలించు
+hope 	 ఆశ
+horizontal 	 సమాంతరం
+horn 	 కొమ్ము
+horror 	 భయానకం
+horse 	 గుర్రం
+hospital 	 ఆసుపత్రి
+host 	 మూలకారకుడు
+hot 	 వేడి
+hotel 	 హోటల్
+hour 	 గంట
+house 	 ఇల్లు
+household 	 కుటుంబం
+housing 	 గృహనిర్మాణం
+how 	 ఎలా
+however 	 అయినా
+huge 	 బ్రహ్మాండమైన
+human 	 మనిషి
+humorous 	 హాస్యం
+humour 	 హాస్యం
+hundred 	 వంద
+hundredth 	 నూరవ
+hungry 	 ఆకలి
+hunt 	 వేట
+hunting 	 వేట
+hurry 	 తొందర పాటు
+hurry up 	 త్వరగా
+hurt 	 ఇబ్బంది పెట్టు
+husband 	 మొగుడు
+I 	 నేను
+ice 	 మంచు
+ice cream 	 ఐస్ క్రీమ్
+idea 	 ఉపాయం
+ideal 	 ఆదర్శ
+identify 	 గుర్తించు
+identify with 	 దీనితో గుర్తించండి
+identity 	 గుర్తింపు
+i.e. 	 అంటే.
+if 	 అయితే
+ignore 	 విస్మరించు
+ill 	 అనారోగ్యం
+illegal 	 చట్టవిరుద్ధం
+illegally 	 చట్టవిరుద్ధంగా
+illness 	 అనారోగ్యం
+illustrate 	 వివరించు
+image 	 విగ్రహం
+imaginary 	 ఊహాత్మక
+imagination 	 కల్పన
+imagine 	 ఊహించు
+immediate 	 తక్షణ
+immediately 	 వెంటనే
+immoral 	 అనైతిక
+impact 	 తాకిడి
+impatient 	 ఓర్పులేని
+implication 	 ఇరుక్కోవడం
+imply 	 సూచించండి
+import 	 దిగుమతి
+importance 	 ప్రాముఖ్యం
+important 	 ముఖ్యమైన
+importantly 	 ముఖ్యంగా
+impose 	 వేయు
+impossible 	 కుదరదు
+impress 	 ఆకట్టుకుంది
+impressed 	 ఆకట్టుకుంది
+impression 	 భావం
+impressive 	 ఆకట్టుకుంది
+improve 	 మెరుగుపరచు
+improvement 	 అభివృద్ధి
+in 	 లో
+inability 	 అశక్తత
+inch 	 అంగుళం
+incident 	 పని
+include 	 చేర్చు
+including 	 వీటితో సహా
+income 	 ఆదాయం
+increase 	 పెంచు
+increasingly 	 ఎక్కువగా
+indeed 	 నిజంగా
+independence 	 స్వతంత్రం
+independent 	 స్వతంత్ర
+independently 	 స్వతంత్రంగా
+index 	 ఇండెక్స్
+indicate 	 సూచించు
+indication 	 సూచన
+indirect 	 పరోక్ష
+indirectly 	 పరోక్షంగా
+individual 	 వ్యక్తి
+indoor 	 ఇండోర్
+indoors 	 ఇంట్లో
+industrial 	 పారిశ్రామిక
+industry 	 పరిశ్రమ
+inevitable 	 అనివార్యం
+inevitably 	 అనివార్యం
+infect 	 సోకుతుంది
+infected 	 సోకింది
+infection 	 సంక్రమణ
+infectious 	 అంటుకునే
+influence 	 ప్రభావము
+inform 	 తెలుపు
+informal 	 అనధికారిక
+information 	 సమాచారం
+ingredient 	 దినుసు
+initial 	 initial
+initially 	 ప్రారంభంలో
+initiative 	 చొరవ
+injure 	 గాయపరచు
+injured 	 గాయపడ్డాడు
+injury 	 గాయం
+ink 	 సిరా
+inner 	 లో
+innocent 	 innocent
+insect 	 పురుగు
+insert 	 చొప్పించు
+inside 	 లోపల
+insist 	 పట్టుబట్టు
+insist on 	 పట్టుబట్టండి
+insist on doing 	 చేయమని పట్టుబట్టండి
+install 	 ఇన్ స్టాల్ చేయండి
+instance 	 ఉదాహరించు
+instead 	 బదులుగా
+instead of 	 బదులుగా
+institute 	 సంస్థ
+institution 	 సంస్థ
+instruction 	 బోధన
+instrument 	 పనిముట్టు
+insult 	 అవమానం
+insulting 	 అవమానకరంగా..
+insurance 	 బీమా
+intelligence 	 తెలివి
+intelligent 	 తెలివైన
+intend 	 ఉద్దేశం
+intended 	 ఉద్దేశించబడింది
+intention 	 ఉద్దేశం
+interest 	 ఆసక్తి
+interested 	 ఆసక్తిగా ఉంది
+interesting 	 ఆసక్తికరమైన
+interior 	 లోపలి
+internal 	 ఆంతరంగిక
+international 	 అంతర్జాతీయ
+Internet 	 ఇంటర్నెట్
+interpret 	 అనువదించు
+interpretation 	 వివరణ[మార్చు]
+interrupt 	 అడ్డుపడు
+interruption 	 అంతరాయం
+interval 	 సందు
+interview 	 ఎదురు బదురుగా ఉండి
+into 	 లోనికి
+introduce 	 ప్రవేశ పెట్టు
+introduction 	 పరిచయం
+invent 	 కనుగొను
+invention 	 ఆవిష్కరణ
+invest 	 ఇన్వెస్ట్ చేయండి
+investigate 	 పరిశీలించు
+investigation 	 విచారణ
+investment 	 పెట్టుబడి
+invitation 	 పిలుపు
+invite 	 ఆహ్వానించు
+involve 	 పాల్గొనండి
+involved 	 నిమగ్నమయ్యారు
+involvement 	 ప్రమేయం
+iron 	 ఇనుము
+irritate 	 చిరాకు
+irritated 	 చిరాకుగా ఉంది
+irritating 	 చిరాకు కలిగిస్తుంది
+island 	 ద్వీపం
+issue 	 జారీచేయు
+it 	 ఇది
+item 	 అంశం
+its 	 ఇది
+itself 	 స్వయంగా
+jacket 	 చొక్కా
+jam 	 తాండ్ర
+January 	 జనవరి
+jealous 	 అసూయ
+jeans 	 జీన్స్
+jelly 	 జిగురు
+jewellery 	 ఆభరణాలు
+job 	 ఉద్యోగం
+join 	 జతకూర్చు
+join in 	 చేరండి
+joint 	 కీలు
+jointly 	 సంయుక్తంగా
+joke 	 హాస్యోక్తి
+journalist 	 విలేఖరి
+journey 	 ప్రయాణం
+joy 	 సంతోషం
+judge 	 న్యాయమూర్తి
+judgement 	 తీర్పు
+juice 	 రసం
+July 	 జులై
+jump 	 దుముకు
+June 	 జూన్
+junior 	 జూనియర్
+just 	 ఇప్పుడే
+justice 	 న్యాయమూర్తి
+justified 	 సమర్థించబడింది
+justify 	 సమర్థించండి
+keen 	 ఆసక్తిగా ఉంది
+keep 	 ఉంచు
+keep out 	 దూరంగా ఉండండి
+keep out of 	 దూరంగా ఉండండి
+keep up 	 కొనసాగించండి
+keep up with 	 కొనసాగించండి
+key 	 తాళంచెవి
+keyboard 	 కీబోర్డు
+kick 	 తన్ను
+kid 	 మేకపిల్ల
+kill 	 చంపు
+killing 	 చంపడం
+kilogram 	 కిలోగ్రామ్
+kilometre 	 కి.మీ
+kind 	 జాతి
+kindly 	 దయతో
+kindness 	 నమ్మకం
+king 	 రాజు
+kiss 	 ముద్దు
+kitchen 	 వంటగది
+knee 	 మోకాలు
+knife 	 కత్తి
+knit 	 అల్లు
+knitted 	 knitted
+knitting 	 అల్లడం
+knock 	 తట్టు
+knock down 	 కూల్చు
+knock out 	 నాకౌట్
+knot 	 ముడి
+know 	 ఎరుగు
+knowledge 	 జ్ఞానం
+lab 	 ప్రయోగశాల
+label 	 ఉల్లాకు
+laboratory 	 ప్రయోగశాల
+labour 	 కూలీ
+lack 	 కొరత
+lacking 	 లేకపోవడం
+lady 	 దొరసాని
+lake 	 సరస్సు
+lamp 	 దీపం
+land 	 దించు
+landscape 	 ల్యాండ్ స్కేప్
+lane 	 గల్లీ
+language 	 భాష
+large 	 పెద్ద
+largely 	 ఎక్కువగా
+last 1 	 చివరి 1
+late 	 ఆలస్యంగా
+later 	 తరవాత
+latest 	 సరికొత్త
+latter 	 రెండవది
+laugh 	 నవ్వు
+laugh at 	 నవ్వండి
+launch 	 లాంచ్
+law 	 దానం
+lawyer 	 న్యాయవాది
+lay 	 పడుకో
+layer 	 పొర
+lazy 	 సోమరి
+lead 1 	 లీడ్ 1
+leader 	 నాయకుడు
+leading 1 	 లీడింగ్ 1
+leaf 	 ఆకు
+league 	 కూటమి
+lean 	 చిక్కిన
+learn 	 నేర్చుకో
+least 	 కనిష్ఠ
+leather 	 తోలు
+leave 	 సెలవు
+leave out 	 వదిలేయండి
+lecture 	 ఉపన్యాసం
+left 	 ఎడమవైపు
+leg 	 కాలు
+legal 	 చట్టబద్ధ
+legally 	 చట్టపరంగా
+lemon 	 నిమ్మ
+lend 	 అప్పిచ్చు
+length 	 పొడవు
+less 	 తక్కువ
+lesson 	 పాఠం
+let 	 అనుమతించండి
+let down 	 విడిచిపెట్టండి
+let off 	 విడిచిపెట్టండి
+letter 	 ఉత్తరం
+level 	 చదును
+library 	 గ్రంథాలయం
+licence 	 లైసెన్స్
+license 	 లైసెన్స్
+lid 	 మూత
+lie 1 	 అబద్ధం 1
+lie 2 	 అబద్ధం 2
+lie around 	 చుట్టూ పడుకోండి
+lie down 	 పరుండు
+life 	 ప్రాణం
+lift 	 ఎత్తడం
+light 	 కాంతి
+lightly 	 తేలికగా
+like 	 వంటి
+likely 	 అవకాశం ఉంది
+limit 	 సరిహద్దు
+limited 	 మిత
+limit to 	 లిమిట్ వీటికి
+line 	 గీత
+link 	 లంకె
+lip 	 పెదవి
+liquid 	 ద్రవం
+list 	 జాబితా
+listen 	 విను
+literature 	 సాహిత్యం
+litre 	 లీటరు
+little 	 కొంచెం
+live 1 	 లైవ్ 1
+live 2 	 live 2
+lively 	 లైవ్లీ
+live on 	 లైవ్ ఆన్
+live through 	 లైవ్ ద్వారా
+live together 	 కలిసి జీవించడం
+living 	 ఉండటం
+load 	 బరువు
+loan 	 అప్పు
+local 	 దేశవాళీ
+locally 	 స్థానికంగా
+locate 	 పెట్టు
+located 	 ఎక్కడ ఉంది
+location 	 స్థానము
+lock 	 తాళం
+lock up 	 లాక్ అప్ చేయండి
+logic 	 తర్కం
+logical 	 తార్కిక
+lonely 	 ఒంటరిగా ఉండటం
+long 	 పొడవైన
+look 	 చూపు
+look after 	 సంరక్షణ
+look at 	 చూడండి
+look down on 	 కిందకు చూడండి
+look forward to 	 ఎదురు చూస్తున్నా
+look into 	 పరిశీలించండి
+look on 	 చూడండి
+look on with 	 వీటితో చూడండి
+look out 	 జాగ్రత్త
+look out for 	 దీని కోసం చూడండి
+look round 	 గుండ్రంగా చూడండి
+look through 	 చూడు
+look up 	 పైకి చూడండి
+look up to 	 పైకి చూడండి
+loose 	 వదులు
+loosely 	 వదులుగా
+lord 	 ప్రభువు
+lorry 	 లారీ
+lose 	 కోల్పోవు
+loss 	 నష్టం
+lost 	 పోయింది
+lot 	 ఎంతో
+loud 	 బిగ్గరగా
+loudly 	 బిగ్గరగా
+love 	 ప్రేమ
+lovely 	 అందంగా ఉంది
+lover 	 ప్రియురాలు
+low 	 చవక
+loyal 	 నమ్మకమైన
+luck 	 అదృష్టం
+lucky 	 అదృష్టం
+luggage 	 సామాను
+lump 	 సహించు
+lunch 	 లంచ్
+lung 	 ఊపిరితిత్తి
+machine 	 యంత్రం
+machinery 	 యంత్రాంగం
+mad 	 పిచ్చి
+magazine 	 పత్రిక
+magic 	 ఇంద్రజాలం
+mail 	 టపా
+main 	 ముఖ్యమైన
+mainly 	 ప్రధానంగా
+maintain 	 కొనసాగించు
+major 	 ప్రధాన
+majority 	 మెజారిటీ
+make 	 సృష్టించు
+make into 	 తయారు చేయండి
+make up 	 మేకప్ చేసుకోండి
+make-up 	 మేకప్
+make up for 	 దీనిని భర్తీ చేయండి
+male 	 మగ
+mall 	 మాల్
+man 	 మనిషి
+manage 	 నిర్వహించు
+management 	 యాజమాన్యం
+manager 	 నిర్వాహకుడు
+manner 	 ప్రవర్తన
+manufacture 	 తయారీ
+manufacturer 	 తయారీదారు
+manufacturing 	 తయారీ
+many 	 అనేక
+map 	 పటం
+march 	 మార్చి
+March 	 మార్చి
+mark 	 గుర్తు
+market 	 సంత
+marketing 	 మార్కెటింగ్
+marriage 	 వివాహం
+married 	 పెళ్ళైన
+marry 	 చేపట్టు
+mass 	 ముద్ద
+massive 	 భారీ
+master 	 పంతులు
+match 	 అగ్గిపుల్ల
+matching 	 సరిపోలడం
+match up 	 మ్యాచ్ అప్
+mate 	 సహవాసి
+material 	 ముఖ్యమైన
+mathematics 	 గణితం
+matter 	 విషయం
+maximum 	 గరిష్ఠం
+may 	 మే
+May 	 మే
+maybe 	 కావచ్చు
+mayor 	 మేయర్
+me 	 నాకు
+meal 	 అన్నం ఆరగింపు
+mean 	 సగటు
+meaning 	 అర్థం
+means 	 మార్గం
+meanwhile 	 అంతలో
+measure 	 కొలత
+measurement 	 కొలత[మార్చు]
+meat 	 మాంసం
+media 	 మీడియా
+medical 	 మెడికల్
+medicine 	 మందు
+medium 	 ఒక మోస్తరు
+meet 	 కలుసుకో
+meeting 	 సమావేశం
+meet up 	 కలవండి
+meet with 	 కలవండి
+melt 	 మెత్తబడు
+member 	 మెంబర్
+membership 	 సభ్యత్వం
+memory 	 జ్ఞాపకం
+mental 	 మానస
+mentally 	 మానసికంగా
+mention 	 ఉదాహరించు
+menu 	 మెనూ
+mere 	 ఉత్త
+merely 	 కేవలం
+mess 	 గందరగోళం
+message 	 సందేశం
+metal 	 లోహం
+method 	 రీతి
+metre 	 మీటరు
+mid- 	 మధ్య-
+midday 	 మధ్యాహ్నము
+middle 	 నడుమ
+midnight 	 అర్ధరాత్రి
+might 	 బలాత్కారం
+mild 	 ఏదో కొంచెం నొప్పిగా ఉంది
+mile 	 మైలు
+military 	 మిలిటరీ
+milk 	 పాలు
+milligram 	 మిల్లీగ్రామ్
+millimetre 	 మిల్లీమీటరు
+million 	 పది లక్షలు
+millionth 	 మిలియన్ వ వంతు
+mind 	 బుద్ధి
+mine 	 నాది
+mineral 	 ఖనిజం
+minimum 	 కనిష్టం
+minister 	 మంత్రి
+ministry 	 మంత్రిత్వ శాఖ
+minor 	 మైనర్
+minority 	 మైనారిటీ
+minute 1 	 నిమిషం 1
+mirror 	 అద్దం
+miss 	 మిస్
+missing 	 తప్పిపోయిన
+miss out 	 మిస్ అవుట్
+mistake 	 పొరపాటు
+mistake for 	 తప్పు దేనికి
+mistaken 	 తప్పు
+mix 	 కలుపు
+mixed 	 కలిపిన
+mixture 	 మిశ్రమం
+mix up 	 మిక్స్ చేయండి
+mobile 	 గతిశీల
+mobile phone 	 చరవాణి
+model 	 నమూనా
+modern 	 ఆధునిక
+mom 	 అమ్మ
+moment 	 క్షణం
+Monday 	 సోమవారం
+money 	 డబ్బు
+monitor 	 పర్యవేక్షించు
+month 	 నెల
+mood 	 మానసిక స్థితి
+moon 	 చంద్రుడు
+moral 	 నీతి
+morally 	 నైతికంగా
+more 	 ఎక్కువ
+moreover 	 పైగా
+morning 	 ఉదయం
+most 	 అధికమైన
+mostly 	 ఎక్కువగా
+mother 	 అమ్మ
+motion 	 కదలిక
+motor 	 మోటర్
+motorbike 	 మోటారు బైక్
+motorcycle 	 మోటార్ సైకిల్
+mount 	 ఎక్కు
+mountain 	 పర్వతం
+mouse 	 చిట్టెలుక
+mouth 	 నోరు
+move 	 జరుగు
+move in 	 లోపలికి వెళ్లండి
+movement 	 కదలిక
+move out 	 బయటకు తరలించడం
+move over 	 జరుగు
+movie 	 చలనచిత్రం
+movie theater 	 సినిమా థియేటర్
+moving 	 జరపడం
+Mr 	 మిస్టర్
+Mrs 	 శ్రీమతి
+Ms 	 శ్రీమతి
+much 	 చాలా
+mud 	 బురద
+multiply 	 గుణించు
+mum 	 అమ్మ
+murder 	 హత్య
+muscle 	 కండరం
+museum 	 సంగ్రహాలయం
+music 	 సంగీతం
+musical 	 సంగీతం
+musician 	 పాఠకుడు
+must 	 తప్పనిసరిగా ఉండాలి
+my 	 నా
+myself 	 నేను
+mysterious 	 అంతుచిక్కని
+mystery 	 గుహ్యము
+nail 	 గోరు
+naked 	 నగ్నంగా
+name 	 పేరు
+narrow 	 ఇరుకైన
+nation 	 జాతి
+national 	 దేశీయ
+natural 	 సహజమైన
+naturally 	 సహజంగా
+nature 	 ప్రకృతి
+navy 	 నౌకా దళం
+near 	 సమీపం
+nearby 	 దగ్గరలో
+nearly 	 దాదాపుగా
+neat 	 నీట్
+neatly 	 బాగుగా
+necessarily 	 తప్పనిసరిగా
+necessary 	 తప్పనిసరి
+neck 	 మెడ
+need 	 అక్కర
+needle 	 సూది
+negative 	 నెగిటివ్
+neighbour 	 పొరుగువాడు
+neighbourhood 	 పొరుగు ప్రాంతం
+neither 	 ఏదీ కాదు
+nephew 	 మేనల్లుడు
+nerve 	 నాడి
+nervous 	 నాడీ
+nervously 	 ఆందోళనగా
+nest 	 గూడు
+net 	 వల
+network 	 నెట్ వర్క్
+never 	 ఎన్నడూ
+nevertheless 	 ఎటొచ్చీ
+new 	 కొత్త
+newly 	 కొత్తగా
+news 	 వార్త
+newspaper 	 పత్రిక
+next 	 తరువాత
+next to 	 పక్కన
+nice 	 చక్కని
+nicely 	 బాగా
+niece 	 మేనకోడలు
+night 	 రాత్రి
+nine 	 తొమ్మిది
+nineteen 	 పంతొమ్మిది
+nineteenth 	 పంతొమ్మిదవ
+ninetieth 	 తొంభైవ స్థానం
+ninety 	 తొంభై
+ninth 	 తొమ్మిదవ
+no 	 కాదు
+nobody 	 ఎవరూ లేరు
+noise 	 చప్పుడు
+noisily 	 శబ్దంగా
+noisy 	 శబ్దం
+non- 	 నాన్-
+none 	 ఎవరు కాదు
+nonsense 	 నాన్సెన్స్
+no one 	 ఎవరూ లేరు
+nor 	 లేదా
+normal 	 నార్మల్
+normally 	 సహజంగా
+north 	 ఉత్తరం
+northern 	 ఉత్తర
+nose 	 ముక్కు
+not 	 కాదు
+note 	 రాసుకో
+note down 	 నోట్ చేసుకోండి
+nothing 	 శూన్యం
+notice 	 గమనించు
+noticeable 	 గుర్తించదగినది
+novel 	 నవల
+November 	 నవంబర్
+now 	 ఇప్పుడు
+nowhere 	 ఎక్కడా లేదు
+nuclear 	 న్యూక్లియర్
+number 	 అంకె
+nurse 	 నర్సు
+nut 	 గింజ
+obey 	 పాటించండి
+object 	 అడ్డుకో
+objective 	 లక్ష్యం
+observation 	 పరికించి చూసే
+observe 	 పరిశీలించు
+obtain 	 సాధించు
+obvious 	 స్పష్టంగా
+obviously 	 స్పష్టంగా
+occasion 	 అక్కర
+occasionally 	 అప్పుడప్పుడు
+occupied 	 ఆక్రమించబడింది
+occupy 	 ఆక్రమించు
+occur 	 కలుగు
+occur to 	 వీటికి సంభవిస్తుంది
+ocean 	 మహా సముద్రం
+o’clock 	 o'clock
+October 	 అక్టోబర్
+odd 	 బేసి
+oddly 	 విచిత్రంగా
+of 	 యొక్క
+off 	 ఆఫ్
+offence 	 అపరాధం
+offend 	 బాధ కలిగించింది
+offense 	 నేరం
+offensive 	 అభ్యంతరకరంగా ఉంది
+offer 	 అర్పించు
+office 	 కార్యాలయం
+officer 	 అధికారి
+official 	 అధికారి
+officially 	 అధికారికంగా
+often 	 తరచుగా
+oh 	 ఓహ్
+oil 	 నూనె
+OK 	 సరే
+old 	 పాత
+old-fashioned 	 పాత పద్ధతిలో..
+on 	 మీద
+once 	 ఒకసారి
+one 	 ఒకటి
+one another 	 ఒకదానికొకటి
+onion 	 ఉల్లిపాయ
+online 	 ఆన్‌లైన్
+only 	 మాత్రం
+onto 	 on on
+open 	 బహిరంగ
+opening 	 తెరవడం
+openly 	 బహిరంగంగా
+open up 	 బయటకు రండి
+operate 	 ప్రయోగించు
+operation 	 ఆపరేషన్
+opinion 	 అభిప్రాయం
+opponent 	 విరోధి
+opportunity 	 అవకాశం
+oppose 	 ఎదిరించు
+opposed 	 వ్యతిరేకించారు
+opposing 	 వ్యతిరేకిస్తోంది
+opposite 	 ఉల్టా
+opposition 	 ప్రతిపక్షం
+option 	 ఆప్షన్
+or 	 లేదా
+orange 	 నారింజ
+order 	 క్రమం
+ordinary 	 సామాన్య
+organ 	 అవయవం
+organization 	 సంఘం
+organize 	 నిర్వహించండి
+organized 	 నిర్వహించబడింది
+origin 	 మొదలు
+original 	 అసలు
+originally 	 ఒరిజినల్
+other 	 ఇతర
+otherwise 	 కాకపోతే
+ought to 	 ఉండాలి
+our 	 మన
+ours 	 మనది
+ourselves 	 మనమే
+out 	 బయలు
+outdoor 	 అవుట్ డోర్
+outdoors 	 ఆరుబయట
+outer 	 బాహ్య
+outline 	 ఆకారం
+output 	 ఉత్పత్తి
+outside 	 బయట
+outstanding 	 అద్భుతమైన
+oven 	 పెనం
+over 	 పూర్తైన
+overall 	 మొత్తం మీద
+overcome 	 అధిగమించు
+owe 	 రుణపడి ఉన్నాడు
+own 	 తన
+owner 	 యజమాని
+own up 	 స్వంతం చేసుకోండి
+pace 1 	 వేగం 1
+pack 	 సర్దుకో
+package 	 బంగీ
+packaging 	 ప్యాకేజింగ్
+packet 	 పొట్లం
+pack up 	 ప్యాక్ అప్ చేయండి
+page 	 పుట
+pain 	 నొప్పి
+painful 	 బాధాకరం
+paint 	 వర్ణం
+painter 	 చిత్రకారుడు
+painting 	 చిత్రం
+pair 	 జోడు
+palace 	 రాజ మందిరం
+pale 	 పాలిపోయిన
+pan 1 	 పాన్ 1
+panel 	 ప్యానెల్
+pants 	 ప్యాంట్
+paper 	 కాగితం
+parallel 	 సమాంతర
+parent 	 తల్లి
+park 	 పార్క్
+parliament 	 పార్లమెంట్
+part 	 వంతు
+particular 	 ప్రత్యేక
+particularly 	 ప్రత్యేకించి
+partly 	 పాక్షికంగా
+partner 	 భాగస్వామి
+partnership 	 పొత్తు
+party 	 విందు
+pass 	 సందు
+passage 	 ప్రయాణం
+pass away 	 గతించు
+pass by 	 పాస్ బై
+passenger 	 బాటసారి
+passing 	 పాసింగ్
+pass on 	 పాస్ చేయండి
+pass out 	 పాస్ అవుట్ చేయండి
+passport 	 పాస్ పోర్ట్
+pass round 	 పాస్ రౌండ్
+pass through 	 గుండా వెళ్ళండి
+past 	 గతం
+path 	 దారి
+patience 	 ఓర్పు
+patient 	 రోగి
+pattern 	 మాదిరి
+pause 	 విరామం
+pay 	 చెల్లించు
+pay back 	 తిరిగి చెల్లించండి
+payment 	 చెల్లింపు
+pay out 	 చెల్లించండి
+pay up 	 చెల్లించండి
+peace 	 శాంతి
+peaceful 	 నిర్మలమైన
+peak 	 శిఖరం
+pen 	 కలం
+pencil 	 పెన్సిలు
+penny 	 కాని
+pension 1 	 పెన్షన్ 1
+people 	 జనం
+pepper 	 మిరపకాయ
+per 	 per
+per cent 	 శాతం
+perfect 	 పరిపూర్ణ
+perfectly 	 పరిపూర్ణంగా
+perform 	 చేయు
+performance 	 పనితీరు
+performer 	 పెర్ఫార్మర్
+perhaps 	 ఒకవేళ
+period 	 కాలం
+permanent 	 పక్కా
+permanently 	 శాశ్వతంగా
+permission 	 అనుమతి
+permit 	 అనుమతించు
+person 	 వ్యక్తి
+personal 	 వ్యక్తిగత
+personality 	 వ్యక్తిత్వం
+personally 	 స్వయంగా
+persuade 	 ఒప్పించు
+pet 	 పెంపుడు
+petrol 	 పెట్రోలు
+phase 	 ఘట్టం
+philosophy 	 తత్వశాస్త్రం
+phone 	 ఫోన్
+photo 	 ఫోటో
+photocopy 	 ఫోటో కాపీ
+photograph 	 ఛాయాచిత్రం
+photographer 	 ఫోటోగ్రాఫర్
+photography 	 ఛాయా చిత్ర కళ
+phrase 	 పదబంధం
+physical 	 భౌతిక
+physically 	 శారీరకంగా
+physics 	 భౌతిక శాస్త్రం
+piano 	 పియానో
+pick 	 కోయు
+pick up 	 తీసుకోండి
+picture 	 చిత్రం
+piece 	 ముక్క
+pig 	 పంది
+pile 	 రాశి
+pile up 	 కుప్పలు తెప్పలుగా
+pill 	 మాత్ర
+pilot 	 కర్ణధారి
+pin 	 గుండు సూది
+pink 	 గులాబీ రంగు
+pint 	 pint
+pipe 	 గొట్టం
+pitch 	 గొంతు
+pity 	 జాలి
+place 	 ఉంచు
+plain 	 సాదా
+plan 	 ప్రణాళిక
+plane 	 తలము
+planet 	 గ్రహం
+planning 	 ప్లానింగ్
+plant 	 మొక్క
+plastic 	 పోతపోసిన
+plate 	 పళ్లెం
+platform 	 వేదిక
+play 	 ఆడు
+play about 	 దీని గురించి ఆడండి
+player 	 ఆటగాడు
+play with 	 దీనితో ఆడండి
+pleasant 	 ఆహ్లాదకరమైన
+pleasantly 	 అల్లారుముద్దుగా
+please 	 దయచేసి
+pleased 	 తృప్తిపడిన
+pleasing 	 కమనీయ
+pleasure 	 ఆనందం
+plenty 	 కోరినంత
+plot 	 కుట్ర
+plug 	 మేకు
+plug in 	 ప్లగ్ ఇన్
+plus 1 	 ప్లస్ 1
+p.m. 	 పి.ఎం.
+pocket 	 జేబు
+poem 	 పద్యం
+poetry 	 కవిత్వం
+point 	 మొన
+pointed 	 ఎత్తి చూపారు
+point out 	 పాయింట్ అవుట్
+poison 	 విషము
+poisonous 	 విషపూరితమైన
+pole 	 గడ కర్ర
+police 	 పోలీసు
+policy 	 పాలసీ
+polish 	 పోలిష్
+polite 	 మర్యాద
+politely 	 మర్యాదగా
+political 	 రాజకీయ
+politically 	 రాజకీయంగా
+politician 	 రాజకీయవేత్త
+politics 	 రాజకీయాలు
+pollution 	 కాలుష్యం
+pool 	 సరస్సు
+poor 	 పేద
+pop 	 పేలుడు ధ్వని
+popular 	 ప్రాచుర్యమైన
+population 	 జనాభా
+port 	 రేవు
+pose 	 పోజు
+position 	 పదవి
+positive 	 పాజిటివ్
+possess 	 ఆవేశించు
+possession 	 స్వాధీనం
+possibility 	 అలవి
+possible 	 సంభావ్య
+possibly 	 ఏమో
+post 	 గుంజ
+post office 	 తపాలా కార్యాలయం
+pot 	 కుండ
+potato 	 ఆలుగడ్డ
+potential 	 పొటెన్షియల్
+potentially 	 సంభావ్య
+pound 	 దంచు
+pour 	 పొయ్యి
+powder 	 పొడి
+power 	 అధికారం
+powerful 	 బలమైన
+practical 	 ఆచరణాత్మక
+practically 	 వ్యావహారికంగా
+practice 	 ఆచరణ
+practise 	 ప్రాక్టీస్ చేయండి
+praise 	 కీర్తించు
+pray 	 పూజించు
+prayer 	 ప్రార్థన
+precise 	 ఖచ్చితమైన
+precisely 	 ఖచ్చితంగా
+predict 	 అంచనా వేయండి
+prefer 	 ప్రాధాన్యత
+preference 	 అభిరుచి
+pregnant 	 కడుపుతో ఉన్న
+premises 	 ఆవరణ
+preparation 	 తయారీ
+prepare 	 తయారు చేయు
+prepared 	 సమాయత్త
+presence 	 సమక్షం
+present 	 ప్రస్తుతం
+presentation 	 ప్రజంటేషన్
+preserve 	 కాపాడు
+president 	 అధ్యక్షుడు
+press 	 నొక్కు
+pressure 	 ఒత్తిడి
+presumably 	 బహుశా
+pretend 	 అభినయించు
+pretty 	 చక్కని
+prevent 	 నివారించు
+previous 	 ముందరి
+previously 	 ఇటీవల
+price 	 వెల
+pride 	 గర్వం
+priest 	 పూజారి
+primarily 	 ప్రధానంగా
+primary 	 ప్రాధమిక
+prime minister 	 ప్రధాన మంత్రి
+prince 	 రాకుమారుడు
+princess 	 రాకుమారి
+principle 	 నియమం
+print 	 ముద్రించు
+printer 	 ముద్రాపకుడు
+printing 	 ముద్రణ
+print off 	 ప్రింట్ ఆఫ్
+prior 	 పూర్వ
+priority 	 ప్రాధాన్యత
+prison 	 కారాగారం
+prisoner 	 ఖైదీ
+private 	 వ్యక్తిగత
+privately 	 ప్రైవేట్ గా
+prize 	 బహుమతి
+probable 	 సంభావ్య
+probably 	 బహుశ
+problem 	 సమస్య
+procedure 	 తంతు
+proceed 	 నడచు
+process 1 	 ప్రక్రియ 1
+produce 	 ఉత్పత్తి
+producer 	 నిర్మాత
+product 	 ఉత్పత్తి
+production 	 ఉత్పత్తి
+profession 	 వృత్తి
+professional 	 ప్రొఫెషనల్
+professor 	 ఆచార్య
+profit 	 లాభం
+program 	 కార్యక్రమం
+programme 	 కార్యక్రమం
+progress 	 ప్రగతి
+project 	 ప్రాజెక్ట్
+promise 	 వాగ్దానం
+promote 	 పెంచు
+promotion 	 పదోన్నతి
+prompt 	 ప్రేరేపించు
+promptly 	 వెంటనే
+pronounce 	 ఉచ్చరించు
+pronunciation 	 ఉచ్ఛారణ
+proof 	 రుజువు
+proper 	 ఉచితమైన
+properly 	 సరిగ్గా
+property 	 ఆస్తి
+proportion 	 అనుపాతం
+proposal 	 ఉపపాద్యం
+propose 	 ప్రతిపాదించు
+prospect 	 prospect
+protect 	 కాపాడు
+protection 	 సంరక్షణ
+protest 	 నిరసన
+proud 	 పొగరు
+proudly 	 గర్వంగా
+prove 	 నిరూపించు
+provide 	 అందించు
+provided 	 అందించబడింది
+providing 	 అందించడం
+pub 	 పబ్
+public 	 ప్రజా
+publication 	 ప్రచురణ
+publicity 	 ప్రచారం
+publicly 	 బాహాటంగా
+publish 	 ప్రచురించు
+publishing 	 ప్రచురణ
+pull 	 ఈడ్చు
+pull apart 	 విడదీయండి
+pull down 	 కిందకు లాగండి
+pull in 	 లోపలికి లాగండి
+pull off 	 లాగండి
+pull out 	 పీకు
+pull over 	 పక్కకు పెట్టు
+pull through 	 లాగండి
+pull together 	 కలిసి లాగండి
+pull up 	 పైకి లాగండి
+punch 	 పిడిగుద్దు
+punish 	 దండించు
+punishment 	 దండన
+pupil 	 విద్యార్థి
+purchase 	 కొనుగోలు
+pure 	 నిర్మలమైన
+purely 	 పూర్తిగా
+purple 	 ఊదా
+purpose 	 లక్ష్యం
+pursue 	 అనుసరించు
+push 	 తోయు
+push about 	 ముందుకు సాగండి
+push forward 	 ముందుకు సాగండి
+put 	 ఉంచు
+put away 	 దూరంగా ఉంచండి
+put back 	 తిరిగి ఉంచండి
+put down 	 దించు
+put forward 	 ముందుకు తెచ్చారు
+put in 	 ఉంచండి
+put off 	 వాయిదా వేయండి
+put on 	 బూటకం
+put out 	 ఆర్పు
+put through 	 అమలు చేయబడింది
+put together 	 కూర్చు
+put up 	 ఉంచండి
+put up with 	 భరించండి
+qualification 	 అర్హత
+qualified 	 అర్హతగల
+qualify 	 అర్హత
+quality 	 గుణం
+quantity 	 పరిమాణం
+quarter 	 దిక్కు
+queen 	 రాణి
+question 	 ప్రశ్న
+quick 	 తొందర
+quickly 	 త్వరగా
+quiet 	 ప్రశాంతం
+quietly 	 నిశ్శబ్దంగా
+quit 	 వదలిపెట్టు
+quite 	 బొత్తిగా
+quote 	 quote
+race 	 జాతి
+racing 	 రేసింగ్
+radio 	 రేడియో
+rail 	 రైలు
+railroad 	 రైలుమార్గం
+railway 	 రైల్వే
+rain 	 వాన
+raise 	 పెంచు
+range 	 పరిధి
+rank 	 శ్రేణి
+rapid 	 త్వరగా
+rapidly 	 త్వరగా
+rare 	 అరుదైన
+rarely 	 అరుదుగా
+rate 	 నిష్పత్తి
+rather 	 బదులుగా
+raw 	 పచ్చి
+re- 	 రీ-
+reach 	 చేరు
+react 	 ప్రతిస్పందించండి
+reaction 	 చర్య
+read 	 చదువు
+reader 	 చదివేవాడు
+reading 	 చదవడం
+read out 	 చదవండి
+read over 	 చదవండి
+ready 	 తయారు
+real 	 అసలు
+realistic 	 వాస్తవిక
+reality 	 వాస్తవికత
+realize 	 తెలుసుకో
+really 	 నిజంగా
+rear 	 పెంచు
+reason 	 కారణం
+reasonable 	 సహేతుకమైన
+reasonably 	 సహేతుకంగా
+recall 	 రీకాల్ చేయండి
+receipt 	 చీటీ
+receive 	 స్వీకరించు
+recent 	 ఇటీవలి
+recently 	 ఇటీవల
+reception 	 రిసెప్షన్
+reckon 	 లెక్కపెట్టు
+reckon on 	 లెక్కించండి
+recognition 	 గుర్తింపు
+recognize 	 గుర్తించు
+recommend 	 సిఫార్సు
+record 	 నమోదు
+recording 	 గ్రహణం
+recover 	 కోలుకో
+red 	 ఎరుపు
+reduce 	 తగ్గించు
+reduction 	 తగ్గింపు
+refer 	 రిఫర్ చేయండి
+reference 	 ఉపప్రమాణం
+refer to 	 రిఫర్ చేయండి
+reflect 	 ప్రతిబింబించు
+reform 	 సంస్కరించు
+refrigerator 	 శీతలీకరణి
+refusal 	 నిరాకరించడం
+refuse 1 	 తిరస్కరించండి 1
+regard 	 పరిగణించు
+regarding 	 ఉద్దేశించు
+region 	 ప్రాంతం
+regional 	 ప్రాంతీయ
+register 	 రిజిస్టర్ చేయండి
+regret 	 విచారం
+regular 	 అనుస్యూత
+regularly 	 సాధారణంగా
+regulation 	 నిబంధన
+reject 	 నిరాకరించు
+relate 	 రిలేట్
+related 	 చెందిన
+relate to 	 వీటికి సంబంధించినవి
+relation 	 బంధువు
+relationship 	 చుట్టరికం
+relative 	 బంధువు
+relatively 	 సాపేక్షంగా
+relax 	 సడలించు
+relaxed 	 రిలాక్స్డ్
+relaxing 	 రిలాక్స్ అవుతూ..
+release 	 విడుదల
+relevant 	 సుసంగత
+relief 	 సహాయం
+religion 	 మతము
+religious 	 మతపరమైన
+rely 	 ఆధారపడండి
+rely on 	 నమ్ము
+remain 	 ఉండిపోండి
+remaining 	 మిగలడం
+remains 	 మిగిలి ఉంది
+remark 	 వ్యాఖ్య
+remarkable 	 చెప్పుకోదగినవి
+remarkably 	 చెప్పుకోదగినవి
+remember 	 ఙ్ఞాపకం
+remind 	 గుర్తు చేయండి
+remind of 	 గుర్తు చేయండి
+remote 	 సుదూర
+removal 	 తొలగింపు
+remove 	 తీసివేయు
+rent 	 అద్దె
+rented 	 అద్దెకు ఇవ్వబడింది
+repair 	 మరమ్మత్తు
+repeat 	 రిపీట్ చేయండి
+repeated 	 పదేపదే
+repeatedly 	 పదే పదే
+replace 	 రీప్లేస్ చేయండి
+reply 	 జవాబు
+report 	 నివేదిక
+represent 	 నివేదించు
+representative 	 ప్రతినిధి
+reproduce 	 పునరుత్పత్తి
+reputation 	 కీర్తి
+request 	 మనవి
+require 	 అవసరం
+requirement 	 అవసరం
+rescue 	 దక్కించు
+research 	 పరిశోధన
+reservation 	 రిజర్వేషన్
+reserve 	 కేటాయించు
+resident 	 నివాసి
+resist 	 తట్టుకో
+resistance 	 నిరోధం
+resolve 	 పరిష్కరించు
+resort 	 రిసార్ట్
+resort to 	 ఆశ్రయించండి
+resource 	 వనరులు
+respect 	 గౌరవించు
+respond 	 ప్రతిస్పందించండి
+response 	 బదులు
+responsibility 	 బాధ్యత
+responsible 	 బాధ్యత గల
+rest 	 విశ్రాంతి
+restaurant 	 రెస్టారెంట్
+restore 	 పునరుద్ధరించు
+restrict 	 నిర్బంధించు
+restricted 	 పరిమితం చేయబడింది
+restriction 	 ఆంక్ష
+result 	 ఫలితం
+result in 	 ఫలితం ఇలా ఉంటుంది
+retain 	 మిగుల్చు
+retire 	 విరమించు
+retired 	 పదవీ విరమణ చేశారు
+retirement 	 పదవీ విరమణ
+return 	 తిరిగి ఇవ్వు
+reveal 	 వెల్లడించు
+reverse 	 వ్యతిరేక
+review 	 సమీక్ష
+revise 	 సంస్కరించు
+revision 	 పునఃసమీక్ష
+revolution 	 విప్లవం
+reward 	 పారితోషికం
+rhythm 	 లయ
+rice 	 బియ్యం
+rich 	 సంపన్నుడు
+rid 	 rid
+ride 	 సవారీ
+rider 	 రౌతు
+ridiculous 	 హాస్యాస్పదం
+riding 	 రైడింగ్
+right 	 కుడివైపు
+rightly 	 సరిగ్గా
+ring 1 	 రింగ్ 1
+ring 2 	 రింగ్ 2
+ring back 	 రింగ్ బ్యాక్
+rise 	 లేచు
+risk 	 ప్రమాదం
+rival 	 ప్రత్యర్థి
+river 	 నది
+road 	 దారి
+rob 	 దోచు
+rock 	 రాయి
+role 	 పాత్ర
+roll 	 దొర్లు
+romantic 	 భావనాత్మక
+roof 	 కప్పు
+room 	 గది
+root 	 వేరు
+rope 	 తాడు
+rough 	 గరుకైన
+roughly 	 సుమారుగా
+round 	 గుండ్రని
+rounded 	 గుండ్రంగా ఉంది
+route 	 దారి
+routine 	 రొటీన్
+row 1 	 వరుస 1
+royal 	 రా
+rub 	 రుద్దు
+rubber 	 రబ్బరు
+rubbish 	 చెత్త
+rude 	 మొరటైన
+rudely 	 మొరటుగా
+ruin 	 పాడు
+ruined 	 పాడైన
+rule 	 పాలించు
+rule out 	 తోసిపుచ్చండి
+ruler 	 ఏలిక
+rumour 	 పుకారు
+run 	 పరుగెత్తు
+run after 	 వెంట పరుగెత్తండి
+run away 	 పారిపో
+runner 	 రన్నర్
+running 	 రన్నింగ్
+run out 	 రనౌట్
+run over 	 పరిగెత్తండి
+run through 	 పరుగెత్తండి
+rural 	 గ్రామీణ
+rush 	 చొరబడడం
+sack 	 సంచి
+sad 	 విచారం
+sadly 	 పాపం
+sadness 	 విచారం
+safe 	 మందసం
+safely 	 పదిలంగా
+safety 	 క్షేమం
+sail 	 తెరచాప
+sailing 	 [మార్చు] నౌకాయానం
+sailor 	 నావికుడు
+salad 	 సలాడ్
+salary 	 జీతం
+sale 	 అమ్మకం
+salt 	 ఉప్పు
+salty 	 ఉప్పని
+same 	 అదే
+sample 	 మచ్చు
+sand 	 ఇసుక
+satisfaction 	 తృప్తి
+satisfied 	 కడుపు నిండ
+satisfy 	 తీర్చు
+satisfying 	 సంతృప్తికరంగా ఉంటుంది
+Saturday 	 శనివారం
+sauce 	 సాస్
+save 	 కాపాడు
+saving 	 పొదుపు
+say 	 చెప్పు
+scale 	 స్కేలు
+scare 	 భయపెట్టు
+scared 	 భయం
+scare off 	 భయపెట్టండి
+scene 	 దృశ్యం
+schedule 	 అనుసూచి
+scheme 	 తంత్రం
+school 	 బడి
+science 	 శాస్త్రము
+scientific 	 వైజ్ఞానిక
+scientist 	 శాస్త్రజ్ఞుడు
+scissors 	 కత్తెర
+score 	 ఇరవై
+scratch 	 గోకు
+scream 	 అరుపులు
+screen 	 తెర
+screw 	 మర
+sea 	 సముద్రం
+seal 	 ముద్ర
+seal off 	 సీల్ ఆఫ్ చేయండి
+search 	 వెతుకు
+season 	 ఋతువు
+seat 	 గద్దె
+second 1 	 రెండవ 1
+secondary 	 అప్రధాన
+secret 	 రహస్యం
+secretary 	 కార్యదర్శి
+secretly 	 రహస్యంగా
+section 	 ఖండం
+sector 	 రంగం
+secure 	 సురక్షితం
+security 	 భద్రత
+see 	 చూడు
+see about 	 దీని గురించి చూడండి
+seed 	 విత్తనం
+seek 	 విచారించు
+seem 	 కనబడు
+see to 	 చూడండి
+select 	 ఎంచు
+selection 	 ఎంపిక
+self 	 తనకు తాను
+self- 	 తనకు తాను-
+sell 	 అమ్ము
+sell off 	 అమ్మడం
+sell out 	 అమ్మండి
+senate 	 సెనేట్
+senator 	 సెనేటర్
+send 	 పంపించు
+send for 	 రప్పించు
+send off 	 వీడుకొలుపు
+senior 	 పెద్ద
+sense 	 బుద్ధి
+sensible 	 తెలివైనది
+sensitive 	 సున్నితమైన
+sentence 	 శిక్ష
+separate 	 విడదీయు
+separated 	 విడిపోయారు
+separately 	 వేరుగా
+separation 	 ఎడబాటు
+September 	 సెప్టెంబర్
+series 	 క్రమం
+serious 	 తీవ్రమైన
+seriously 	 తీవ్రంగా
+servant 	 సేవకుడు
+serve 	 కొలుచు
+service 	 సేవ
+session 	 సెషన్
+set 	 అస్తమించు
+set off 	 బయలుదేరింది
+set out 	 బయలుదేరు
+settle 	 తీర్చు
+settle down 	 స్థిరపడు
+set up 	 సెటప్ చేయబడింది
+seven 	 ఏడు
+seventeen 	 పదిహేడు
+seventh 	 ఏడో
+seventieth 	 70వ తరగతి
+seventy 	 డెబ్బై
+several 	 ఎన్నో
+severe 	 భరించలేనంత
+severely 	 తీవ్రంగా
+sew 	 కుట్టు
+sewing 	 కుట్టుపని
+sex 	 లింగము
+sexual 	 లైంగిక
+sexually 	 లైంగికంగా
+shade 	 నీడ
+shadow 	 నీడ
+shake 	 కదులు
+shall 	 చేయాలి
+shallow 	 లోతులేని
+shame 	 సిగ్గు
+shape 	 ఆకారం
+shaped 	 ఆకారం
+share 	 భాగం
+sharp 	 పదును
+sharply 	 చురుకుగా
+shave 	 గొరుగు
+she 	 ఆమె
+sheep 	 గొర్రె
+sheet 	 షీట్
+shelf 	 అర
+shell 	 చిప్ప
+shelter 	 పాక
+shift 	 మారు
+shine 	 వెలుగు
+shiny 	 మెరిసేది
+ship 	 ఓడ
+shirt 	 చొక్కా
+shock 	 ఆఘాతం
+shocked 	 షాక్ అయ్యారు
+shocking 	 షాకింగ్
+shoe 	 చెప్పు
+shoot 	 కాడ
+shoot down 	 కాల్పులు జరపండి
+shooting 	 షూటింగ్
+shop 	 అంగడి
+shopping 	 షాపింగ్
+short 	 పొట్టి
+shortly 	 త్వరలో
+shot 	 షాట్
+should 	 ఉండాలి
+shoulder 	 భుజం
+shout 	 అరుపు
+show 	 చూపించు
+shower 	 జల్లు
+show off 	 చూపించు
+show round 	 చూపించు రౌండ్
+show up 	 చూపించండి
+shut 	 మూసుకో
+shut down 	 మూసివేయి
+shut in 	 మూసివేయబడింది
+shut out 	 మూసివేయబడింది
+shut up 	 నోరుముయ్యి
+shy 	 జంకుగల
+sick 	 జబ్బు
+side 	 పక్క
+sideways 	 పక్కకు
+sight 	 చూపు
+sign 	 గుర్తు
+signal 	 సంకేతం
+signature 	 సంతకం
+significant 	 అర్థవంతమైన
+significantly 	 గణనీయంగా
+silence 	 మౌనం
+silent 	 మౌన
+silk 	 పట్టు
+silly 	 వెర్రితనం
+silver 	 వెండి
+similar 	 సమానం
+similarly 	 అదేవిధంగా
+simple 	 సామాన్య
+simply 	 సింపుల్
+since 	 నుండి
+sincere 	 హృదయపూర్వక
+sincerely 	 హృదయపూర్వకంగా
+sing 	 పాడు
+singer 	 పాడేవాడు
+singing 	 గానం
+single 	 ఏక
+sink 	 మునుగు
+sir 	 అయ్యా
+sister 	 సోదరి
+sit 	 కూర్చో
+sit down 	 కూర్చో
+site 	 సైట్
+situation 	 స్థితి
+six 	 ఆరు
+sixteen 	 పదహారు
+sixth 	 ఆరవ
+sixtieth 	 అరవైవ వంతు
+sixty 	 అరవై
+size 	 పరిమాణం
+skilful 	 నైపుణ్యం కలిగినవాడు
+skilfully 	 నేర్పుగా
+skill 	 దక్షత
+skilled 	 నైపుణ్యం
+skin 	 తోలు
+skirt 	 పరికిణి
+sky 	 ఆకాశం
+sleep 	 నిద్ర
+sleeve 	 స్లీవ్
+slice 	 చీలిక
+slide 	 జారు
+slight 	 తృణీకరించు
+slightly 	 కొద్దిగా
+slip 	 జారడం
+slope 	 వాలు
+slow 	 నెమ్మది
+slowly 	 మెల్లగా
+small 	 చిన్న
+smart 	 చురుకు
+smash 	 బద్దలుకొట్టు
+smell 	 వాసన
+smile 	 చిరునవ్వు
+smoke 	 పొగ
+smoking 	 ధూమపానం
+smooth 	 స్మూత్
+smoothly 	 మృదువుగా
+snake 	 పాము
+snow 	 మంచు
+so 	 ఏదో
+soap 	 సబ్బు
+social 	 సాంఘిక
+socially 	 సామాజికంగా
+society 	 సమాజం
+sock 	 మేజోడు
+soft 	 మెత్తని
+softly 	 మెత్తగా
+software 	 సాఫ్ట్ వేర్
+soil 	 మట్టి
+soldier 	 సైనికుడు
+solid 	 ఘన
+solution 	 కరిగినది
+solve 	 ముగించు
+some 	 కొన్ని
+somebody 	 ఎవరో
+somehow 	 ఎలాగైనా
+someone 	 ఒకరిని
+something 	 ఏదో
+sometimes 	 అప్పుడప్పుడు
+somewhat 	 కొంచెంసేపు
+somewhere 	 ఎక్కడో
+son 	 కొడుకు
+song 	 పాట
+soon 	 వెంటనే
+sore 	 పుండు
+sorry 	 క్షమించండి
+sort 	 ఏరడం
+sort out 	 పరిష్కరించండి
+soul 	 ఆత్మ
+sound 	 ధ్వని
+soup 	 పులుసు
+sour 	 పులుపు
+source 	 మూలం
+south 	 దక్షిణం
+southern 	 దక్షిణ
+space 	 అంతరిక్షం
+spare 	 విడి
+speak 	 మాట్లాడు
+speaker 	 భాషి
+speak out 	 మాట్లాడండి
+speak up 	 మాట్లాడండి
+special 	 ప్రత్యేక
+specialist 	 స్పెషలిస్ట్
+specially 	 ప్రత్యేకంగా
+specific 	 ప్రత్యేక
+specifically 	 ప్రత్యేకంగా
+speech 	 ఉక్తి
+speed 	 వడి
+speed up 	 వేగవంతం చేయండి
+spell 	 ఉచ్చరించు
+spelling 	 వర్ణక్రమం
+spend 	 గడుపు
+spice 	 మసాలా
+spicy 	 స్పైసీ
+spider 	 సాలె పురుగు
+spin 	 గుండ్రంగా
+spirit 	 అంతరాత్మ
+spiritual 	 ఆధ్యాత్మిక
+spite 	 అక్కసు
+split 	 చీల్చు
+split up 	 విడిపోయి..
+spoil 	 చెడగొట్టు
+spoken 	 మాట్లాడతారు
+spoon 	 గరిటె
+sport 	 క్రీడ
+spot 	 మచ్చ
+spray 	 చల్లు
+spread 	 వ్యాపించు
+spread out 	 వ్యాప్తి చెందింది
+spring 	 వసంత ఋతువు
+square 	 చతురస్రం
+squeeze 	 పిండు
+stable 	 స్థిరమైన
+staff 	 సిబ్బంది
+stage 	 వేదిక
+stair 	 మెట్లు
+stamp 	 తొక్కు
+stand 	 నిలబడు
+standard 	 ప్రమాణం
+stand back 	 వెనక్కి నిలబడండి
+stand by 	 ప్రత్యామ్నాయ
+stand for 	 నిలబడండి
+stand out 	 ప్రత్యేకంగా నిలబడండి
+stand up 	 నిలబడు
+stand up for 	 నిలబడండి
+star 	 చుక్క
+stare 	 చూపులు
+start 	 బయలుదేరు
+start off 	 ప్రారంభించండి
+start out 	 ప్రారంభించండి
+start up 	 స్టార్ట్ అప్
+state 	 రాష్ట్రం
+statement 	 ప్రకటన
+station 	 స్టేషన్
+statue 	 విగ్రహం
+status 	 హోదా
+stay 	 ఉండు
+stay away 	 దూరంగా ఉండండి
+stay out of 	 దూరంగా ఉండండి
+steadily 	 నిలకడగా
+steady 	 నిలకడ
+steal 	 దొంగిలించు
+steam 	 ఆవిరి
+steel 	 ఉక్కు
+steep 	 నిటారుగా
+steeply 	 నిటారుగా
+steer 	 గిత్త
+step 	 మెట్టు
+stick 	 కర్ర
+stick out 	 బయటకు అతుక్కుపోండి
+stick to 	 దానికి కట్టుబడి ఉండండి
+stick up 	 పైకి అతుక్కుపోండి
+sticky 	 జిగట
+stiff 	 గట్టి
+stiffly 	 గట్టిగా
+still 	 నిశ్చల
+sting 	 కుట్టు
+stir 	 కదిలించు
+stock 	 స్టాక్
+stomach 	 కడుపు
+stone 	 రాయి
+stop 	 ఆపు
+store 	 షాప్
+storm 	 గాలివాన
+story 	 కథ
+stove 	 పొయ్యి
+straight 	 తిన్నగా
+strain 	 వడబోయు
+strange 	 వింత
+strangely 	 విచిత్రంగా
+stranger 	 అపరిచితుడు
+strategy 	 వ్యూహం
+stream 	 సెలయేరు
+street 	 వీధి
+strength 	 ఓజస్సు
+stress 	 ఒత్తిడి
+stressed 	 ఒత్తిడికి గురయ్యారు
+stretch 	 సాగు
+strict 	 కచ్చితము
+strictly 	 ఖచ్చితంగా
+strike 	 సమ్మె
+striking 	 వింతైన
+string 	 తీగ
+strip 	 బెరడు
+stripe 	 చార
+striped 	 స్ట్రిప్డ్
+stroke 	 నిమురు
+strong 	 బలమైన
+strongly 	 గట్టిగా
+structure 	 రూపం
+struggle 	 పోరాటం
+student 	 విద్యార్థి
+studio 	 studio
+study 	 చదువు
+stuff 	 దట్టించు
+stupid 	 తెలివితక్కువ
+style 	 తీరు
+subject 	 పాలితుడు
+substance 	 వస్తువు
+substantial 	 పక్కా
+substantially 	 గణనీయంగా
+substitute 	 బదులు
+succeed 	 జయించు
+success 	 విజయం
+successful 	 విజయవంతమైంది
+successfully 	 విజయవంతంగా
+such 	 అటువంటి
+suck 	 చీకు
+sudden 	 ఆకస్మికమైన
+suddenly 	 హఠాత్తుగా
+suffer 	 అనుభవించు
+suffering 	 బాధ
+sufficient 	 సరిపోయింది
+sufficiently 	 తగినంత
+sugar 	 చక్కెర
+suggest 	 జాడచూపు
+suggestion 	 సూచన
+suit 	 జతపడు
+suitable 	 అనువు
+suitcase 	 సూట్ కేస్
+suited 	 తగినది
+sum 	 మొత్తం
+summary 	 సారం
+summer 	 ఎండాకాలం
+sum up 	 మొత్తం
+sun 	 సూర్యుడు
+Sunday 	 ఆదివారం
+superior 	 మిన్న
+supermarket 	 సూపర్ మార్కెట్
+supply 	 సరఫరా
+support 	 సహాయంగా
+supporter 	 దన్నుదారు
+suppose 	 అనుకుందాం
+sure 	 కుదిరిన
+surely 	 ఖచ్చితంగా
+surface 	 ఉపరితలం
+surname 	 ఇంటిపేరు
+surprise 	 ఆశ్చర్యం
+surprised 	 ఆశ్చర్యంగా ఉంది
+surprising 	 ఆశ్చర్యంగా ఉంది
+surprisingly 	 ఆశ్చర్యకరంగా
+surround 	 చుట్టుకొను
+surrounding 	 చుట్టుపక్కల
+surroundings 	 చుట్టు పక్కల
+survey 	 సర్వే
+survive 	 జీవించు
+suspect 	 అనుమానించు
+suspicion 	 అనుమానం
+suspicious 	 అనుమానాస్పద
+swallow 	 మింగు
+swear 	 ప్రమాణం చేయు
+swearing 	 ప్రమాణం చేయడం
+sweat 	 చెమట
+sweater 	 చలి కోటు
+sweep 	 ఊడ్చు
+sweet 	 తియ్యని
+swell 	 ఉబ్బు
+swelling 	 వాపు
+swim 	 ఈదు
+swimming 	 ఈత
+swimming pool 	 ఈతకొలను
+swing 	 ఉయ్యాల
+switch 	 మీట
+switch off 	 స్విచ్ ఆఫ్ చేయండి
+swollen 	 వాచిన
+symbol 	 చిహ్నం
+sympathetic 	 సానుభూతి
+sympathy 	 జాలి
+system 	 వ్యవస్థ
+table 	 బల్ల
+tablet 	 మాత్ర
+tackle 	 Tackle
+tail 	 తోక
+take 	 తీసుకో
+take away 	 తీసుకువెళ్ళండి
+take back 	 తిరిగి తీసుకోండి
+take down 	 తీసివేయండి
+take in 	 తీసుకోండి
+take off 	 ఎగిరిపోవడం
+take on 	 తీసుకోండి
+take over 	 బాధ్యతలు స్వీకరించండి
+take up 	 చేపట్టండి
+talk 	 మాట్లాడు
+tall 	 ఎత్తైన
+tank 	 చెరువు
+tap 	 కొళాయి
+tape 	 టేపు
+target 	 గురి
+task 	 పని
+taste 	 రుచి
+tax 	 పన్ను
+taxi 	 టాక్సీ
+tea 	 టీ
+teach 	 నేర్పు
+teacher 	 గురువు
+teaching 	 బోధన
+team 	 జట్టు
+tear 1 	 కన్నీళ్లు 1
+tear 2 	 కన్నీళ్లు 2
+tear up 	 కన్నీళ్లు
+technical 	 పారిభాషిక
+technique 	 పద్ధతి
+technology 	 సాంకేతికత
+telephone 	 దూరవాణి
+television 	 టెలివిజన్
+tell 	 చెప్పు
+tell off 	 చెప్పండి
+temperature 	 ఉష్ణోగ్రత
+temporarily 	 ప్రస్తుతానికి
+temporary 	 తాత్కాలిక
+ten 	 పది
+tend 	 కాచు
+tendency 	 ఉన్ముఖత
+tension 	 తన్యత
+tent 	 గుడారం
+tenth 	 పదో
+term 	 గడువు
+terrible 	 భీషణ
+terribly 	 భయంకరంగా ఉంది
+test 	 పరీక్ష
+text 	 వచనం
+than 	 కంటె
+thank 	 ధన్యవాదాలు
+thanks 	 ధన్యవాదాలు
+thank you 	 ధన్యవాదాలు
+that 	 అది
+the 	 the
+theatre 	 నాటకశాల
+their 	 వారి
+theirs 	 వారిది
+them 	 వారు
+theme 	 థీమ్
+themselves 	 తమను తాము
+then 	 తర్వాత
+theory 	 సిద్ధాంతం
+there 	 అక్కడ
+therefore 	 కాబట్టి
+they 	 వాళ్ళు
+thick 	 మందమైన
+thickly 	 చిక్కగా
+thickness 	 దళసరి
+thief 	 దొంగ
+thin 	 పలుచని
+thing 	 వస్తువు
+think 	 ఆలోచించు
+think about 	 దాని గురించి ఆలోచించండి
+thinking 	 ఆలోచించుట
+think of 	 ఆలోచించండి
+think of as 	 ఇలా ఆలోచించండి
+think over 	 ఆలోచించండి
+think up 	 ఆలోచించండి
+third 	 మూడవ
+thirsty 	 దాహం
+thirteen 	 పదమూడు
+thirteenth 	 పదమూడవ
+thirtieth 	 3th
+thirty 	 ముప్పై
+this 	 ఇది
+thorough 	 సమగ్రంగా
+thoroughly 	 కూలంకషంగా
+though 	 అయినప్పటికీ
+thought 	 ఆలోచన
+thousand 	 వేలు
+thousandth 	 వెయ్యవ
+thread 	 దారం
+threat 	 బెదిరింపు
+threaten 	 బెదిరింపులు
+threatening 	 బెదిరించడం
+three 	 మూడు
+throat 	 గొంతు
+through 	 గుండా
+throughout 	 అంత
+throw 	 విసురు
+throw away 	 విసిరేయండి
+throw out 	 బయటకు విసిరేయండి
+thumb 	 బొటనవేలు
+Thursday 	 గురువారం
+thus 	 అందుకని
+ticket 	 చీటి
+tidy 	 చక్కగా
+tie 	 కట్టు
+tie up 	 కట్టు కట్టు
+tight 	 గట్టి
+tightly 	 గట్టిగా
+till 	 వరకు
+time 	 సమయం
+timetable 	 కాలసూచిక
+tin 	 తగరం
+tiny 	 చిన్నది
+tip 	 కొన
+tip over 	 చిట్కా ఓవర్
+tire 	 tire
+tired 	 అలసిన
+tire out 	 టైర్ అవుట్
+tiring 	 అలసట
+title 	 బిరుదు
+to 	 కు
+today 	 ఈ రోజు
+toe 	 కాలివేలు
+together 	 కలసి
+toilet 	 మరుగు దొడ్డి
+tomato 	 మొలక్కాయ
+tomorrow 	 రేపు
+ton 	 టన్
+tone 	 స్వరం
+tongue 	 నాలుక
+tonight 	 ఈ రాత్రి
+tonne 	 టన్నులు
+too 	 కూడా
+tool 	 పనిముట్టు
+tooth 	 దంతం
+top 	 బొంగరం
+topic 	 అంశం
+total 	 మొత్తం
+totally 	 అచ్చంగా
+touch 	 తాకు
+tough 	 ఇబ్బంది యైన
+tour 	 పర్యటన
+tourist 	 యాత్రికుడు
+towards 	 దిశగా
+towel 	 తువాలు
+tower 	 బురుజు
+town 	 బస్తీ
+toy 	 ఆటబొమ్మ
+trace 	 జాడ
+track 	 జాడ
+trade 	 వ్యాపారం
+trading 	 ట్రేడింగ్
+tradition 	 సంప్రదాయం
+traditional 	 సనాతన
+traditionally 	 అనూచానంగా
+traffic 	 ట్రాఫిక్
+train 	 రైలు
+training 	 శిక్షణ
+transfer 	 బదిలీ
+transform 	 రూపాంతరం
+translate 	 అనువదించు
+translation 	 తర్జుమా
+transparent 	 తేట
+transport 	 రవాణా
+transportation 	 రవాణా
+trap 	 పన్నాగం
+travel 	 ప్రయాణం
+traveller 	 పథికుడు
+treat 	 ఆదరించు
+treatment 	 చికిత్స
+tree 	 చెట్టు
+trend 	 ధోరణి
+trial 	 పరీక్ష
+triangle 	 ముక్కోణం
+trick 	 ఉపాయం
+trip 	 యాత్ర
+tropical 	 ఉష్ణమండల
+trouble 	 కష్టం
+trousers 	 ప్యాంటు
+truck 	 ట్రక్కు
+true 	 నిజమైన
+truly 	 వాస్తవంగా
+trust 	 నమ్మకం
+truth 	 నిజం
+try 	 ప్రయత్నించు
+try on 	 ప్రయత్నించండి
+try out 	 ప్రయత్నించండి
+tube 	 క్రోవి
+Tuesday 	 మంగళవారం
+tune 	 రాగం
+tunnel 	 సొరంగం
+turn 	 తిప్పు
+turn back 	 వెనక్కి తిరగండి
+turn down 	 తిరస్కరించండి
+turn into 	 ఇలాకి మారండి
+turn off 	 ఆపివేయండి
+turn on 	 ఆన్ చేయండి
+turn out 	 హాజరు
+turn over 	 టర్న్ ఆఫ్ చేయండి
+turn round 	 తిరగండి
+turn to 	 దీనికి టర్న్ చేయండి
+turn up 	 తగులు
+TV 	 టి.వి.
+twelfth 	 పన్నెండవ
+twelve 	 పన్నెండు
+twentieth 	 ఇరవయ్యవ శతాబ్దం
+twenty 	 ఇరవై
+twice 	 రెట్టింపు
+twin 	 కవల
+twist 	 మెలిపెట్టు
+twisted 	 వక్రీకరించబడింది
+two 	 రెండు
+type 	 రకం
+typical 	 విలక్షణమైన
+typically 	 సాధారణంగా
+tyre 	 Tyr
+the unemployed 	 నిరుద్యోగులు..
+the unexpected 	 ఊహించనిది
+ugly 	 అనాకార
+ultimate 	 కడపటి
+ultimately 	 అంతిమంగా
+umbrella 	 గొడుగు
+unable 	 సాధ్యం కాదు
+unacceptable 	 ఆమోదించదగని
+uncertain 	 అనిశ్చిత
+uncle 	 మామయ్య
+uncomfortable 	 అసౌకర్యం
+unconscious 	 మూర్ఛ
+uncontrolled 	 అనియంత్రితం
+under 	 క్రింద
+underground 	 భూగర్భ
+underneath 	 అడుగున ఉన్న
+understand 	 గ్రహించు
+understanding 	 అవగాహన
+underwater 	 నీటి అడుగున
+underwear 	 చెడ్డీ
+undo 	 undo
+unemployed 	 నిరుద్యోగులు
+unemployment 	 నిరుద్యోగం
+unexpected 	 ఆకస్మిక
+unexpectedly 	 అకస్మాత్తుగా
+unfair 	 అన్యాయమైన
+unfairly 	 అన్యాయంగా
+unfortunate 	 దురదృష్టకరం
+unfortunately 	 దురదృష్టవశాత్తు
+unfriendly 	 అన్ ఫ్రెండ్లీ
+unhappy 	 అసంతృప్తిగా ఉంది
+uniform 	 ఏకరీతి
+unimportant 	 unimportant
+union 	 అతుకు
+unique 	 అద్వితీయ
+unit 	 యూనిట్
+unite 	 ఏకం చేయు
+united 	 కూడిన
+universe 	 జగత్తు
+university 	 విశ్వవిద్యాలయం
+unkind 	 unkind
+unknown 	 అజ్ఞాత
+unless 	 తప్ప
+unlike 	 భిన్నంగా
+unlikely 	 సాధ్యం కాదు
+unload 	 దించు
+unlucky 	 దురదృష్టం
+unnecessary 	 అనవసరం
+unpleasant 	 కటువు
+unreasonable 	 అసమంజసంగా
+unsteady 	 అస్థిర
+unsuccessful 	 విఫలమైంది
+untidy 	 untidy
+until 	 వరకు
+unusual 	 అసామాన్యమైన
+unusually 	 అసాధారణంగా
+unwilling 	 ఇష్టం లేదు
+unwillingly 	 అయిష్టంగా
+up 	 పైకి
+upon 	 పైన
+upper 	 మీది
+upset 	 తలకిందులు చేయు
+upsetting 	 కలత చెందడం
+upside down 	 తలక్రిందులు
+upstairs 	 మేడ
+upward 	 పైకి
+upwards 	 పైకి
+urban 	 నగర
+urge 	 అమితమైన కోరిక
+urgent 	 అత్యవసర
+us 	 మనకు
+use 	 ఉపయోగం
+used 1 	 ఉపయోగించబడింది 1
+used 2 	 ఉపయోగించబడింది 2
+used to 	 దీనికి ఉపయోగించబడింది
+useful 	 ఉపయోగకరము
+useless 	 కొరగాని
+user 	 వినియోగదారు
+use up 	 ఉపయోగించండి
+usual 	 మామూలు
+usually 	 సాధారణంగా
+vacation 	 సెలవులు
+valid 	 చెల్లుబాటు అవుతుంది
+valley 	 లోయ
+valuable 	 విలువైన
+value 	 విలువ
+van 	 van
+variation 	 మార్పు
+varied 	 వేర్వేరు
+variety 	 భిన్నత్వం
+various 	 విభిన్న
+vary 	 మారుతుంది
+vast 	 విస్తారంగా
+vegetable 	 కూరగాయ
+vehicle 	 వాహనం
+venture 	 తెగించు
+version 	 వెర్షన్
+vertical 	 నిలువు
+very 	 చాలా
+via 	 ద్వారా
+victim 	 బాధితుడు
+victory 	 గెలుపు
+video 	 వీడియో
+view 	 దృశ్యం
+village 	 ఊరు
+violence 	 హింస
+violent 	 హింసాత్మకమైన
+violently 	 హింసాత్మకంగా
+virtually 	 వర్చువల్ గా
+virus 	 వైరస్
+visible 	 స్పష్టమైన
+vision 	 దృష్టి
+visit 	 దర్శించు
+visitor 	 సందర్శకుడు
+vital 	 కీలకం
+vocabulary 	 పదజాలం
+voice 	 గొంతు
+volume 	 ఘనపరిమాణం
+vote 	 ఓటు
+wage 	 నడుపు
+waist 	 నడుము
+wait 	 వేచి ఉండు
+waiter 	 వేచి చూసేవాడు
+wake 	 మేలుకో
+walk 	 నడక
+walking 	 నడక
+walk out 	 బయటకు నడవండి
+walk up 	 పైకి నడవండి
+wall 	 గోడ
+wallet 	 వాలెట్
+wander 	 దారితప్పు
+want 	 కోరు
+war 	 యుద్ధం
+warm 	 వెచ్చని
+warmth 	 సెగ
+warm up 	 వేడెక్కండి
+warn 	 హెచ్చరించు
+warning 	 హెచ్చరిక
+wash 	 కడుగు
+wash away 	 కడగండి
+washing 	 కడగడం
+wash off 	 కడగండి
+wash out 	 కడగండి
+wash up 	 కడగండి
+waste 	 బీడు
+watch 	 కాపలా
+watch out 	 జాగ్రత్తగా చూడు
+watch out for 	 జాగ్రత్త వహించండి
+water 	 నీరు
+wave 	 అల
+way 	 పద్ధతి
+we 	 మేము
+weak 	 బలహీనమైన
+weakness 	 బలహీనత
+wealth 	 సంపద
+weapon 	 ఆయుధం
+wear 	 ధరించు
+wear away 	 అరుగుదల
+wear off 	 అలసిపోండి
+wear out 	 అలసిపోవడం
+weather 	 కాలము
+web 	 సాలెగూడు
+website 	 వెబ్ సైట్
+wedding 	 పెళ్ళి
+Wednesday 	 బుధవారం
+week 	 వారం
+weekend 	 వీకెండ్
+weekly 	 వార పత్రిక
+weigh 	 తూగు
+weight 	 బరువు
+welcome 	 స్వాగతం
+well 	 నుయ్యి
+well known 	 బాగా ప్రసిద్ధి చెందింది
+west 	 పడమర
+western 	 పడమటి
+wet 	 తడి
+what 	 ఏమి
+whatever 	 ఏమైనా
+wheel 	 చక్రం
+when 	 ఎప్పుడు
+whenever 	 ఎప్పుడైనా
+where 	 ఎక్కడ
+whereas 	 అయితే
+wherever 	 ఎక్కడైనా
+whether 	 లేదా
+which 	 ఏది
+while 	 కొంచెం సేపు
+whisper 	 గుసగుస
+whistle 	 ఈల
+white 	 తెలుపు
+who 	 ఎవరు
+whoever 	 ఎవరైతే
+whole 	 మొత్తం
+whom 	 ఎవరిని
+whose 	 ఎవరిది
+why 	 ఎందువల్ల
+wide 	 వెడల్పైన
+widely 	 విస్తృతంగా
+width 	 వెడల్పు
+wife 	 భార్య
+wild 	 అడవి
+wildly 	 క్రూరంగా
+will 	 వీలునామా
+willing 	 సుముఖత
+willingly 	 ఇష్టపూర్వకంగా
+willingness 	 సుముఖత
+win 	 జయించు
+wind 1 	 గాలి 1
+wind 2 	 గాలి 2
+window 	 కిటికి
+wine 	 ద్రాక్ష సారాయి
+wing 	 రెక్క
+winner 	 విజేత
+winning 	 విజయం సాధించింది
+winter 	 చలికాలం
+wire 	 తీగ
+wise 	 తెలివైన
+wish 	 కోరిక
+with 	 తో
+withdraw 	 ఉపసంహరించు
+within 	 లోబడి
+without 	 లేక
+witness 	 సాక్షి
+woman 	 ఆడది
+wonder 	 వింత
+wonderful 	 ఆశ్చర్యకరమైన
+wood 	 కలప
+wooden 	 చెక్క
+wool 	 ఉన్ని
+word 	 మాట
+work 	 పని
+worker 	 కార్మికుడు
+working 	 పని చేయడం
+work out 	 పని
+world 	 ప్రపంచం
+worried 	 ఆందోళన చెందుతున్నారు
+worry 	 ఆందోళన
+worrying 	 ఆందోళన చెందుతున్నారు
+worse 	 మరింత ఘోరం
+worship 	 ఆరాధించు
+worst 	 చెత్త
+worth 	 యోగ్యత
+would 	 ఉంటుంది
+wound 1 	 గాయం 1
+wounded 	 గాయపడిన వారు
+wrap 	 చుట్టబెట్టు
+wrapping 	 చుట్టడం
+wrist 	 మణికట్టు
+write 	 రచించు
+write back 	 తిరిగి రాయండి
+write down 	 రాయండి
+writer 	 రచయిత
+writing 	 రాత
+written 	 రాశారు
+wrong 	 పొరపాటు
+wrongly 	 తప్పుగా
+yard 	 దొడ్డి
+yawn 	 ఆవలించు
+yeah 	 అవును
+year 	 ఏడాది
+yellow 	 పసుపు
+yes 	 అవును
+yesterday 	 నిన్న
+yet 	 ఇంకా
+you 	 మీరు
+young 	 యువ
+your 	 నీ
+yours 	 నీకు
+yourself 	 నువ్వే
+youth 	 యవ్వనం
+zero 	 సున్న
+zone 	 మండలం
+=== end == 	 === ముగింపు ==
