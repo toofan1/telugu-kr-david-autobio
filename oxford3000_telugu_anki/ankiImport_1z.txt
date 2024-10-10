@@ -1,0 +1,500 @@
+﻿a	ఒక	oka	[sound:ఒక_google_female.mp3]	ఒక పుస్తకం నా దగ్గర ఉంది.	I have a book.
+abandon	విడిచిపెట్టు	viḍicipeṭṭu	[sound:విడిచిపెట్టు_google_female.mp3]	అవన్నీ మర్చిపో, వాటిని విడిచిపెట్టు.	Forget all of that, let it go.
+abandoned	విడిచిపెట్టారు	viḍicipeṭṭāru	[sound:విడిచిపెట్టారు_google_female.mp3]	వారు పక్షిని అడవిలో విడిచిపెట్టారు.	They released the bird into the forest.
+ability	సామర్థ్యం	sāmarthyaṁ	[sound:సామర్థ్యం_google_female.mp3]	ఆమెకు ఏ పని అయినా చేయగల సామర్థ్యం ఉంది.	She has the ability to do any task.
+able	చేయగలరు	cēyagalaru	[sound:చేయగలరు_google_female.mp3]	మీరు ఈ పని సులభంగా చేయగలరు.	You can easily do this task.
+about	గురించి	gurin̄ci	[sound:గురించి_google_female.mp3]	మనము ఈ విషయం గురించి చర్చిద్దాం.	Let's discuss about this matter.
+above	పైన	paina	[sound:పైన_google_female.mp3]	పుస్తకం మెజానికి పైన ఉంది.	The book is on the table.
+abroad	విదేశాలలో	vidēśālalō	[sound:విదేశాలలో_google_female.mp3]	అతని సోదరుడు విదేశాలలో చదువుతున్నాడు.	His brother is studying abroad.
+absence	లేకపోవడం	lēkapōvaḍaṁ	[sound:లేకపోవడం_google_female.mp3]	ఈ సమస్యకు పరిష్కారం లేకపోవడం నాకు బాధగా ఉంది.	The lack of a solution to this problem makes me sad.
+absent	గైర్హాజరు	gair'hājaru	[sound:గైర్హాజరు_google_female.mp3]	స్కూల్‌లో గైర్హాజరు కారణంగా ఆమె తరగతి లోకి రాలేదు.	She did not come to class due to her absence from school.
+absolute	సంపూర్ణమైన	sampūrṇamaina	[sound:సంపూర్ణమైన_google_female.mp3]	అతను ఇచ్చిన సమాధానం సంపూర్ణమైనది.	The answer he gave is complete.
+absolutely	ఖచ్చితంగా	khaccitaṅgā	[sound:ఖచ్చితంగా_google_female.mp3]	ఈ పుస్తకం మీకు ఖచ్చితంగా ఉపయోగపడుతుంది.	This book will definitely be useful to you.
+absorb	గ్రహిస్తాయి	grahistāyi	[sound:గ్రహిస్తాయి_google_female.mp3]	మంచి ఉపన్యాసాన్ని వినే వారికి విషయాలు త్వరగా గ్రహిస్తాయి.	Those who listen to a good lecture understand the concepts quickly.
+abuse	దుర్వినియోగం	durviniyōgaṁ	[sound:దుర్వినియోగం_google_female.mp3]	సామాన్యంగా, పద్దతులు లేనప్పుడు దుర్వినియోగం జరగుతుంది.	Generally, misuse occurs in the absence of proper methods.
+academic	విద్యాసంబంధమైన	vidyāsambandhamaina	[sound:విద్యాసంబంధమైన_google_female.mp3]	విద్యాసంబంధమైన విషయాలను చర్చించడానికి సమావేశం నిర్వహించబడింది.	A meeting was held to discuss educational matters.
+accent	యాస	yāsa	[sound:యాస_google_female.mp3]	ఆమె తెలుగు యాసలో మాట్లాడుతుంటే, చాలా అందంగా ఉంది.	She sounds very beautiful when she speaks in her Telugu accent.
+accept	అంగీకరించు	aṅgīkarin̄cu	[sound:అంగీకరించు_google_female.mp3]	సమస్యలను పరిష్కరించడానికి, ఈ ప్రతిపాదనను అంగీకరించు.	To solve the issues, accept this proposal.
+acceptable	ఆమోదయోగ్యమైనది	āmōdayōgyamainadi	[sound:ఆమోదయోగ్యమైనది_google_female.mp3]	ఈ ప్రాజెక్ట్ ఆమోదయోగ్యమైనది, అందుకే అందరూ దానిని మద్దతు ఇచ్చారు.	This project is acceptable, which is why everyone supported it.
+access	యాక్సెస్	yākses	[sound:యాక్సెస్_google_female.mp3]	నూతన సమాచారానికి యాక్సెస్ పొందడం చాలా ముఖ్యమైంది.	Accessing new information is very important.
+accident	ప్రమాదం	pramādaṁ	[sound:ప్రమాదం_google_female.mp3]	ఆ ప్రమాదంలో ఎవరూ గాయపడలేదు.	No one was injured in that accident.
+accidental	ప్రమాదవశాత్తు	pramādavaśāttu	[sound:ప్రమాదవశాత్తు_google_female.mp3]	ప్రమాదవశాత్తు అతనికి తీవ్ర గాయం అయ్యింది.	He was severely injured due to an accident.
+accidentally	అనుకోకుండా	anukōkuṇḍā	[sound:అనుకోకుండా_google_female.mp3]	అనుకోకుండా అతను మాకు అద్భుతమైన పుస్తకం ఇచ్చాడు.	He unexpectedly gave us a wonderful book.
+accommodation	వసతి	vasati	[sound:వసతి_google_female.mp3]	వసతి కోసం సరైన ప్రదేశాన్ని ఎంచుకోండి.	Choose the right place for accommodation.
+accompany	తోడు	tōḍu	[sound:తోడు_google_female.mp3]	అతనికి పర్యటనలో తోడు కావాలని కోరుకున్నాడు.	He wished to have a companion on the trip.
+according to	ప్రకారం	prakāraṁ	[sound:ప్రకారం_google_female.mp3]	ప్రకారం, ఈ పనిని గడువులో పూర్తిచేయాలి.	According to this, the work must be completed within the deadline.
+account	ఖాతా	khātā	[sound:ఖాతా_google_female.mp3]	నా బ్యాంక్ ఖాతాలో ఆర్ధిక స్థితి మంచిగా ఉంది.	The financial status in my bank account is good.
+account for	కోసం ఖాతా	kōsaṁ khātā	[sound:కోసం ఖాతా_google_female.mp3]	ఈ వ్యయాలకు ప్రత్యేక ఖాతా ఏర్పాటు చేసారు.	A special account has been created for these expenses.
+accurate	ఖచ్చితమైన	khaccitamaina	[sound:ఖచ్చితమైన_google_female.mp3]	అతనికి ఖచ్చితమైన సమాధానం లేదు.	He does not have a definite answer.
+accurately	ఖచ్చితంగా	khaccitaṅgā	[sound:ఖచ్చితంగా_google_female.mp3]	ఈ విషయం ఖచ్చితంగా మీరు తెలుసుకోవాలి.	You definitely need to know this matter.
+accuse	నిందిస్తారు	nindistāru	[sound:నిందిస్తారు_google_female.mp3]	చెల్లెలు ఆలస్యం అయితే ఆమెను నిందిస్తారు.	They criticize my sister if she is late.
+achieve	సాధిస్తారు	sādhistāru	[sound:సాధిస్తారు_google_female.mp3]	ఎంత కష్టం అయినా, వారు తమ లక్ష్యాన్ని సాధిస్తారు.	No matter how hard it is, they will achieve their goal.
+achievement	సాధించిన	sādhin̄cina	[sound:సాధించిన_google_female.mp3]	అతను కష్టపడిన ఫలితం అది సాధించిన విజయం.	That is the success he achieved through hard work.
+acid	యాసిడ్	yāsiḍ	[sound:యాసిడ్_google_female.mp3]	వేడి పానీయాలలో యాసిడ్ ఉన్నప్పుడే, అవి టేస్టీగా ఉంటాయి.	Hot beverages taste good only when they contain acid.
+acknowledge	గుర్తించండి	gurtin̄caṇḍi	[sound:గుర్తించండి_google_female.mp3]	మీరు ఆయన కృషిని గుర్తించండి.	Please acknowledge his efforts.
+a couple	ఒక జంట	oka jaṇṭa	[sound:ఒక జంట_google_female.mp3]	ఒక జంట పార్క్‌లో సేపు తిరిగింది.	A couple walked around the park for a while.
+acquire	సంపాదించు	sampādin̄cu	[sound:సంపాదించు_google_female.mp3]	అతను కష్టపడి డబ్బు సంపాదించాడు.	He earned money through hard work.
+across	అంతటా	antaṭā	[sound:అంతటా_google_female.mp3]	వర్షం గ్రామం అంతటా కురిసింది.	The rain fell all over the village.
+act	చట్టం	caṭṭaṁ	[sound:చట్టం_google_female.mp3]	ప్రతి ఒక్కరూ చట్టాన్ని గౌరవించాలి.	Everyone must respect the law.
+action	చర్య	carya	[sound:చర్య_google_female.mp3]	ప్రభుత్వం కఠినమైన చర్యలు తీసుకుంది.	The government has taken strict actions.
+active	చురుకుగా	curukugā	[sound:చురుకుగా_google_female.mp3]	ఆమె చురుకు వ్యక్తి, ఎల్లప్పుడూ కొత్త విషయాలు నేర్చుకోవడానికి సిద్ధంగా ఉంటుంది.	She is an active person, always ready to learn new things.
+actively	చురుకుగా	curukugā	[sound:చురుకుగా_google_female.mp3]	ఆమె చురుకుగా అన్ని పనులు పూర్తి చేసింది.	She actively completed all the tasks.
+activity	కార్యాచరణ	kāryācaraṇa	[sound:కార్యాచరణ_google_female.mp3]	ఈ సమస్యను పరిష్కరించడానికి సరైన కార్యాచరణ అవసరం.	A proper course of action is necessary to solve this problem.
+actor	నటుడు	naṭuḍu	[sound:నటుడు_google_female.mp3]	ఆ నటుడు తన అభినయంతో ప్రేక్షకులను మెప్పించాడు.	That actor impressed the audience with his performance.
+actress	నటి	naṭi	[sound:నటి_google_female.mp3]	ఆ నటి తన పాత్రను బాగా నటించింది.	That actress performed her role very well.
+actual	అసలు	asalu	[sound:అసలు_google_female.mp3]	అసలు అతను ఇక్కడికి వచ్చాడా?	Did he actually come here?
+actually	నిజానికి	nijāniki	[sound:నిజానికి_google_female.mp3]	నిజానికి, ఈ విషయం గురించి నాకు ముందే తెలుసు.	In fact, I already knew about this.
+ad	ప్రకటన	prakaṭana	[sound:ప్రకటన_google_female.mp3]	ప్రభుత్వం కొత్త విధానంపై ప్రకటన చేసింది.	The government made an announcement about the new policy.
+adapt	స్వీకరించు	svīkarin̄cu	[sound:స్వీకరించు_google_female.mp3]	ఆమె ఆహ్వానాన్ని సంతోషంగా స్వీకరించింది.	She gladly accepted the invitation.
+add	జోడించు	jōḍin̄cu	[sound:జోడించు_google_female.mp3]	ఈ ఫైల్‌కు ఒక డాక్యుమెంట్‌ను జోడించు.	Attach a document to this file.
+addition	అదనంగా	adanaṅgā	[sound:అదనంగా_google_female.mp3]	అదనంగా ఇంకొన్ని వివరాలు పంపించండి.	Send additional details.
+additional	అదనపు	adanapu	[sound:అదనపు_google_female.mp3]	అతను అదనపు పనిని చేయడానికి సిద్ధంగా ఉన్నాడు.	He is ready to do extra work.
+add on	జోడించు	jōḍin̄cu	[sound:జోడించు_google_female.mp3]	ప్రతివాదానికి మరిన్ని సాక్ష్యాలను జోడించు.	Add more evidence to the defense.
+address	చిరునామా	cirunāmā	[sound:చిరునామా_google_female.mp3]	మీరు దయచేసి మీ కొత్త చిరునామా ఇవ్వగలరా?	Could you please provide your new address?
+add up	చేర్చండి	cērcaṇḍi	[sound:చేర్చండి_google_female.mp3]	ఈ జాబితాలో నా పేరును కూడా చేర్చండి.	Please add my name to this list as well.
+add up to	వరకు జోడించండి	varaku jōḍin̄caṇḍi	[sound:వరకు జోడించండి_google_female.mp3]	ఈ ఖర్చులు రూ. 10,000 వరకు చేరుకున్నాయి.	These expenses added up to ₹10,000.
+adequate	తగినంత	taginanta	[sound:తగినంత_google_female.mp3]	ఈ పనిని పూర్తి చేయడానికి తగినంత సమయం ఉంది.	There is enough time to complete this work.
+adequately	తగినంతగా	taginantagā	[sound:తగినంతగా_google_female.mp3]	న    	na
+adjust	సర్దుబాటు	sardubāṭu	[sound:సర్దుబాటు_google_female.mp3]	న    	na
+admiration	మెచ్చుకోవడం	meccukōvaḍaṁ	[sound:మెచ్చుకోవడం_google_female.mp3]	న    	na
+admire	మెచ్చుకుంటారు	meccukuṇṭāru	[sound:మెచ్చుకుంటారు_google_female.mp3]	న    	na
+admit	ఒప్పుకుంటారు	oppukuṇṭāru	[sound:ఒప్పుకుంటారు_google_female.mp3]	న    	na
+adopt	స్వీకరించు	svīkarin̄cu	[sound:స్వీకరించు_google_female.mp3]	న    	na
+adult	పెద్దలు	peddalu	[sound:పెద్దలు_google_female.mp3]	న    	na
+advance	ముందుకు	munduku	[sound:ముందుకు_google_female.mp3]	న    	na
+advanced	అభివృద్ధి చెందింది	abhivr̥d'dhi cendindi	[sound:అభివృద్ధి చెందింది_google_female.mp3]	న    	na
+advantage	ప్రయోజనం	prayōjanaṁ	[sound:ప్రయోజనం_google_female.mp3]	న    	na
+adventure	సాహసం	sāhasaṁ	[sound:సాహసం_google_female.mp3]	న    	na
+advert	ప్రకటన	prakaṭana	[sound:ప్రకటన_google_female.mp3]	న    	na
+advertise	ప్రచారం చేయండి	pracāraṁ cēyaṇḍi	[sound:ప్రచారం చేయండి_google_female.mp3]	న    	na
+advertisement	ప్రకటన	prakaṭana	[sound:ప్రకటన_google_female.mp3]	న    	na
+advertising	ప్రకటనలు	prakaṭanalu	[sound:ప్రకటనలు_google_female.mp3]	న    	na
+advice	సలహా	salahā	[sound:సలహా_google_female.mp3]	న    	na
+advise	సలహా ఇవ్వండి	salahā ivvaṇḍi	[sound:సలహా ఇవ్వండి_google_female.mp3]	న    	na
+affair	వ్యవహారం	vyavahāraṁ	[sound:వ్యవహారం_google_female.mp3]	న    	na
+affect	ప్రభావితం చేస్తాయి	prabhāvitaṁ cēstāyi	[sound:ప్రభావితం చేస్తాయి_google_female.mp3]	న    	na
+affection	ఆప్యాయత	āpyāyata	[sound:ఆప్యాయత_google_female.mp3]	న    	na
+afford	స్థోమత	sthōmata	[sound:స్థోమత_google_female.mp3]	న    	na
+afraid	భయపడ్డాను	bhayapaḍḍānu	[sound:భయపడ్డాను_google_female.mp3]	న    	na
+after	తర్వాత	tarvāta	[sound:తర్వాత_google_female.mp3]	న    	na
+afternoon	మధ్యాహ్నం	madhyāhnaṁ	[sound:మధ్యాహ్నం_google_female.mp3]	న    	na
+afterwards	తరువాత	taruvāta	[sound:తరువాత_google_female.mp3]	న    	na
+again	మళ్ళీ	maḷḷī	[sound:మళ్ళీ_google_female.mp3]	న    	na
+against	వ్యతిరేకంగా	vyatirēkaṅgā	[sound:వ్యతిరేకంగా_google_female.mp3]	న    	na
+age	వయస్సు	vayas'su	[sound:వయస్సు_google_female.mp3]	న    	na
+aged	వృద్ధుడు	vr̥d'dhuḍu	[sound:వృద్ధుడు_google_female.mp3]	న    	na
+agency	ఏజెన్సీ	ējensī	[sound:ఏజెన్సీ_google_female.mp3]	న    	na
+agent	ఏజెంట్	ējeṇṭ	[sound:ఏజెంట్_google_female.mp3]	న    	na
+aggressive	దూకుడు	dūkuḍu	[sound:దూకుడు_google_female.mp3]	న    	na
+ago	క్రితం	kritaṁ	[sound:క్రితం_google_female.mp3]	న    	na
+agree	అంగీకరిస్తున్నారు	aṅgīkaristunnāru	[sound:అంగీకరిస్తున్నారు_google_female.mp3]	న    	na
+agreement	ఒప్పందం	oppandaṁ	[sound:ఒప్పందం_google_female.mp3]	న    	na
+ahead	ముందుకు	munduku	[sound:ముందుకు_google_female.mp3]	న    	na
+aid	సహాయం	sahāyaṁ	[sound:సహాయం_google_female.mp3]	న    	na
+aim	లక్ష్యం	lakṣyaṁ	[sound:లక్ష్యం_google_female.mp3]	న    	na
+air	గాలి	gāli	[sound:గాలి_google_female.mp3]	న    	na
+aircraft	విమానం	vimānaṁ	[sound:విమానం_google_female.mp3]	న    	na
+airport	విమానాశ్రయం	vimānāśrayaṁ	[sound:విమానాశ్రయం_google_female.mp3]	న    	na
+alarm	అలారం	alāraṁ	[sound:అలారం_google_female.mp3]	న    	na
+alarmed	అప్రమత్తమయ్యారు	apramattamayyāru	[sound:అప్రమత్తమయ్యారు_google_female.mp3]	న    	na
+alarming	ఆందోళనకరమైన	āndōḷanakaramaina	[sound:ఆందోళనకరమైన_google_female.mp3]	న    	na
+alcohol	మద్యం	madyaṁ	[sound:మద్యం_google_female.mp3]	న    	na
+alcoholic	మద్యపానం	madyapānaṁ	[sound:మద్యపానం_google_female.mp3]	న    	na
+alive	సజీవంగా	sajīvaṅgā	[sound:సజీవంగా_google_female.mp3]	న    	na
+all	అన్ని	anni	[sound:అన్ని_google_female.mp3]	న    	na
+allied	పొత్తు పెట్టుకుంది	pottu peṭṭukundi	[sound:పొత్తు పెట్టుకుంది_google_female.mp3]	న    	na
+allow	అనుమతిస్తాయి	anumatistāyi	[sound:అనుమతిస్తాయి_google_female.mp3]	న    	na
+allow for	అనుమతిస్తాయి	anumatistāyi	[sound:అనుమతిస్తాయి_google_female.mp3]	న    	na
+all right	సరే	sarē	[sound:సరే_google_female.mp3]	న    	na
+ally	మిత్రుడు	mitruḍu	[sound:మిత్రుడు_google_female.mp3]	న    	na
+almost	దాదాపు	dādāpu	[sound:దాదాపు_google_female.mp3]	న    	na
+alone	ఒంటరిగా	oṇṭarigā	[sound:ఒంటరిగా_google_female.mp3]	న    	na
+along	పాటు	pāṭu	[sound:పాటు_google_female.mp3]	న    	na
+alongside	పక్కన	pakkana	[sound:పక్కన_google_female.mp3]	న    	na
+aloud	బిగ్గరగా	biggaragā	[sound:బిగ్గరగా_google_female.mp3]	న    	na
+alphabet	వర్ణమాల	varṇamāla	[sound:వర్ణమాల_google_female.mp3]	న    	na
+alphabetical	అక్షరక్రమం	akṣarakramaṁ	[sound:అక్షరక్రమం_google_female.mp3]	న    	na
+alphabetically	అక్షరక్రమంలో	akṣarakramanlō	[sound:అక్షరక్రమంలో_google_female.mp3]	న    	na
+already	ఇప్పటికే	ippaṭikē	[sound:ఇప్పటికే_google_female.mp3]	న    	na
+also	కూడా	kūḍā	[sound:కూడా_google_female.mp3]	న    	na
+alter	మార్చు	mārcu	[sound:మార్చు_google_female.mp3]	న    	na
+alternative	ప్రత్యామ్నాయం	pratyāmnāyaṁ	[sound:ప్రత్యామ్నాయం_google_female.mp3]	న    	na
+alternatively	ప్రత్యామ్నాయంగా	pratyāmnāyaṅgā	[sound:ప్రత్యామ్నాయంగా_google_female.mp3]	న    	na
+although	అయినప్పటికీ	ayinappaṭikī	[sound:అయినప్పటికీ_google_female.mp3]	న    	na
+altogether	పూర్తిగా	pūrtigā	[sound:పూర్తిగా_google_female.mp3]	న    	na
+always	ఎల్లప్పుడూ	ellappuḍū	[sound:ఎల్లప్పుడూ_google_female.mp3]	న    	na
+a.m.	a.m.	a.M.	[sound:a.m._google_female.mp3]	న    	na
+amaze	ఆశ్చర్యపరుస్తాయి	āścaryaparustāyi	[sound:ఆశ్చర్యపరుస్తాయి_google_female.mp3]	న    	na
+amazed	ఆశ్చర్యపోయాడు	āścaryapōyāḍu	[sound:ఆశ్చర్యపోయాడు_google_female.mp3]	న    	na
+amazing	అద్భుతమైన	adbhutamaina	[sound:అద్భుతమైన_google_female.mp3]	న    	na
+ambition	ఆశయం	āśayaṁ	[sound:ఆశయం_google_female.mp3]	న    	na
+ambulance	అంబులెన్స్	ambulens	[sound:అంబులెన్స్_google_female.mp3]	న    	na
+among	మధ్య	madhya	[sound:మధ్య_google_female.mp3]	న    	na
+amount	మొత్తం	mottaṁ	[sound:మొత్తం_google_female.mp3]	న    	na
+amount to	మొత్తం	mottaṁ	[sound:మొత్తం_google_female.mp3]	న    	na
+amuse	వినోదం	vinōdaṁ	[sound:వినోదం_google_female.mp3]	న    	na
+amused	నవ్వించాడు	navvin̄cāḍu	[sound:నవ్వించాడు_google_female.mp3]	న    	na
+amusing	వినోదభరితమైన	vinōdabharitamaina	[sound:వినోదభరితమైన_google_female.mp3]	న    	na
+analyse	విశ్లేషించండి	viślēṣin̄caṇḍi	[sound:విశ్లేషించండి_google_female.mp3]	న    	na
+analysis	విశ్లేషణ	viślēṣaṇa	[sound:విశ్లేషణ_google_female.mp3]	న    	na
+ancient	పురాతనమైనది	purātanamainadi	[sound:పురాతనమైనది_google_female.mp3]	న    	na
+and	మరియు	mariyu	[sound:మరియు_google_female.mp3]	న    	na
+anger	కోపం	kōpaṁ	[sound:కోపం_google_female.mp3]	న    	na
+angle	కోణం	kōṇaṁ	[sound:కోణం_google_female.mp3]	న    	na
+angrily	కోపంగా	kōpaṅgā	[sound:కోపంగా_google_female.mp3]	న    	na
+angry	కోపంగా	kōpaṅgā	[sound:కోపంగా_google_female.mp3]	న    	na
+animal	జంతువు	jantuvu	[sound:జంతువు_google_female.mp3]	న    	na
+ankle	చీలమండ	cīlamaṇḍa	[sound:చీలమండ_google_female.mp3]	న    	na
+anniversary	వార్షికోత్సవం	vārṣikōtsavaṁ	[sound:వార్షికోత్సవం_google_female.mp3]	న    	na
+announce	ప్రకటించండి	prakaṭin̄caṇḍi	[sound:ప్రకటించండి_google_female.mp3]	న    	na
+annoy	బాధించు	bādhin̄cu	[sound:బాధించు_google_female.mp3]	న    	na
+annoyed	చిరాకుపడ్డాడు	cirākupaḍḍāḍu	[sound:చిరాకుపడ్డాడు_google_female.mp3]	న    	na
+annoying	బాధించే	bādhin̄cē	[sound:బాధించే_google_female.mp3]	న    	na
+annual	వార్షిక	vārṣika	[sound:వార్షిక_google_female.mp3]	న    	na
+annually	ఏటా	ēṭā	[sound:ఏటా_google_female.mp3]	న    	na
+another	మరొకటి	marokaṭi	[sound:మరొకటి_google_female.mp3]	న    	na
+answer	సమాధానం	samādhānaṁ	[sound:సమాధానం_google_female.mp3]	న    	na
+anti-	వ్యతిరేక	vyatirēka	[sound:వ్యతిరేక_google_female.mp3]	న    	na
+anticipate	ఎదురుచూడాలి	edurucūḍāli	[sound:ఎదురుచూడాలి_google_female.mp3]	న    	na
+anxiety	ఆందోళన	āndōḷana	[sound:ఆందోళన_google_female.mp3]	న    	na
+anxious	ఆత్రుతగా	ātrutagā	[sound:ఆత్రుతగా_google_female.mp3]	న    	na
+anxiously	ఆత్రుతగా	ātrutagā	[sound:ఆత్రుతగా_google_female.mp3]	న    	na
+any	ఏదైనా	ēdainā	[sound:ఏదైనా_google_female.mp3]	న    	na
+anybody	ఎవరైనా	evarainā	[sound:ఎవరైనా_google_female.mp3]	న    	na
+anyone	ఎవరైనా	evarainā	[sound:ఎవరైనా_google_female.mp3]	న    	na
+anything	ఏదైనా	ēdainā	[sound:ఏదైనా_google_female.mp3]	న    	na
+anyway	ఏమైనప్పటికీ	ēmainappaṭikī	[sound:ఏమైనప్పటికీ_google_female.mp3]	న    	na
+anywhere	ఎక్కడైనా	ekkaḍainā	[sound:ఎక్కడైనా_google_female.mp3]	న    	na
+apart	వేరుగా	vērugā	[sound:వేరుగా_google_female.mp3]	న    	na
+apart from	కాకుండా	kākuṇḍā	[sound:కాకుండా_google_female.mp3]	న    	na
+apartment	అపార్ట్మెంట్	apārṭmeṇṭ	[sound:అపార్ట్మెంట్_google_female.mp3]	న    	na
+apologize	క్షమాపణ చెప్పండి	kṣamāpaṇa ceppaṇḍi	[sound:క్షమాపణ చెప్పండి_google_female.mp3]	న    	na
+apparent	స్పష్టమైన	spaṣṭamaina	[sound:స్పష్టమైన_google_female.mp3]	న    	na
+apparently	స్పష్టంగా	spaṣṭaṅgā	[sound:స్పష్టంగా_google_female.mp3]	న    	na
+appeal	విజ్ఞప్తి	vijñapti	[sound:విజ్ఞప్తి_google_female.mp3]	న    	na
+appear	కనిపిస్తాయి	kanipistāyi	[sound:కనిపిస్తాయి_google_female.mp3]	న    	na
+appearance	ప్రదర్శన	pradarśana	[sound:ప్రదర్శన_google_female.mp3]	న    	na
+apple	ఆపిల్	āpil	[sound:ఆపిల్_google_female.mp3]	న    	na
+application	అప్లికేషన్	aplikēṣan	[sound:అప్లికేషన్_google_female.mp3]	న    	na
+apply	దరఖాస్తు	darakhāstu	[sound:దరఖాస్తు_google_female.mp3]	న    	na
+appoint	నియమిస్తారు	niyamistāru	[sound:నియమిస్తారు_google_female.mp3]	న    	na
+appointment	నియామకం	niyāmakaṁ	[sound:నియామకం_google_female.mp3]	న    	na
+appreciate	అభినందిస్తున్నాము	abhinandistunnāmu	[sound:అభినందిస్తున్నాము_google_female.mp3]	న    	na
+approach	విధానం	vidhānaṁ	[sound:విధానం_google_female.mp3]	న    	na
+appropriate	తగిన	tagina	[sound:తగిన_google_female.mp3]	న    	na
+approval	ఆమోదం	āmōdaṁ	[sound:ఆమోదం_google_female.mp3]	న    	na
+approve	ఆమోదించండి	āmōdin̄caṇḍi	[sound:ఆమోదించండి_google_female.mp3]	న    	na
+approving	ఆమోదించడం	āmōdin̄caḍaṁ	[sound:ఆమోదించడం_google_female.mp3]	న    	na
+approximate	సుమారుగా	sumārugā	[sound:సుమారుగా_google_female.mp3]	న    	na
+approximately	సుమారుగా	sumārugā	[sound:సుమారుగా_google_female.mp3]	న    	na
+April	ఏప్రిల్	ēpril	[sound:ఏప్రిల్_google_female.mp3]	న    	na
+area	ప్రాంతం	prāntaṁ	[sound:ప్రాంతం_google_female.mp3]	న    	na
+argue	వాదిస్తారు	vādistāru	[sound:వాదిస్తారు_google_female.mp3]	న    	na
+argument	వాదన	vādana	[sound:వాదన_google_female.mp3]	న    	na
+arise	తలెత్తుతాయి	talettutāyi	[sound:తలెత్తుతాయి_google_female.mp3]	న    	na
+arm	చేయి	cēyi	[sound:చేయి_google_female.mp3]	న    	na
+armed	సాయుధ	sāyudha	[sound:సాయుధ_google_female.mp3]	న    	na
+arms	చేతులు	cētulu	[sound:చేతులు_google_female.mp3]	న    	na
+army	సైన్యం	sain'yaṁ	[sound:సైన్యం_google_female.mp3]	న    	na
+around	చుట్టూ	cuṭṭū	[sound:చుట్టూ_google_female.mp3]	న    	na
+arrange	ఏర్పాట్లు	ērpāṭlu	[sound:ఏర్పాట్లు_google_female.mp3]	న    	na
+arrangement	అమరిక	amarika	[sound:అమరిక_google_female.mp3]	న    	na
+arrest	అరెస్టు	aresṭu	[sound:అరెస్టు_google_female.mp3]	న    	na
+arrival	రాక	rāka	[sound:రాక_google_female.mp3]	న    	na
+arrive	చేరుకుంటారు	cērukuṇṭāru	[sound:చేరుకుంటారు_google_female.mp3]	న    	na
+arrive at	వద్దకు చేరుకుంటారు	vaddaku cērukuṇṭāru	[sound:వద్దకు చేరుకుంటారు_google_female.mp3]	న    	na
+arrow	బాణం	bāṇaṁ	[sound:బాణం_google_female.mp3]	న    	na
+art	కళ	kaḷa	[sound:కళ_google_female.mp3]	న    	na
+article	వ్యాసం	vyāsaṁ	[sound:వ్యాసం_google_female.mp3]	న    	na
+artificial	కృత్రిమ	kr̥trima	[sound:కృత్రిమ_google_female.mp3]	న    	na
+artificially	కృత్రిమంగా	kr̥trimaṅgā	[sound:కృత్రిమంగా_google_female.mp3]	న    	na
+artist	కళాకారుడు	kaḷākāruḍu	[sound:కళాకారుడు_google_female.mp3]	న    	na
+artistic	కళాత్మకమైనది	kaḷātmakamainadi	[sound:కళాత్మకమైనది_google_female.mp3]	న    	na
+artistically	కళాత్మకంగా	kaḷātmakaṅgā	[sound:కళాత్మకంగా_google_female.mp3]	న    	na
+as	వంటి	vaṇṭi	[sound:వంటి_google_female.mp3]	న    	na
+ashamed	సిగ్గుపడ్డాడు	siggupaḍḍāḍu	[sound:సిగ్గుపడ్డాడు_google_female.mp3]	న    	na
+aside	ప్రక్కన	prakkana	[sound:ప్రక్కన_google_female.mp3]	న    	na
+aside from	పక్కన	pakkana	[sound:పక్కన_google_female.mp3]	న    	na
+ask	అడగండి	aḍagaṇḍi	[sound:అడగండి_google_female.mp3]	న    	na
+asleep	నిద్రపోతున్నాను	nidrapōtunnānu	[sound:నిద్రపోతున్నాను_google_female.mp3]	న    	na
+aspect	అంశం	anśaṁ	[sound:అంశం_google_female.mp3]	న    	na
+assist	సహాయం	sahāyaṁ	[sound:సహాయం_google_female.mp3]	న    	na
+assistance	సహాయం	sahāyaṁ	[sound:సహాయం_google_female.mp3]	న    	na
+assistant	సహాయకుడు	sahāyakuḍu	[sound:సహాయకుడు_google_female.mp3]	న    	na
+associate	సహచరుడు	sahacaruḍu	[sound:సహచరుడు_google_female.mp3]	న    	na
+associated	అనుబంధించబడింది	anubandhin̄cabaḍindi	[sound:అనుబంధించబడింది_google_female.mp3]	న    	na
+association	సంఘం	saṅghaṁ	[sound:సంఘం_google_female.mp3]	న    	na
+assume	ఊహిస్తారు	ūhistāru	[sound:ఊహిస్తారు_google_female.mp3]	న    	na
+assure	భరోసా	bharōsā	[sound:భరోసా_google_female.mp3]	న    	na
+at	వద్ద	vadda	[sound:వద్ద_google_female.mp3]	న    	na
+atmosphere	వాతావరణం	vātāvaraṇaṁ	[sound:వాతావరణం_google_female.mp3]	న    	na
+atom	పరమాణువు	paramāṇuvu	[sound:పరమాణువు_google_female.mp3]	న    	na
+attach	అటాచ్ చేయండి	aṭāc cēyaṇḍi	[sound:అటాచ్ చేయండి_google_female.mp3]	న    	na
+attached	జోడించబడింది	jōḍin̄cabaḍindi	[sound:జోడించబడింది_google_female.mp3]	న    	na
+attack	దాడి	dāḍi	[sound:దాడి_google_female.mp3]	న    	na
+attempt	ప్రయత్నం	prayatnaṁ	[sound:ప్రయత్నం_google_female.mp3]	న    	na
+attempted	ప్రయత్నించాడు	prayatnin̄cāḍu	[sound:ప్రయత్నించాడు_google_female.mp3]	న    	na
+attend	హాజరు	hājaru	[sound:హాజరు_google_female.mp3]	న    	na
+attend to	హాజరు	hājaru	[sound:హాజరు_google_female.mp3]	న    	na
+attention	శ్రద్ధ	śrad'dha	[sound:శ్రద్ధ_google_female.mp3]	న    	na
+attitude	వైఖరి	vaikhari	[sound:వైఖరి_google_female.mp3]	న    	na
+attorney	న్యాయవాది	n'yāyavādi	[sound:న్యాయవాది_google_female.mp3]	న    	na
+attract	ఆకర్షిస్తాయి	ākarṣistāyi	[sound:ఆకర్షిస్తాయి_google_female.mp3]	న    	na
+attraction	ఆకర్షణ	ākarṣaṇa	[sound:ఆకర్షణ_google_female.mp3]	న    	na
+attractive	ఆకర్షణీయమైన	ākarṣaṇīyamaina	[sound:ఆకర్షణీయమైన_google_female.mp3]	న    	na
+audience	ప్రేక్షకులు	prēkṣakulu	[sound:ప్రేక్షకులు_google_female.mp3]	న    	na
+August	ఆగస్టు	āgasṭu	[sound:ఆగస్టు_google_female.mp3]	న    	na
+aunt	అత్త	atta	[sound:అత్త_google_female.mp3]	న    	na
+author	రచయిత	racayita	[sound:రచయిత_google_female.mp3]	న    	na
+authority	అధికారం	adhikāraṁ	[sound:అధికారం_google_female.mp3]	న    	na
+automatic	ఆటోమేటిక్	āṭōmēṭik	[sound:ఆటోమేటిక్_google_female.mp3]	న    	na
+automatically	స్వయంచాలకంగా	svayan̄cālakaṅgā	[sound:స్వయంచాలకంగా_google_female.mp3]	న    	na
+autumn	శరదృతువు	śaradr̥tuvu	[sound:శరదృతువు_google_female.mp3]	న    	na
+available	అందుబాటులో	andubāṭulō	[sound:అందుబాటులో_google_female.mp3]	న    	na
+average	సగటు	sagaṭu	[sound:సగటు_google_female.mp3]	న    	na
+avoid	నివారించండి	nivārin̄caṇḍi	[sound:నివారించండి_google_female.mp3]	న    	na
+awake	మేల్కొని	mēlkoni	[sound:మేల్కొని_google_female.mp3]	న    	na
+award	అవార్డు	avārḍu	[sound:అవార్డు_google_female.mp3]	న    	na
+aware	తెలుసు	telusu	[sound:తెలుసు_google_female.mp3]	న    	na
+away	దూరంగా	dūraṅgā	[sound:దూరంగా_google_female.mp3]	న    	na
+awful	భయంకరం	bhayaṅkaraṁ	[sound:భయంకరం_google_female.mp3]	న    	na
+awfully	భయంకరంగా	bhayaṅkaraṅgā	[sound:భయంకరంగా_google_female.mp3]	న    	na
+awkward	ఇబ్బందికరమైన	ibbandikaramaina	[sound:ఇబ్బందికరమైన_google_female.mp3]	న    	na
+awkwardly	వికారంగా	vikāraṅgā	[sound:వికారంగా_google_female.mp3]	న    	na
+baby	శిశువు	śiśuvu	[sound:శిశువు_google_female.mp3]	న    	na
+back	తిరిగి	tirigi	[sound:తిరిగి_google_female.mp3]	న    	na
+background	నేపథ్యం	nēpathyaṁ	[sound:నేపథ్యం_google_female.mp3]	న    	na
+back up	బ్యాకప్	byākap	[sound:బ్యాకప్_google_female.mp3]	న    	na
+backward	వెనుకబడిన	venukabaḍina	[sound:వెనుకబడిన_google_female.mp3]	న    	na
+backwards	వెనుకకు	venukaku	[sound:వెనుకకు_google_female.mp3]	న    	na
+bacteria	బాక్టీరియా	bākṭīriyā	[sound:బాక్టీరియా_google_female.mp3]	న    	na
+bad	చెడు	ceḍu	[sound:చెడు_google_female.mp3]	న    	na
+badly	చెడుగా	ceḍugā	[sound:చెడుగా_google_female.mp3]	న    	na
+bad-tempered	చెడు స్వభావం కలవాడు	ceḍu svabhāvaṁ kalavāḍu	[sound:చెడు స్వభావం కలవాడు_google_female.mp3]	న    	na
+bag	సంచి	san̄ci	[sound:సంచి_google_female.mp3]	న    	na
+baggage	సామాను	sāmānu	[sound:సామాను_google_female.mp3]	న    	na
+bake	కాల్చండి	kālcaṇḍi	[sound:కాల్చండి_google_female.mp3]	న    	na
+balance	సంతులనం	santulanaṁ	[sound:సంతులనం_google_female.mp3]	న    	na
+ball	బంతి	banti	[sound:బంతి_google_female.mp3]	న    	na
+ban	నిషేధించండి	niṣēdhin̄caṇḍi	[sound:నిషేధించండి_google_female.mp3]	న    	na
+band	బ్యాండ్	byāṇḍ	[sound:బ్యాండ్_google_female.mp3]	న    	na
+bandage	కట్టు	kaṭṭu	[sound:కట్టు_google_female.mp3]	న    	na
+bank	బ్యాంకు	byāṅku	[sound:బ్యాంకు_google_female.mp3]	న    	na
+bar	బార్	bār	[sound:బార్_google_female.mp3]	న    	na
+bargain	బేరం	bēraṁ	[sound:బేరం_google_female.mp3]	న    	na
+barrier	అడ్డంకి	aḍḍaṅki	[sound:అడ్డంకి_google_female.mp3]	న    	na
+base	బేస్	bēs	[sound:బేస్_google_female.mp3]	న    	na
+based	ఆధారంగా	ādhāraṅgā	[sound:ఆధారంగా_google_female.mp3]	న    	na
+base on	ఆధారంగా	ādhāraṅgā	[sound:ఆధారంగా_google_female.mp3]	న    	na
+basic	ప్రాథమిక	prāthamika	[sound:ప్రాథమిక_google_female.mp3]	న    	na
+basically	ప్రాథమికంగా	prāthamikaṅgā	[sound:ప్రాథమికంగా_google_female.mp3]	న    	na
+basis	ఆధారంగా	ādhāraṅgā	[sound:ఆధారంగా_google_female.mp3]	న    	na
+bath	స్నానం	snānaṁ	[sound:స్నానం_google_female.mp3]	న    	na
+bathroom	బాత్రూమ్	bātrūm	[sound:బాత్రూమ్_google_female.mp3]	న    	na
+battery	బ్యాటరీ	byāṭarī	[sound:బ్యాటరీ_google_female.mp3]	న    	na
+battle	యుద్ధం	yud'dhaṁ	[sound:యుద్ధం_google_female.mp3]	న    	na
+bay	బే	bē	[sound:బే_google_female.mp3]	న    	na
+be	ఉంటుంది	uṇṭundi	[sound:ఉంటుంది_google_female.mp3]	న    	na
+beach	బీచ్	bīc	[sound:బీచ్_google_female.mp3]	న    	na
+beak	ముక్కు	mukku	[sound:ముక్కు_google_female.mp3]	న    	na
+bear	ఎలుగుబంటి	elugubaṇṭi	[sound:ఎలుగుబంటి_google_female.mp3]	న    	na
+beard	గడ్డం	gaḍḍaṁ	[sound:గడ్డం_google_female.mp3]	న    	na
+beat	కొట్టారు	koṭṭāru	[sound:కొట్టారు_google_female.mp3]	న    	na
+beat up	కొట్టారు	koṭṭāru	[sound:కొట్టారు_google_female.mp3]	న    	na
+beautiful	అందమైన	andamaina	[sound:అందమైన_google_female.mp3]	న    	na
+beautifully	అందంగా	andaṅgā	[sound:అందంగా_google_female.mp3]	న    	na
+beauty	అందం	andaṁ	[sound:అందం_google_female.mp3]	న    	na
+because	ఎందుకంటే	endukaṇṭē	[sound:ఎందుకంటే_google_female.mp3]	న    	na
+because of	ఎందుకంటే	endukaṇṭē	[sound:ఎందుకంటే_google_female.mp3]	న    	na
+become	అవుతాయి	avutāyi	[sound:అవుతాయి_google_female.mp3]	న    	na
+bed	మంచం	man̄caṁ	[sound:మంచం_google_female.mp3]	న    	na
+bedroom	పడకగది	paḍakagadi	[sound:పడకగది_google_female.mp3]	న    	na
+beef	గొడ్డు మాంసం	goḍḍu mānsaṁ	[sound:గొడ్డు మాంసం_google_female.mp3]	న    	na
+beer	బీరు	bīru	[sound:బీరు_google_female.mp3]	న    	na
+before	ముందు	mundu	[sound:ముందు_google_female.mp3]	న    	na
+begin	ప్రారంభం	prārambhaṁ	[sound:ప్రారంభం_google_female.mp3]	న    	na
+beginning	ప్రారంభం	prārambhaṁ	[sound:ప్రారంభం_google_female.mp3]	న    	na
+behalf	తరపున	tarapuna	[sound:తరపున_google_female.mp3]	న    	na
+behave	ప్రవర్తిస్తారు	pravartistāru	[sound:ప్రవర్తిస్తారు_google_female.mp3]	న    	na
+behaviour	ప్రవర్తన	pravartana	[sound:ప్రవర్తన_google_female.mp3]	న    	na
+behind	వెనుక	venuka	[sound:వెనుక_google_female.mp3]	న    	na
+be left over	మిగులుతుంది	migulutundi	[sound:మిగులుతుంది_google_female.mp3]	న    	na
+belief	నమ్మకం	nam'makaṁ	[sound:నమ్మకం_google_female.mp3]	న    	na
+believe	నమ్మకం	nam'makaṁ	[sound:నమ్మకం_google_female.mp3]	న    	na
+believe in	నమ్మకం	nam'makaṁ	[sound:నమ్మకం_google_female.mp3]	న    	na
+bell	గంట	gaṇṭa	[sound:గంట_google_female.mp3]	న    	na
+belong	చెందినవి	cendinavi	[sound:చెందినవి_google_female.mp3]	న    	na
+belong to	చెందినవి	cendinavi	[sound:చెందినవి_google_female.mp3]	న    	na
+below	క్రింద	krinda	[sound:క్రింద_google_female.mp3]	న    	na
+belt	బెల్ట్	belṭ	[sound:బెల్ట్_google_female.mp3]	న    	na
+bend	వంచు	van̄cu	[sound:వంచు_google_female.mp3]	న    	na
+beneath	కింద	kinda	[sound:కింద_google_female.mp3]	న    	na
+benefit	ప్రయోజనం	prayōjanaṁ	[sound:ప్రయోజనం_google_female.mp3]	న    	na
+bent	వంగి	vaṅgi	[sound:వంగి_google_female.mp3]	న    	na
+beside	పక్కన	pakkana	[sound:పక్కన_google_female.mp3]	న    	na
+best	ఉత్తమమైనది	uttamamainadi	[sound:ఉత్తమమైనది_google_female.mp3]	ఈ పుస్తకం ఉత్తమమైనది, మీకు ఇది చదవడం తప్పనిసరిగా అవసరం.	This book is excellent; you definitely need to read it.
+bet	పందెం	pandeṁ	[sound:పందెం_google_female.mp3]	అతను క్రికెట్ మ్యాచ్‌పై పందెం వేసాడు. 	He placed a bet on the cricket match.
+better	మెరుగైన	merugaina	[sound:మెరుగైన_google_female.mp3]	ఈ కొత్త పద్ధతులు మెరుగైన ఫలితాలను ఇస్తున్నాయి.	These new methods are yielding better results.
+betting	బెట్టింగ్	beṭṭiṅg	[sound:బెట్టింగ్_google_female.mp3]	క్రికెట్ మ్యాచ్‌లపై బెట్టింగ్ చేయడం కట్టుదిట్టంగా నిషేదించబడింది. 	Betting on cricket matches is strictly prohibited.
+between	మధ్య	madhya	[sound:మధ్య_google_female.mp3]	ఆమె రెండు పుస్తకాలు మధ్య కూర్చుంది. 	She sat between the two books.
+beyond	దాటి	dāṭi	[sound:దాటి_google_female.mp3]	ఆ నది దాటి దారి పయనించాలి.	You need to travel across the river.
+bicycle	సైకిల్	saikil	[sound:సైకిల్_google_female.mp3]	నేను నిన్న సైకిల్ మీద నడిచాను.	I rode a bicycle yesterday.
+bid 1	వేలం 1	vēlaṁ 1	[sound:వేలం 1_google_female.mp3]	ఆ వేలంలో అతను రూ. 10,000 వేలం పెట్టాడు.  వేడుకలో అతను వేలం పట్టారు.	He placed a bid of ₹10,000 in the auction.  He threw the spear during the celebration.
+big	పెద్ద	pedda	[sound:పెద్ద_google_female.mp3]	అది ఒక పెద్ద పుస్తకం.	That is a big book.
+bike	బైక్	baik	[sound:బైక్_google_female.mp3]	అతనికి కొత్త బైక్ కొనే ఆసక్తి ఉంది.	He is interested in buying a new bike.
+bill	బిల్లు	billu	[sound:బిల్లు_google_female.mp3]	నా కరెంటు బిల్లు ఈ నెలలో వచ్చిది.	My electricity bill came this month.
+billion	బిలియన్	biliyan	[sound:బిలియన్_google_female.mp3]	ప్రపంచ జనాభా సుమారు 7 బిలియన్ మందిగా అంచనా వేయబడింది.	The world's population is estimated to be around 7 billion people.
+bin	డబ్బా	ḍabbā	[sound:డబ్బా_google_female.mp3]	ఆమె ఆహారాన్ని డబ్బాలో పెట్టింది.	She put the food in the box.
+biology	జీవశాస్త్రం	jīvaśāstraṁ	[sound:జీవశాస్త్రం_google_female.mp3]	నాకు జీవశాస్త్రం చాలా ఇష్టమైంది. 	I like biology a lot.
+bird	పక్షి	pakṣi	[sound:పక్షి_google_female.mp3]	ఆ పక్షి చాలా అందంగా ఉంది. 	That bird is very beautiful.
+birth	పుట్టుక	puṭṭuka	[sound:పుట్టుక_google_female.mp3]	ప్రకృతిలో ప్రతి జీవి పుట్టుక కంటే చాలా ప్రత్యేకం.	Every living being in nature is unique in its birth.
+birthday	పుట్టినరోజు	puṭṭinarōju	[sound:పుట్టినరోజు_google_female.mp3]	ఈ సంవత్సరం నా పుట్టినరోజు వేడుక చాలా ప్రత్యేకంగా ఉంది.	This year's birthday celebration is very special.
+biscuit	బిస్కెట్	biskeṭ	[sound:బిస్కెట్_google_female.mp3]	కాఫీతో బిస్కెట్ తినడం చాలా ఆసక్తికరంగా ఉంటుంది.	Eating biscuits with coffee is very enjoyable.
+bit	బిట్	biṭ	[sound:బిట్_google_female.mp3]	అతనికి కంప్యూటర్‌లో పనిచేయడానికి మంచి బిట్ వివరాలు ఉన్నాయి.	He has good bit details to work on the computer.
+bite	కొరుకు	koruku	[sound:కొరుకు_google_female.mp3]	అతనికి ఒక మురికి పాము కొరుకు పెట్టింది.  ఈ ప్రాంతంలో నీటి కొరుకు ఉందని చెప్పారు.	A dirty snake bit him.  They said there is a shortage of water in this area.
+bitter	చేదు	cēdu	[sound:చేదు_google_female.mp3]	ఆ కాయికలు చేదుగా ఉన్నాయి.	Those vegetables are bitter.
+bitterly	చేదుగా	cēdugā	[sound:చేదుగా_google_female.mp3]	అతను ప్రదర్శనలో చెదుగా ప్రవర్తించాడు.	He behaved badly during the performance.
+black	నలుపు	nalupu	[sound:నలుపు_google_female.mp3]	ఆమెకు నలుపు రంగు చాలా ఇష్టం.	She likes the color black very much.
+blade	బ్లేడ్	blēḍ	[sound:బ్లేడ్_google_female.mp3]	ఈ కత్తి బ్లేడ్ చాలా కట్టింగ్ పవర్ కలిగి ఉంది.	This knife blade has a lot of cutting power.
+blame	నిందిస్తారు	nindistāru	[sound:నిందిస్తారు_google_female.mp3]	అతను విఫలమైన పనుల గురించి నిందిస్తారు.	They criticize him for his failed work.
+blank	ఖాళీ	khāḷī	[sound:ఖాళీ_google_female.mp3]	దయచేసి ఈ ఫారంలో ఖాళీ ప్రదేశాలను పూరించండి.	Please fill in the blank spaces in this form.
+blind	అంధుడు	andhuḍu	[sound:అంధుడు_google_female.mp3]	అంధుడు తన అడ్డంకులను ధైర్యంగా ఎదుర్కొన్నాడు.	The blind man faced his challenges bravely.
+block	నిరోధించు	nirōdhin̄cu	[sound:నిరోధించు_google_female.mp3]	రోగాన్ని నిరోధించడానికి ముందు జాగ్రత్తలు తీసుకోవాలి.	Precautions must be taken to prevent the disease.
+blonde	అందగత్తె	andagatte	[sound:అందగత్తె_google_female.mp3]	ఆమెను అందగత్తె అని అందరూ పిలుస్తారు.  అందరూ ఆమెను తెల్లటి జుట్టు ఉన్న అమ్మాయిగా పిలుస్తారు.	Everyone calls her a beautiful woman.  Everyone calls her a blonde.
+blood	రక్తం	raktaṁ	[sound:రక్తం_google_female.mp3]	రక్తం శరీరంలో ఎంతో ముఖ్యమైన పాత్ర పోషిస్తుంది.	Blood plays a very important role in the body.
+blow	దెబ్బ	debba	[sound:దెబ్బ_google_female.mp3]	ప్రమాదంలో అతనికి తలపై తీవ్ర దెబ్బతగిలింది.	He received a severe blow to the head in the accident.
+blow out	బయటకు ఊదండి	bayaṭaku ūdaṇḍi	[sound:బయటకు ఊదండి_google_female.mp3]	మోములను ఆర్పేప్పుడు, బట్టలు మంటల్లో పడకుండా బయటకు ఊదండి.	When blowing out the candles, blow outside to avoid cloths falling into the flames.
+blow up	పేల్చివేయు	pēlcivēyu	[sound:పేల్చివేయు_google_female.mp3]	వారు బాంబును పేల్చివేయాలని యోచిస్తున్నారు.	They are planning to detonate the bomb.
+blue	నీలం	nīlaṁ	[sound:నీలం_google_female.mp3]	ఆకాశం నీలంగా ఉంది.	The sky is blue.
+board	బోర్డు	bōrḍu	[sound:బోర్డు_google_female.mp3]	స్కూల్‌లో కొత్త బోర్డు ఏర్పాటు చేశారు.	A new board has been set up in the school.
+boat	పడవ	paḍava	[sound:పడవ_google_female.mp3]	మేము నదిలో పడవలో ప్రయాణించాం.	We traveled by boat on the river.
+body	శరీరం	śarīraṁ	[sound:శరీరం_google_female.mp3]	అతని శరీరం మంచి ఆరోగ్యంగా ఉంది.	His body is in good health.
+boil	ఉడకబెట్టండి	uḍakabeṭṭaṇḍi	[sound:ఉడకబెట్టండి_google_female.mp3]	అతనిని ఉడకబెట్టడం మంచిది కాదు.  నీళ్లను ఉడకబెట్టండి, తరువాత కూరలో వేసి వేయించండి.	It is not good to embarrass him.  Boil the water, then add it to the curry.
+bomb	బాంబు	bāmbu	[sound:బాంబు_google_female.mp3]	ఉగ్రవాదులు బాంబును పేల్చివేశారు.	The terrorists detonated the bomb.
+bone	ఎముక	emuka	[sound:ఎముక_google_female.mp3]	ఆమెకు ఎముకలు బలంగా ఉండాలి.	She needs to have strong bones.
+book	పుస్తకం	pustakaṁ	[sound:పుస్తకం_google_female.mp3]	నేను ఈ పుస్తకం చదివాను, ఇది చాలా ఆసక్తికరమైనది.	I read this book, and it is very interesting.
+boot	బూట్	būṭ	[sound:బూట్_google_female.mp3]	అతను బూట్లను నప్పిడి పెట్టాడు.	He wore the boots.
+border	సరిహద్దు	sarihaddu	[sound:సరిహద్దు_google_female.mp3]	ఇది మన దేశానికి సంబంధించిన సరిహద్దు ప్రాంతం.	This is a border area related to our country.
+bore	బోర్ కొట్టింది	bōr koṭṭindi	[sound:బోర్ కొట్టింది_google_female.mp3]	మా క్లాస్‌లో బోర్ కొట్టింది, అందుకే నేను పుస్తకం చదివాను.	I got bored in our class, so I read a book.
+bored	నీరసం	nīrasaṁ	[sound:నీరసం_google_female.mp3]	ఈ పాఠం నాకు చాలా బోర్ కొట్టింది.	This lesson bored me a lot.
+boring	నీరసం	nīrasaṁ	[sound:నీరసం_google_female.mp3]	ఈ సినిమా చాలా నిరాసాగా ఉంది.	This movie is very boring.
+born	పుట్టింది	puṭṭindi	[sound:పుట్టింది_google_female.mp3]	ఆమెకు కూతురు పుట్టింది.	She gave birth to a daughter.
+borrow	అప్పు తీసుకుంటారు	appu tīsukuṇṭāru	[sound:అప్పు తీసుకుంటారు_google_female.mp3]	అతను నూతన ఇంటిని కొనడానికి అప్పు తీసుకుంటాడు.	He takes a loan to buy a new house.
+boss	బాస్	bās	[sound:బాస్_google_female.mp3]	న    	na
+both	రెండూ	reṇḍū	[sound:రెండూ_google_female.mp3]	న    	na
+bother	ఇబ్బంది పెడతారు	ibbandi peḍatāru	[sound:ఇబ్బంది పెడతారు_google_female.mp3]	న    	na
+bottle	సీసా	sīsā	[sound:సీసా_google_female.mp3]	న    	na
+bottom	దిగువన	diguvana	[sound:దిగువన_google_female.mp3]	న    	na
+bound	కట్టుబడి	kaṭṭubaḍi	[sound:కట్టుబడి_google_female.mp3]	న    	na
+bowl	గిన్నె	ginne	[sound:గిన్నె_google_female.mp3]	న    	na
+box	పెట్టె	peṭṭe	[sound:పెట్టె_google_female.mp3]	న    	na
+boy	అబ్బాయి	abbāyi	[sound:అబ్బాయి_google_female.mp3]	న    	na
+boyfriend	ప్రియుడు	priyuḍu	[sound:ప్రియుడు_google_female.mp3]	న    	na
+brain	మెదడు	medaḍu	[sound:మెదడు_google_female.mp3]	న    	na
+branch	శాఖ	śākha	[sound:శాఖ_google_female.mp3]	న    	na
+brand	బ్రాండ్	brāṇḍ	[sound:బ్రాండ్_google_female.mp3]	న    	na
+brave	ధైర్యవంతుడు	dhairyavantuḍu	[sound:ధైర్యవంతుడు_google_female.mp3]	న    	na
+bread	రొట్టె	roṭṭe	[sound:రొట్టె_google_female.mp3]	న    	na
+break	బ్రేక్	brēk	[sound:బ్రేక్_google_female.mp3]	న    	na
+break down	విచ్ఛిన్నం	vicchinnaṁ	[sound:విచ్ఛిన్నం_google_female.mp3]	న    	na
+breakfast	అల్పాహారం	alpāhāraṁ	[sound:అల్పాహారం_google_female.mp3]	న    	na
+break in	లోపలికి ప్రవేశించండి	lōpaliki pravēśin̄caṇḍi	[sound:లోపలికి ప్రవేశించండి_google_female.mp3]	న    	na
+break into	ప్రవేశించండి	pravēśin̄caṇḍi	[sound:ప్రవేశించండి_google_female.mp3]	న    	na
+break off	విడిపోతాయి	viḍipōtāyi	[sound:విడిపోతాయి_google_female.mp3]	న    	na
+break out	విరుచుకుపడతాయి	virucukupaḍatāyi	[sound:విరుచుకుపడతాయి_google_female.mp3]	న    	na
+break up	విడిపోతారు	viḍipōtāru	[sound:విడిపోతారు_google_female.mp3]	న    	na
+breast	రొమ్ము	rom'mu	[sound:రొమ్ము_google_female.mp3]	న    	na
+breath	శ్వాస	śvāsa	[sound:శ్వాస_google_female.mp3]	న    	na
+breathe	ఊపిరి పీల్చుకుంటారు	ūpiri pīlcukuṇṭāru	[sound:ఊపిరి పీల్చుకుంటారు_google_female.mp3]	న    	na
+breathe in	ఊపిరి పీల్చుకోండి	ūpiri pīlcukōṇḍi	[sound:ఊపిరి పీల్చుకోండి_google_female.mp3]	న    	na
+breathe out	ఊపిరి పీల్చుకోండి	ūpiri pīlcukōṇḍi	[sound:ఊపిరి పీల్చుకోండి_google_female.mp3]	న    	na
+breathing	శ్వాస	śvāsa	[sound:శ్వాస_google_female.mp3]	న    	na
+breed	జాతి	jāti	[sound:జాతి_google_female.mp3]	న    	na
+brick	ఇటుక	iṭuka	[sound:ఇటుక_google_female.mp3]	న    	na
+bridge	వంతెన	vantena	[sound:వంతెన_google_female.mp3]	న    	na
+brief	క్లుప్తంగా	kluptaṅgā	[sound:క్లుప్తంగా_google_female.mp3]	న    	na
+briefly	క్లుప్తంగా	kluptaṅgā	[sound:క్లుప్తంగా_google_female.mp3]	న    	na
+bright	ప్రకాశవంతమైన	prakāśavantamaina	[sound:ప్రకాశవంతమైన_google_female.mp3]	న    	na
+brightly	ప్రకాశవంతంగా	prakāśavantaṅgā	[sound:ప్రకాశవంతంగా_google_female.mp3]	న    	na
+brilliant	తెలివైన	telivaina	[sound:తెలివైన_google_female.mp3]	న    	na
+bring	తీసుకురండి	tīsukuraṇḍi	[sound:తీసుకురండి_google_female.mp3]	న    	na
+bring back	తిరిగి తీసుకురండి	tirigi tīsukuraṇḍi	[sound:తిరిగి తీసుకురండి_google_female.mp3]	న    	na
+bring down	దించు	din̄cu	[sound:దించు_google_female.mp3]	న    	na
+bring forward	ముందుకు తీసుకురండి	munduku tīsukuraṇḍi	[sound:ముందుకు తీసుకురండి_google_female.mp3]	న    	na
+bring out	బయటకు తీసుకురండి	bayaṭaku tīsukuraṇḍi	[sound:బయటకు తీసుకురండి_google_female.mp3]	న    	na
+bring up	తీసుకురండి	tīsukuraṇḍi	[sound:తీసుకురండి_google_female.mp3]	న    	na
+broad	విశాలమైనది	viśālamainadi	[sound:విశాలమైనది_google_female.mp3]	న    	na
+broadcast	ప్రసారం	prasāraṁ	[sound:ప్రసారం_google_female.mp3]	న    	na
+broadly	విస్తృతంగా	vistr̥taṅgā	[sound:విస్తృతంగా_google_female.mp3]	న    	na
+broken	విరిగిపోయింది	virigipōyindi	[sound:విరిగిపోయింది_google_female.mp3]	న    	na
+brother	సోదరుడు	sōdaruḍu	[sound:సోదరుడు_google_female.mp3]	న    	na
+brown	గోధుమ రంగు	gōdhuma raṅgu	[sound:గోధుమ రంగు_google_female.mp3]	న    	na
+brush	బ్రష్	braṣ	[sound:బ్రష్_google_female.mp3]	న    	na
+bubble	బుడగ	buḍaga	[sound:బుడగ_google_female.mp3]	న    	na
+budget	బడ్జెట్	baḍjeṭ	[sound:బడ్జెట్_google_female.mp3]	న    	na
+build	నిర్మించు	nirmin̄cu	[sound:నిర్మించు_google_female.mp3]	న    	na
+building	భవనం	bhavanaṁ	[sound:భవనం_google_female.mp3]	న    	na
+build up	నిర్మించడానికి	nirmin̄caḍāniki	[sound:నిర్మించడానికి_google_female.mp3]	న    	na
+bullet	బుల్లెట్	bulleṭ	[sound:బుల్లెట్_google_female.mp3]	న    	na
+bunch	బంచ్	ban̄c	[sound:బంచ్_google_female.mp3]	న    	na
+burn	కాల్చండి	kālcaṇḍi	[sound:కాల్చండి_google_female.mp3]	న    	na
+burn down	కాల్చివేయుము	kālcivēyumu	[sound:కాల్చివేయుము_google_female.mp3]	న    	na
+burnt	కాలింది	kālindi	[sound:కాలింది_google_female.mp3]	న    	na
+burst	పగిలిపోతుంది	pagilipōtundi	[sound:పగిలిపోతుంది_google_female.mp3]	న    	na
+burst into	లోకి దూసుకుపోయింది	lōki dūsukupōyindi	[sound:లోకి దూసుకుపోయింది_google_female.mp3]	న    	na
+burst out	పగిలిపోయింది	pagilipōyindi	[sound:పగిలిపోయింది_google_female.mp3]	న    	na
+bury	పాతిపెట్టు	pātipeṭṭu	[sound:పాతిపెట్టు_google_female.mp3]	న    	na
+bus	బస్సు	bas'su	[sound:బస్సు_google_female.mp3]	న    	na
+bush	పొద	poda	[sound:పొద_google_female.mp3]	న    	na
+business	వ్యాపారం	vyāpāraṁ	[sound:వ్యాపారం_google_female.mp3]	న    	na
+businessman	వ్యాపారవేత్త	vyāpāravētta	[sound:వ్యాపారవేత్త_google_female.mp3]	న    	na
+busy	బిజీగా ఉన్నారు	bijīgā unnāru	[sound:బిజీగా ఉన్నారు_google_female.mp3]	న    	na
+but	కాని	kāni	[sound:కాని_google_female.mp3]	న    	na
+butter	వెన్న	venna	[sound:వెన్న_google_female.mp3]	న    	na
+button	బటన్	baṭan	[sound:బటన్_google_female.mp3]	న    	na
+buy	కొనండి	konaṇḍi	[sound:కొనండి_google_female.mp3]	న    	na
+buyer	కొనుగోలుదారు	konugōludāru	[sound:కొనుగోలుదారు_google_female.mp3]	న    	na
+by	ద్వారా	dvārā	[sound:ద్వారా_google_female.mp3]	న    	na
+bye	బై	bai	[sound:బై_google_female.mp3]	న    	na
+cabinet	మంత్రివర్గం	mantrivargaṁ	[sound:మంత్రివర్గం_google_female.mp3]	న    	na
+cable	కేబుల్	kēbul	[sound:కేబుల్_google_female.mp3]	న    	na
+cake	కేక్	kēk	[sound:కేక్_google_female.mp3]	న    	na
+calculate	లెక్కించు	lekkin̄cu	[sound:లెక్కించు_google_female.mp3]	న    	na
+calculation	గణన	gaṇana	[sound:గణన_google_female.mp3]	న    	na
+call	కాల్ చేయండి	kāl cēyaṇḍi	[sound:కాల్ చేయండి_google_female.mp3]	న    	na
+call back	తిరిగి కాల్ చేయండి	tirigi kāl cēyaṇḍi	[sound:తిరిగి కాల్ చేయండి_google_female.mp3]	న    	na
+called	అని పిలిచారు	ani pilicāru	[sound:అని పిలిచారు_google_female.mp3]	న    	na
+call for	కోసం కాల్	kōsaṁ kāl	[sound:కోసం కాల్_google_female.mp3]	న    	na
+call off	కాల్ ఆఫ్	kāl āph	[sound:కాల్ ఆఫ్_google_female.mp3]	న    	na
+call up	కాల్ చేయండి	kāl cēyaṇḍi	[sound:కాల్ చేయండి_google_female.mp3]	న    	na
+calm	ప్రశాంతత	praśāntata	[sound:ప్రశాంతత_google_female.mp3]	న    	na
+calm down	శాంతించండి	śāntin̄caṇḍi	[sound:శాంతించండి_google_female.mp3]	న    	na
+calmly	ప్రశాంతంగా	praśāntaṅgā	[sound:ప్రశాంతంగా_google_female.mp3]	న    	na
+camera	కెమెరా	kemerā	[sound:కెమెరా_google_female.mp3]	న    	na
+camp	శిబిరం	śibiraṁ	[sound:శిబిరం_google_female.mp3]	న    	na
+campaign	ప్రచారం	pracāraṁ	[sound:ప్రచారం_google_female.mp3]	న    	na
+camping	క్యాంపింగ్	kyāmpiṅg	[sound:క్యాంపింగ్_google_female.mp3]	న    	na
+can 1	చెయ్యవచ్చు 1	ceyyavaccu 1	[sound:చెయ్యవచ్చు 1_google_female.mp3]	న    	na
+can 2	చెయ్యవచ్చు 2	ceyyavaccu 2	[sound:చెయ్యవచ్చు 2_google_female.mp3]	న    	na
+cancel	రద్దు	raddu	[sound:రద్దు_google_female.mp3]	న    	na
+cancer	క్యాన్సర్	kyānsar	[sound:క్యాన్సర్_google_female.mp3]	న    	na
+candidate	అభ్యర్థి	abhyarthi	[sound:అభ్యర్థి_google_female.mp3]	న    	na
+candy	మిఠాయి	miṭhāyi	[sound:మిఠాయి_google_female.mp3]	న    	na
+cannot	కుదరదు	kudaradu	[sound:కుదరదు_google_female.mp3]	న    	na
+cap	టోపీ	ṭōpī	[sound:టోపీ_google_female.mp3]	న    	na
+capable	సమర్థుడు	samarthuḍu	[sound:సమర్థుడు_google_female.mp3]	న    	na
+capacity	సామర్థ్యం	sāmarthyaṁ	[sound:సామర్థ్యం_google_female.mp3]	న    	na
+capital	రాజధాని	rājadhāni	[sound:రాజధాని_google_female.mp3]	న    	na
+captain	కెప్టెన్	kepṭen	[sound:కెప్టెన్_google_female.mp3]	న    	na
+capture	పట్టుకోవడం	paṭṭukōvaḍaṁ	[sound:పట్టుకోవడం_google_female.mp3]	న    	na
+car	కారు	kāru	[sound:కారు_google_female.mp3]	న    	na
+card	కార్డు	kārḍu	[sound:కార్డు_google_female.mp3]	న    	na
+cardboard	కార్డ్బోర్డ్	kārḍbōrḍ	[sound:కార్డ్బోర్డ్_google_female.mp3]	న    	na
+care	శ్రమ	śrama	[sound:శ్రమ_google_female.mp3]	న    	na
+career	వృత్తి	vr̥tti	[sound:వృత్తి_google_female.mp3]	న    	na
+care for	శ్రమ	śrama	[sound:శ్రమ_google_female.mp3]	న    	na
+careful	జాగ్రత్తగా	jāgrattagā	[sound:జాగ్రత్తగా_google_female.mp3]	న    	na
+carefully	జాగ్రత్తగా	jāgrattagā	[sound:జాగ్రత్తగా_google_female.mp3]	న    	na
+careless	అజాగ్రత్త	ajāgratta	[sound:అజాగ్రత్త_google_female.mp3]	న    	na
+carelessly	నిర్లక్ష్యంగా	nirlakṣyaṅgā	[sound:నిర్లక్ష్యంగా_google_female.mp3]	న    	na
+carpet	కార్పెట్	kārpeṭ	[sound:కార్పెట్_google_female.mp3]	న    	na
