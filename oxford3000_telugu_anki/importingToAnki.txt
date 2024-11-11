@@ -1,0 +1,9 @@
+importing the anki words and context files
+  494  20241111 01:39:33 awk -F"\t" 'BEGIN{OFS=FS} NR>936 && NR<1126{prin
+  497  20241111 01:47:27 awk -F"\t" 'BEGIN{OFS=FS} NR>936 && NR<1126{prin
+  498  20241111 01:47:35 paste 1 2 > z.txt
+
+
+  Open Anki --> File >> Import  --> Select z.txt
+
+
