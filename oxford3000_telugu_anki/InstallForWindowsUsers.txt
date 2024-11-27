@@ -1,38 +1,37 @@
 For windows users
 
 1.  Install anki
-2.  Install git bash for windows if you want to update repository periodically without downloading whole zip file.  
-	a.  It also provides some useful command line tools: cat, awk, paste
-	b.  git commands that you will be using:
-		$ git pull 
-		$ git log
-		$ git status
+2.  Install git bash for windows if you want to update repository periodically without downloading whole zip file.
+     a.  It also provides some useful command line tools: cat, awk, paste
+     b.  git commands that you will be using:
+          $ git pull
+          $ git log
+          $ git status
 3.  Clone repository
-	launch git bash
-	go to http://github.com/toofan1/
-	scroll to bottom and select telugu-kr-david-autobio
-	click on green button and push the copy button to copy the path to your clipboard
-	on the command prompt type
-		git clone <right click and paste>
+     a.  In web browser, go to http://github.com/toofan1/
+         scroll to bottom and select telugu-kr-david-autobio
+         click on green button and push the copy button to copy the path to your clipboard
+     b.  launch git bash
+         on the command prompt type "git clone " <right click and paste>
 4.  After cloning (or downloading and extracting), copy the media files to the anki media folder, e.g., C:\Users\jsjka\AppData\Roaming\Anki2\User 1\collection.media
 5.  File > Import  and select "C:\git\telugu-kr-david-autobio\oxford3000_telugu_anki\Oxford3000TeluguTemplateNote.apkg"
-		this will import a single template card, you can test this deck by studying or browsing it.
+     this will import a single template card, you can test this deck by studying or browsing it.
 6.  As a start, import ankiImport_1z, select Card Type as Oxford Telugu
 7.  As you advance you can import cards up to 500 at a time.
-	you can import new cards; if you import existing cards, they will be updated.
-8.  If you have git bash, You can follow the instructions in importingToAnki to compile the import file for a set of cards.  
-	a.  Otherwise you can copy and paste manually using your text editor.
-	b.  If using git bash, use cat to print to the terminal and then copy and paste with middle mouse button
-                29   cat importingToAnki.txt
-   		30   awk -F"\t" 'BEGIN{OFS=FS} NR>936 && NR<1126{print $0}' oxford3000_telugu_ankiWords.txt > 1
-   		31   awk -F"\t" 'BEGIN{OFS=FS} NR>936 && NR<1126{print $3,$4}' oxford3000_telugu_context.txt > 2
-   		32   paste 1 2 > z.txt
+     you can import new cards; if you import existing cards, they will be updated.
+8.  If you have git bash, You can follow the instructions in importingToAnki to compile the import file for a set of cards.
+     a.  Otherwise you can copy and paste manually using your text editor.
+     b.  If using git bash, use cat to print to the terminal and then copy and paste with middle mouse button
+         The "$ " indicates the prompt for entering commands
+          $ cd /c/git/telugu-kr-david-autobio/oxford3000_telugu_anki/
+          $ cat importingToAnki.txt
+          $ awk -F"\t" 'BEGIN{OFS=FS} NR>936 && NR<1126{print $0}' oxford3000_telugu_ankiWords.txt > 1
+          $ awk -F"\t" 'BEGIN{OFS=FS} NR>936 && NR<1126{print $3,$4}' oxford3000_telugu_context.txt > 2
+          $ paste 1 2 > z.txt
 
-	c.  Just change the NR range to get the cards that you want to import, for example
+     c.  Just change the NR range to get the cards that you want to import, for example
+          $ awk -F"\t" 'BEGIN{OFS=FS} NR>0 && NR<501{print $0}' oxford3000_telugu_ankiWords.txt > 1
+          $ awk -F"\t" 'BEGIN{OFS=FS} NR>0 && NR<501{print $3,$4}' oxford3000_telugu_context.txt > 2
+          $ paste 1 2 > z.txt
 
-   		36   awk -F"\t" 'BEGIN{OFS=FS} NR>0 && NR<501{print $0}' oxford3000_telugu_ankiWords.txt > 1
-   		37   awk -F"\t" 'BEGIN{OFS=FS} NR>0 && NR<501{print $3,$4}' oxford3000_telugu_context.txt > 2
-		38   paste 1 2 > z.txt
-
-	
-9.  If desired, install the heat map addon (number 1771074083, as of 11/27/2024).  Nice for tracking daily practice behavior.
+9.  If desired, install the heat map addon (number 1771074083, as of 11/27/2024).  Nice for tracking practice.
