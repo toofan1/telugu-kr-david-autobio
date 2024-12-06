@@ -1,7 +1,7 @@
 #!/bin/bash
 
 # Paths
-GIT_MEDIA_FOLDER=~/Documents/git/telugu-kr-david-autobio/oxford3000_telugu_anki/media/
+GIT_MEDIA_FOLDER=~/Documents/telugu/oxford3000_telugu_anki/media/
 ANKI_MEDIA_FOLDER=~/.local/share/Anki2/User\ 1/collection.media
 
 # Remove old links
