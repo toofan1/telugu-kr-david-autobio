@@ -1,3 +1,5 @@
+_*_ mode: Text; tab-width: 30; _*_
+
 about	గురించి	gurin̄ci	[sound:గురించి_google_female.mp3]	మనము ఈ విషయం గురించి చర్చిద్దాం.	Let's discuss about this matter.	A1
 above	పైన	paina	[sound:పైన_google_female.mp3]	పుస్తకం మెజానికి పైన ఉంది.	The book is on the table.	A1
 a couple	ఒక జంట	oka jaṇṭa	[sound:ఒక జంట_google_female.mp3]	ఒక జంట పార్క్‌లో సేపు తిరిగింది.	A couple walked around the park for a while.	A1
@@ -463,58 +465,58 @@ happy	సంతోషంగా ఉంది	santōṣaṅgā undi	[sound:సం�
 hard	కష్టం	kaṣṭaṁ	[sound:కష్టం_google_female.mp3]	విజయం సాధించేందుకు కష్టం తప్పదు.	Hard work is necessary to achieve success.	A1
 hate	ద్వేషించు	dvēṣin̄cu	[sound:ద్వేషించు_google_female.mp3]	ఎవరిని ద్వేషించు కంటే సహనం చూపు.	Show patience instead of hating anyone.	A1
 hat	టోపీ	ṭōpī	[sound:టోపీ_google_female.mp3]	ఆ టోపీ ఎరుపు రంగులో ఉంది.	That hat is red in color.	A1
-have back	తిరిగి పొందండి	tirigi pondaṇḍi	[sound:తిరిగి పొందండి_google_female.mp3]	న    	na   	A1
-have on	కలిగి ఉంటాయి	kaligi uṇṭāyi	[sound:కలిగి ఉంటాయి_google_female.mp3]	న    	na   	A1
-have to	వుంటుంది	vuṇṭundi	[sound:వుంటుంది_google_female.mp3]	న    	na   	A1
-have	కలిగి ఉంటాయి	kaligi uṇṭāyi	[sound:కలిగి ఉంటాయి_google_female.mp3]	న    	na   	A1
-head	తల	tala	[sound:తల_google_female.mp3]	న    	na   	A1
-healthy	ఆరోగ్యకరమైన	ārōgyakaramaina	[sound:ఆరోగ్యకరమైన_google_female.mp3]	న    	na   	A1
-health	ఆరోగ్యం	ārōgyaṁ	[sound:ఆరోగ్యం_google_female.mp3]	న    	na   	A1
-hear from	నుండి వినండి	nuṇḍi vinaṇḍi	[sound:నుండి వినండి_google_female.mp3]	న    	na   	A1
-hear of	విను	vinu	[sound:విను_google_female.mp3]	న    	na   	A1
-hear	వినండి	vinaṇḍi	[sound:వినండి_google_female.mp3]	న    	na   	A1
-hello	హలో	halō	[sound:హలో_google_female.mp3]	న    	na   	A1
-help out	సహాయం చేయండి	sahāyaṁ cēyaṇḍi	[sound:సహాయం చేయండి_google_female.mp3]	న    	na   	A1
-help	సహాయం	sahāyaṁ	[sound:సహాయం_google_female.mp3]	న    	na   	A1
-here	ఇక్కడ	ikkaḍa	[sound:ఇక్కడ_google_female.mp3]	న    	na   	A1
-her	ఆమె	āme	[sound:ఆమె_google_female.mp3]	న    	na   	A1
-he	అతను	atanu	[sound:అతను_google_female.mp3]	న    	na   	A1
-high	అధిక	adhika	[sound:అధిక_google_female.mp3]	న    	na   	A1
-him	అతనిని	atanini	[sound:అతనిని_google_female.mp3]	న    	na   	A1
-history	చరిత్ర	caritra	[sound:చరిత్ర_google_female.mp3]	న    	na   	A1
-his	అతని	atani	[sound:అతని_google_female.mp3]	న    	na   	A1
-hi	హాయ్	hāy	[sound:హాయ్_google_female.mp3]	న    	na   	A1
-hobby	అభిరుచి	abhiruci	[sound:అభిరుచి_google_female.mp3]	న    	na   	A1
-holiday	సెలవు	selavu	[sound:సెలవు_google_female.mp3]	న    	na   	A1
-homework	హోంవర్క్	hōnvark	[sound:హోంవర్క్_google_female.mp3]	న    	na   	A1
-home	ఇల్లు	illu	[sound:ఇల్లు_google_female.mp3]	న    	na   	A1
-hope	ఆశ	āśa	[sound:ఆశ_google_female.mp3]	న    	na   	A1
-horse	గుర్రం	gurraṁ	[sound:గుర్రం_google_female.mp3]	న    	na   	A1
-hospital	ఆసుపత్రి	āsupatri	[sound:ఆసుపత్రి_google_female.mp3]	న    	na   	A1
-hotel	హోటల్	hōṭal	[sound:హోటల్_google_female.mp3]	న    	na   	A1
-hot	వేడి	vēḍi	[sound:వేడి_google_female.mp3]	న    	na   	A1
-hour	గంట	gaṇṭa	[sound:గంట_google_female.mp3]	న    	na   	A1
-house	ఇల్లు	illu	[sound:ఇల్లు_google_female.mp3]	న    	na   	A1
-however	అయితే	ayitē	[sound:అయితే_google_female.mp3]	న    	na   	A1
-how	ఎలా	elā	[sound:ఎలా_google_female.mp3]	న    	na   	A1
-hundred	వంద	vanda	[sound:వంద_google_female.mp3]	న    	na   	A1
-hungry	ఆకలిగా ఉంది	ākaligā undi	[sound:ఆకలిగా ఉంది_google_female.mp3]	న    	na   	A1
-husband	భర్త	bharta	[sound:భర్త_google_female.mp3]	న    	na   	A1
-ice cream	ఐస్ క్రీం	ais krīṁ	[sound:ఐస్ క్రీం_google_female.mp3]	న    	na   	A1
-ice	మంచు	man̄cu	[sound:మంచు_google_female.mp3]	న    	na   	A1
-idea	ఆలోచన	ālōcana	[sound:ఆలోచన_google_female.mp3]	న    	na   	A1
-if	ఉంటే	uṇṭē	[sound:ఉంటే_google_female.mp3]	న    	na   	A1
-I	I	i	[sound:I_google_female.mp3]	న    	na   	A1
-imagine	ఊహించుకోండి	ūhin̄cukōṇḍi	[sound:ఊహించుకోండి_google_female.mp3]	న    	na   	A1
-important	ముఖ్యమైన	mukhyamaina	[sound:ముఖ్యమైన_google_female.mp3]	న    	na   	A1
-improve	మెరుగుపరుస్తాయి	meruguparustāyi	[sound:మెరుగుపరుస్తాయి_google_female.mp3]	న    	na   	A1
-include	చేర్చండి	cērcaṇḍi	[sound:చేర్చండి_google_female.mp3]	న    	na   	A1
-information	సమాచారం	samācāraṁ	[sound:సమాచారం_google_female.mp3]	న    	na   	A1
-interested	ఆసక్తి	āsakti	[sound:ఆసక్తి_google_female.mp3]	న    	na   	A1
-interesting	ఆసక్తికరమైన	āsaktikaramaina	[sound:ఆసక్తికరమైన_google_female.mp3]	న    	na   	A1
-interest	ఆసక్తి	āsakti	[sound:ఆసక్తి_google_female.mp3]	న    	na   	A1
-interview	ఇంటర్వ్యూ	iṇṭarvyū	[sound:ఇంటర్వ్యూ_google_female.mp3]	న    	na   	A1
-into	లోకి	lōki	[sound:లోకి_google_female.mp3]	న    	na   	A1
+have back	తిరిగి పొందండి	tirigi pondaṇḍi	[sound:తిరిగి పొందండి_google_female.mp3]	మీరు మీ నష్టం తిరిగి పొందండి.	Get back your loss.		A1
+have on	కలిగి ఉంటాయి	kaligi uṇṭāyi	[sound:కలిగి ఉంటాయి_google_female.mp3]	గొప్ప లక్షణాలను కలిగి ఉంటాయి.	They possess great qualities.		A1
+have to	వుంటుంది	vuṇṭundi	[sound:వుంటుంది_google_female.mp3]	ఆ చెరువులో ఎల్లప్పుడూ నీరు వుంటుంది.	That pond always has water.		A1
+have	కలిగి ఉంటాయి	kaligi uṇṭāyi	[sound:కలిగి ఉంటాయి_google_female.mp3]	ఈ పుస్తకాలు మంచి సమాచారం కలిగి ఉంటాయి.	These books have good information.		A1
+head	తల	tala	[sound:తల_google_female.mp3]	ఆమె తల నొప్పి ఎక్కువగా వుంది.	She has a severe headache.		A1
+healthy	ఆరోగ్యకరమైన	ārōgyakaramaina	[sound:ఆరోగ్యకరమైన_google_female.mp3]	మీరు ఆరోగ్యకరమైన ఆహారం తీసుకోవాలి.	You should eat healthy food.		A1
+health	ఆరోగ్యం	ārōgyaṁ	[sound:ఆరోగ్యం_google_female.mp3]	మంచి జీవన శైలితో ఆరోగ్యం మెరుగవుతుంది.	Health improves with a good lifestyle.		A1
+hear from	నుండి వినండి	nuṇḍi vinaṇḍi	[sound:నుండి వినండి_google_female.mp3]	పెద్దల మాటలను ఆచరణలో నెరవేర్చడానికి వినండి.	Listen to elders to implement their advice.	A1
+hear of	విను	vinu	[sound:విను_google_female.mp3]	మంచి సాహిత్యాన్ని తరచూ విను.	Listen to good literature often.		A1
+hear	వినండి	vinaṇḍi	[sound:వినండి_google_female.mp3]	దయచేసి నన్ను ఓపికగా వినండి.	Please listen to me patiently.		A1
+hello	హలో	halō	[sound:హలో_google_female.mp3]	అతను నన్ను "హలో" అంటూ పలకరించాడు.	He greeted me with a "hello."		A1
+help out	సహాయం చేయండి	sahāyaṁ cēyaṇḍi	[sound:సహాయం చేయండి_google_female.mp3]	నాకు ఈ సమస్యపై సహాయం చేయండి.	Help me with this problem.		A1
+help	సహాయం	sahāyaṁ	[sound:సహాయం_google_female.mp3]	వారు ఆపదలో ఉన్న వారికి సహాయం చేశారు.	They helped those in trouble.		A1
+here	ఇక్కడ	ikkaḍa	[sound:ఇక్కడ_google_female.mp3]	మీరు ఇక్కడ కొంతసేపు ఆగండి.	Stay here for a while.		A1
+her	ఆమె	āme	[sound:ఆమె_google_female.mp3]	ఆమె చాలా నిపుణురాలు.	She is very skilled.		A1
+he	అతను	atanu	[sound:అతను_google_female.mp3]	అతను చాలా తెలివైన విద్యార్థి.	He is a very intelligent student.		A1
+high	అధిక	adhika	[sound:అధిక_google_female.mp3]	అతనికి అధిక జ్ఞానం వుంది.	He has great knowledge.		A1
+him	అతనిని	atanini	[sound:అతనిని_google_female.mp3]	మీరు అతనిని సంతోషంగా చూసారు.	You saw him happy.		A1
+history	చరిత్ర	caritra	[sound:చరిత్ర_google_female.mp3]	భారతదేశ చరిత్ర చాలా విస్తృతంగా ఉంది.	The history of India is vast.		A1
+his	అతని	atani	[sound:అతని_google_female.mp3]	అతని ప్రతిభ అందరికీ తెలుసు.	Everyone knows his talent.		A1
+hi	హాయ్	hāy	[sound:హాయ్_google_female.mp3]	హాయ్, మీ రోజు ఎలా గడిచింది?	Hi, how was your day?		A1
+hobby	అభిరుచి	abhiruci	[sound:అభిరుచి_google_female.mp3]	ఆమెకు మంచి సంగీతంపై అభిరుచి ఉంది.	She has a good taste in music.		A1
+holiday	సెలవు	selavu	[sound:సెలవు_google_female.mp3]	మీ సెలవు ఎక్కడ గడపబోతున్నారు?	Where are you going to spend your vacation?	A1
+homework	హోంవర్క్	hōnvark	[sound:హోంవర్క్_google_female.mp3]	విద్యార్థులు తమ హోంవర్క్ పూర్తి చేశారు.	The students completed their homework.		A1
+home	ఇల్లు	illu	[sound:ఇల్లు_google_female.mp3]	మా ఇల్లు నగరానికి సమీపంలో ఉంది.	Our house is near the city.		A1
+hope	ఆశ	āśa	[sound:ఆశ_google_female.mp3]	మనం ఎల్లప్పుడూ మంచి ఫలితాలపై ఆశ ఉంచాలి.	We should always hope for good results.		A1
+horse	గుర్రం	gurraṁ	[sound:గుర్రం_google_female.mp3]	ఆ గుర్రం చాలా వేగంగా పరిగెడుతుంది.	That horse runs very fast.	A1
+hospital	ఆసుపత్రి	āsupatri	[sound:ఆసుపత్రి_google_female.mp3]	నా స్నేహితుడు ఆసుపత్రిలో చికిత్స పొందుతున్నాడు.	My friend is receiving treatment at the hospital.	A1
+hotel	హోటల్	hōṭal	[sound:హోటల్_google_female.mp3]	ఆ హోటల్ లో భోజనం చాలా రుచికరంగా ఉంటుంది.	The food at that hotel is very delicious.	A1
+hot	వేడి	vēḍi	[sound:వేడి_google_female.mp3]	ఈ నీరు చాలా వేడి ఉంది.	This water is very hot.	A1
+hour	గంట	gaṇṭa	[sound:గంట_google_female.mp3]	నేను ఆఫీసుకు గంట ఆలస్యం అయ్యాను.	I was an hour late to the office.	A1
+house	ఇల్లు	illu	[sound:ఇల్లు_google_female.mp3]	మా ఇల్లు కొండ పై ఉంది.	Our house is on the hill.	A1
+however	అయితే	ayitē	[sound:అయితే_google_female.mp3]	మీరు వచ్చి ఉంటే, అయితే నాకు సంతోషం కలిగేది.	If you had come, I would have been happy.	A1
+how	ఎలా	elā	[sound:ఎలా_google_female.mp3]	మీరు ఈ సమస్యను ఎలా పరిష్కరిస్తారు?	How will you solve this problem?	A1
+hundred	వంద	vanda	[sound:వంద_google_female.mp3]	వంద మంది విద్యార్థులు ఈ పరీక్ష రాశారు.	One hundred students wrote this exam.	A1
+hungry	ఆకలిగా ఉంది	ākaligā undi	[sound:ఆకలిగా ఉంది_google_female.mp3]	నాకు చాలా ఆకలిగా ఉంది.	I am very hungry.	A1
+husband	భర్త	bharta	[sound:భర్త_google_female.mp3]	ఆమె తన భర్త కోసం పండుగకు కొత్త బట్టలు కొనింది.	She bought new clothes for her husband for the festival.A1
+ice cream	ఐస్ క్రీం	ais krīṁ	[sound:ఐస్ క్రీం_google_female.mp3]	ఆ ఐస్ క్రీం ఎంతో రుచికరంగా ఉంది.	That ice cream is very tasty.	A1
+ice	మంచు	man̄cu	[sound:మంచు_google_female.mp3]	మన ఆకాశంలో మంచు మేఘాలు తేలుతున్నాయి.	Snow clouds are floating in our sky.	A1
+idea	ఆలోచన	ālōcana	[sound:ఆలోచన_google_female.mp3]	మీరు చెప్పిన ఆలోచన చాలా ఆసక్తికరంగా ఉంది.	The idea you shared is very interesting.	A1
+if	ఉంటే	uṇṭē	[sound:ఉంటే_google_female.mp3]	మీకు సమయం ఉంటే, నా ఇల్లు చూడండి.	If you have time, visit my house.	A1
+I	I	i	[sound:I_google_female.mp3]	నేను ఎల్లప్పుడూ నా స్నేహితులను సహాయపడటానికి ప్రయత్నిస్తాను.	I always try to help my friends.	A1
+imagine	ఊహించుకోండి	ūhin̄cukōṇḍi	[sound:ఊహించుకోండి_google_female.mp3]	ఒక పెద్ద ఆకాశహర్మ్యాన్ని ఊహించుకోండి.	Imagine a large skyscraper.	A1
+important	ముఖ్యమైన	mukhyamaina	[sound:ముఖ్యమైన_google_female.mp3]	ఇది ఒక ముఖ్యమైన నిర్ణయం.	This is an important decision.	A1
+improve	మెరుగుపరుస్తాయి	meruguparustāyi	[sound:మెరుగుపరుస్తాయి_google_female.mp3]	మంచి పుస్తకాలు జ్ఞానాన్ని మెరుగుపరుస్తాయి.	Good books enhance knowledge.	A1
+include	చేర్చండి	cērcaṇḍi	[sound:చేర్చండి_google_female.mp3]	మీ ఆలోచనలను చర్చలో చేర్చండి.	Add your ideas to the discussion.	A1
+information	సమాచారం	samācāraṁ	[sound:సమాచారం_google_female.mp3]	ఈ పుస్తకం మంచి సమాచారం అందిస్తుంది.	This book provides good information.	A1
+interested	ఆసక్తి	āsakti	[sound:ఆసక్తి_google_female.mp3]	తన ప్రయాణాల గురించి ఆమెకు చాలా ఆసక్తి ఉంది.	She is very interested in her travels.	A1
+interesting	ఆసక్తికరమైన	āsaktikaramaina	[sound:ఆసక్తికరమైన_google_female.mp3]	ఈ కథ చాలా ఆసక్తికరమైనది.	This story is very interesting.	A1
+interest	ఆసక్తి	āsakti	[sound:ఆసక్తి_google_female.mp3]	మీకు కొత్త విషయం నేర్చుకోవడంలో ఆసక్తి ఉందా?	Are you interested in learning something new?	A1
+interview	ఇంటర్వ్యూ	iṇṭarvyū	[sound:ఇంటర్వ్యూ_google_female.mp3]	రేపు నాకు ఒక ముఖ్యమైన ఇంటర్వ్యూ ఉంది.	I have an important interview tomorrow.	A1
+into	లోకి	lōki	[sound:లోకి_google_female.mp3]	ఆమె గదిలోకి ప్రవేశించింది.	She entered the room.	A1
 introduce	పరిచయం	paricayaṁ	[sound:పరిచయం_google_female.mp3]	న    	na   	A1
 in	లో	lō	[sound:లో_google_female.mp3]	న    	na   	A1
 island	ద్వీపం	dvīpaṁ	[sound:ద్వీపం_google_female.mp3]	న    	na   	A1
@@ -2080,7 +2082,7 @@ consist	కలిగి ఉంటాయి	kaligi uṇṭāyi	[sound:కలి�
 consumer	వినియోగదారుడు	viniyōgadāruḍu	[sound:వినియోగదారుడు_google_female.mp3]	వినియోగదారుల అభిప్రాయాలు సంస్థకు చాలా కీలకంగా ఉన్నాయి. 	Consumers' feedback is crucial for the company.	B1
 contact	సంప్రదించండి	sampradin̄caṇḍi	[sound:సంప్రదించండి_google_female.mp3]	అవసరమైతే నన్ను సంప్రదించండి. 	Contact me if needed.	B1
 container	కంటైనర్	kaṇṭainar	[sound:కంటైనర్_google_female.mp3]	ఆ ప్యాకేజింగ్‌లో కంటైనర్ సురక్షితంగా ఉంది. 	The container is safe in that packaging.	B1
-continuous	నిరంతర	nirantara	[sound:నిరంతర_google_female.mp3]	నిరంతర అభ్యాసం విజయానికి దారి తీస్తుంది.	Continuous practice leads to succes.	B1
+continuous	నిరంతర	nirantara	[sound:నిరంతర_google_female.mp3]	నిరంతర అభ్యాసం విజయానికి దారి తీస్తుంది.	Continuous practice leads to success.	B1
 contrast	విరుద్ధంగా	virud'dhaṅgā	[sound:విరుద్ధంగా_google_female.mp3]	ఈ చిత్రంలో రంగుల విరుద్ధత చాలా స్పష్టంగా ఉంది.	The contrast of colors in this picture is very clear.	B1
 convenient	అనుకూలమైనది	anukūlamainadi	[sound:అనుకూలమైనది_google_female.mp3]	ఈ సమయం నాకు అనుకూలమైనది.	This time is convenient for me.	B1
 convince	ఒప్పించండి	oppin̄caṇḍi	[sound:ఒప్పించండి_google_female.mp3]	మీరు అతనిని ఒప్పించండి.	Please convince him.	B1
