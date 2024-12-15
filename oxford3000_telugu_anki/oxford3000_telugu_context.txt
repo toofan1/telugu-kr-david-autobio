@@ -408,15 +408,15 @@ breath 	 శ్వాస 	మీరు శ్వాసను మోస్తూ 
 breathe 	 ఊపిరి పీల్చుకుంటారు 	మబ్బుల మధ్య నుంచి ముక్కు ద్వారా ఊపిరి పీల్చుకుంటారు.	They take a breath through their nose amidst the clouds.	B1
 breathe in 	 ఊపిరి పీల్చుకోండి 	ఆందోళనతో మోపబడినప్పుడు, ఊపిరి పీల్చుకోండి మరియు శాంతించండి.	When feeling anxious, take a breath and relax.	B1
 breathe out 	 ఊపిరి పీల్చుకోండి 	తగిన సమయంలో ఊపిరి విడుదల చేయండి.	Breathe out at the right time.	B1
-breathing 	 శ్వాస 	మీరు శ్వాసను మోస్తూ నిశ్శబ్దంగా ధ్యానం చేయాలి.	B1
-breed 	 జాతి 	మన సమాజంలో అన్ని జాతుల Menschenను సమానంగా గౌరవించడం అవసరం.	C1
-brick 	 ఇటుక 	ఈ ఇన్ఫ్రాస్ట్రక్చర్ కోసం నాణ్యమైన ఇటుకలు అవసరం.	B2
-bridge 	 వంతెన 	అది నదిపై ఉన్న అందమైన వంతెన.	A2
-brief 	 క్లుప్తంగా 	మీరిచ్చిన క్లుప్తం వివరణ సరిగ్గా ఉంది.	B2
-briefly 	 క్లుప్తంగా 	మీ సమస్యను క్లుప్తంగా వివరించండి.	B2
-bright 	 ప్రకాశవంతమైన 	ఆమె ముఖం ప్రకాశవంతమైన చిరునవ్వుతో కాంతిస్తోంది.	A2
-brightly 	 ప్రకాశవంతంగా 	నక్షత్రాలు రాత్రి ప్రకాశవంతంగా మెరిసాయి.	ZZZ
-brilliant 	 తెలివైన 	అతను తెలివైన విద్యార్థి.	A2
+breathing 	 శ్వాస 	మీరు శ్వాసను మోస్తూ నిశ్శబ్దంగా ధ్యానం చేయాలి.	You should meditate quietly while focusing on your breath.	B1
+breed 	 జాతి 	మన సమాజంలో అన్ని జాతుల Menschenను సమానంగా గౌరవించడం అవసరం.	It is necessary to respect people of all castes in our society. 	C1
+brick 	 ఇటుక 	ఈ ఇన్ఫ్రాస్ట్రక్చర్ కోసం నాణ్యమైన ఇటుకలు అవసరం.	Quality bricks are needed for this infrastructure.	B2
+bridge 	 వంతెన 	అది నదిపై ఉన్న అందమైన వంతెన.	That is a beautiful bridge over the river.	A2
+brief 	 క్లుప్తంగా 	మీరిచ్చిన క్లుప్తం వివరణ సరిగ్గా ఉంది.	The brief explanation you gave is correct.	B2
+briefly 	 క్లుప్తంగా 	మీ సమస్యను క్లుప్తంగా వివరించండి.	Briefly explain your issue.	B2
+bright 	 ప్రకాశవంతమైన 	ఆమె ముఖం ప్రకాశవంతమైన చిరునవ్వుతో కాంతిస్తోంది. 	Her face is glowing with a bright smile.	A2
+brightly 	 ప్రకాశవంతంగా 	నక్షత్రాలు రాత్రి ప్రకాశవంతంగా మెరిసాయి.	The stars shone brightly at night.	ZZZ
+brilliant 	 తెలివైన 	అతను తెలివైన విద్యార్థి.	He is a brilliant student.	A2
 bring 	 తీసుకురండి 	దయచేసి నా పుస్తకం తీసుకురండి. 	Please bring my book.	A1
 bring back 	 తిరిగి తీసుకురండి 	మీరు నాకు పుస్తకం తిరిగి తీసుకురండి. 	You bring back the book to me.	A1
 bring down 	 దించు 	అతను నా సామాను దించు. 	He brings down my luggage.	A1
