@@ -920,240 +920,240 @@ space	స్థలం	sthalaṁ	[sound:స్థలం_google_female.mp3]	ఈ �
 speak out	మాట్లాడు	māṭlāḍu	[sound:మాట్లాడు_google_female.mp3]	సమస్య ఉంటే నాతో మాట్లాడవచ్చు.	If there is a problem, you can talk to me.	A1
 speak up	మాట్లాడు	māṭlāḍu	[sound:మాట్లాడు_google_female.mp3]	పిల్లలతో ప్రేమగా మాట్లాడు.	Talk to the children kindly.	A1
 speak	మాట్లాడతారు	māṭlāḍatāru	[sound:మాట్లాడతారు_google_female.mp3]	మీ పాఠశాల ఉపాధ్యాయులు ఎప్పుడూ మంచిగా మాట్లాడతారు.	Your school teachers always speak nicely.	A1
-special	ప్రత్యేక	pratyēka	[sound:ప్రత్యేక_google_female.mp3]	న    	na   	A1
-spelling	స్పెల్లింగ్	spelliṅg	[sound:స్పెల్లింగ్_google_female.mp3]	న    	na   	A1
-spell	స్పెల్	spel	[sound:స్పెల్_google_female.mp3]	న    	na   	A1
-spend	ఖర్చు చేస్తారు	kharcu cēstāru	[sound:ఖర్చు చేస్తారు_google_female.mp3]	న    	na   	A1
-sport	క్రీడ	krīḍa	[sound:క్రీడ_google_female.mp3]	న    	na   	A1
-spring	వసంత	vasanta	[sound:వసంత_google_female.mp3]	న    	na   	A1
-stand back	తిరిగి నిలబడు	tirigi nilabaḍu	[sound:తిరిగి నిలబడు_google_female.mp3]	న    	na   	A1
-stand by	నిలబడు	nilabaḍu	[sound:నిలబడు_google_female.mp3]	న    	na   	A1
-stand for	నిలబడు	nilabaḍu	[sound:నిలబడు_google_female.mp3]	న    	na   	A1
-stand out	నిలబడి	nilabaḍi	[sound:నిలబడి_google_female.mp3]	న    	na   	A1
-stand up for	నిలబడు	nilabaḍu	[sound:నిలబడు_google_female.mp3]	న    	na   	A1
-stand up	లేచి నిలబడండి	lēci nilabaḍaṇḍi	[sound:లేచి నిలబడండి_google_female.mp3]	న    	na   	A1
-stand	నిలబడండి	nilabaḍaṇḍi	[sound:నిలబడండి_google_female.mp3]	న    	na   	A1
-start off	ప్రారంభించండి	prārambhin̄caṇḍi	[sound:ప్రారంభించండి_google_female.mp3]	న    	na   	A1
-start out	ప్రారంభించండి	prārambhin̄caṇḍi	[sound:ప్రారంభించండి_google_female.mp3]	న    	na   	A1
-start up	ప్రారంభించండి	prārambhin̄caṇḍi	[sound:ప్రారంభించండి_google_female.mp3]	న    	na   	A1
-start	ప్రారంభించండి	prārambhin̄caṇḍi	[sound:ప్రారంభించండి_google_female.mp3]	న    	na   	A1
-star	నక్షత్రం	nakṣatraṁ	[sound:నక్షత్రం_google_female.mp3]	న    	na   	A1
-statement	ప్రకటన	prakaṭana	[sound:ప్రకటన_google_female.mp3]	న    	na   	A1
-station	స్టేషన్	sṭēṣan	[sound:స్టేషన్_google_female.mp3]	న    	na   	A1
-stay away	దూరంగా ఉండండి	dūraṅgā uṇḍaṇḍi	[sound:దూరంగా ఉండండి_google_female.mp3]	న    	na   	A1
-stay out of	బయట ఉండు	bayaṭa uṇḍu	[sound:బయట ఉండు_google_female.mp3]	న    	na   	A1
-stay	ఉండు	uṇḍu	[sound:ఉండు_google_female.mp3]	న    	na   	A1
-still	ఇప్పటికీ	ippaṭikī	[sound:ఇప్పటికీ_google_female.mp3]	న    	na   	A1
-stop	ఆపండి	āpaṇḍi	[sound:ఆపండి_google_female.mp3]	న    	na   	A1
-story	కథ	katha	[sound:కథ_google_female.mp3]	న    	na   	A1
-street	వీధి	vīdhi	[sound:వీధి_google_female.mp3]	న    	na   	A1
-strong	బలమైన	balamaina	[sound:బలమైన_google_female.mp3]	న    	na   	A1
-student	విద్యార్థి	vidyārthi	[sound:విద్యార్థి_google_female.mp3]	న    	na   	A1
-study	చదువు	caduvu	[sound:చదువు_google_female.mp3]	న    	na   	A1
-style	శైలి	śaili	[sound:శైలి_google_female.mp3]	న    	na   	A1
-subject	విషయం	viṣayaṁ	[sound:విషయం_google_female.mp3]	న    	na   	A1
-success	విజయం	vijayaṁ	[sound:విజయం_google_female.mp3]	న    	na   	A1
-sugar	చక్కెర	cakkera	[sound:చక్కెర_google_female.mp3]	న    	na   	A1
-summer	వేసవి	vēsavi	[sound:వేసవి_google_female.mp3]	న    	na   	A1
-Sunday	ఆదివారం	ādivāraṁ	[sound:ఆదివారం_google_female.mp3]	న    	na   	A1
-sun	సూర్యుడు	sūryuḍu	[sound:సూర్యుడు_google_female.mp3]	న    	na   	A1
-supermarket	సూపర్ మార్కెట్	sūpar mārkeṭ	[sound:సూపర్ మార్కెట్_google_female.mp3]	న    	na   	A1
-sure	ఖచ్చితంగా	khaccitaṅgā	[sound:ఖచ్చితంగా_google_female.mp3]	న    	na   	A1
-sweater	స్వెటర్	sveṭar	[sound:స్వెటర్_google_female.mp3]	న    	na   	A1
-swimming pool	ఈత కొలను	īta kolanu	[sound:ఈత కొలను_google_female.mp3]	న    	na   	A1
-swimming	ఈత కొట్టడం	īta koṭṭaḍaṁ	[sound:ఈత కొట్టడం_google_female.mp3]	న    	na   	A1
-swim	ఈత కొట్టండి	īta koṭṭaṇḍi	[sound:ఈత కొట్టండి_google_female.mp3]	న    	na   	A1
-table	పట్టిక	paṭṭika	[sound:పట్టిక_google_female.mp3]	న    	na   	A1
-take away	తీసుకెళ్ళండి	tīsukeḷḷaṇḍi	[sound:తీసుకెళ్ళండి_google_female.mp3]	న    	na   	A1
-take back	వెనక్కి తీసుకో	venakki tīsukō	[sound:వెనక్కి తీసుకో_google_female.mp3]	న    	na   	A1
-take down	దించు	din̄cu	[sound:దించు_google_female.mp3]	న    	na   	A1
-take in	లోపలికి తీసుకోండి	lōpaliki tīsukōṇḍi	[sound:లోపలికి తీసుకోండి_google_female.mp3]	న    	na   	A1
-take off	బయలుదేరు	bayaludēru	[sound:బయలుదేరు_google_female.mp3]	న    	na   	A1
-take on	తీసుకుంటారు	tīsukuṇṭāru	[sound:తీసుకుంటారు_google_female.mp3]	న    	na   	A1
-take over	స్వాధీనం చేసుకుంటాయి	svādhīnaṁ cēsukuṇṭāyi	[sound:స్వాధీనం చేసుకుంటాయి_google_female.mp3]	న    	na   	A1
-take up	చేపట్టండి	cēpaṭṭaṇḍi	[sound:చేపట్టండి_google_female.mp3]	న    	na   	A1
-take	పడుతుంది	paḍutundi	[sound:పడుతుంది_google_female.mp3]	న    	na   	A1
-talk	మాట్లాడండి	māṭlāḍaṇḍi	[sound:మాట్లాడండి_google_female.mp3]	న    	na   	A1
-tall	పొడవు	poḍavu	[sound:పొడవు_google_female.mp3]	న    	na   	A1
-taxi	టాక్సీ	ṭāksī	[sound:టాక్సీ_google_female.mp3]	న    	na   	A1
-teacher	గురువు	guruvu	[sound:గురువు_google_female.mp3]	న    	na   	A1
-teach	బోధిస్తారు	bōdhistāru	[sound:బోధిస్తారు_google_female.mp3]	న    	na   	A1
-team	జట్టు	jaṭṭu	[sound:జట్టు_google_female.mp3]	న    	na   	A1
-tea	టీ	ṭī	[sound:టీ_google_female.mp3]	న    	na   	A1
-telephone	టెలిఫోన్	ṭeliphōn	[sound:టెలిఫోన్_google_female.mp3]	న    	na   	A1
-television	టెలివిజన్	ṭelivijan	[sound:టెలివిజన్_google_female.mp3]	న    	na   	A1
-tell off	చెప్పు	ceppu	[sound:చెప్పు_google_female.mp3]	న    	na   	A1
-tell	చెప్పు	ceppu	[sound:చెప్పు_google_female.mp3]	న    	na   	A1
-ten	పది	padi	[sound:పది_google_female.mp3]	న    	na   	A1
-terrible	భయంకరమైన	bhayaṅkaramaina	[sound:భయంకరమైన_google_female.mp3]	న    	na   	A1
-test	పరీక్ష	parīkṣa	[sound:పరీక్ష_google_female.mp3]	న    	na   	A1
-text	వచనం	vacanaṁ	[sound:వచనం_google_female.mp3]	న    	na   	A1
-thanks	ధన్యవాదాలు	dhan'yavādālu	[sound:ధన్యవాదాలు_google_female.mp3]	న    	na   	A1
-thank you	ధన్యవాదాలు	dhan'yavādālu	[sound:ధన్యవాదాలు_google_female.mp3]	న    	na   	A1
-thank	ధన్యవాదాలు	dhan'yavādālu	[sound:ధన్యవాదాలు_google_female.mp3]	న    	na   	A1
-than	కంటే	kaṇṭē	[sound:కంటే_google_female.mp3]	న    	na   	A1
-that	అని	ani	[sound:అని_google_female.mp3]	న    	na   	A1
-theatre	థియేటర్	thiyēṭar	[sound:థియేటర్_google_female.mp3]	న    	na   	A1
-their	వారి	vāri	[sound:వారి_google_female.mp3]	న    	na   	A1
-them	వాటిని	vāṭini	[sound:వాటిని_google_female.mp3]	న    	na   	A1
-then	అప్పుడు	appuḍu	[sound:అప్పుడు_google_female.mp3]	న    	na   	A1
-there	అక్కడ	akkaḍa	[sound:అక్కడ_google_female.mp3]	న    	na   	A1
-the unemployed	నిరుద్యోగులు	nirudyōgulu	[sound:నిరుద్యోగులు_google_female.mp3]	న    	na   	A1
-the unexpected	ఊహించనిది	ūhin̄canidi	[sound:ఊహించనిది_google_female.mp3]	న    	na   	A1
-they	వారు	vāru	[sound:వారు_google_female.mp3]	న    	na   	A1
-the	ది	di	[sound:ది_google_female.mp3]	న    	na   	A1
-thing	విషయం	viṣayaṁ	[sound:విషయం_google_female.mp3]	న    	na   	A1
-think about	గురించి ఆలోచించండి	gurin̄ci ālōcin̄caṇḍi	[sound:గురించి ఆలోచించండి_google_female.mp3]	న    	na   	A1
-think of as	గా ఆలోచించండి	gā ālōcin̄caṇḍi	[sound:గా ఆలోచించండి_google_female.mp3]	న    	na   	A1
-think of	అనుకుంటాను	anukuṇṭānu	[sound:అనుకుంటాను_google_female.mp3]	న    	na   	A1
-think over	ఆలోచించండి	ālōcin̄caṇḍi	[sound:ఆలోచించండి_google_female.mp3]	న    	na   	A1
-think up	ఆలోచించు	ālōcin̄cu	[sound:ఆలోచించు_google_female.mp3]	న    	na   	A1
-think	అనుకుంటాను	anukuṇṭānu	[sound:అనుకుంటాను_google_female.mp3]	న    	na   	A1
-third	మూడవది	mūḍavadi	[sound:మూడవది_google_female.mp3]	న    	na   	A1
-thirsty	దాహం వేసింది	dāhaṁ vēsindi	[sound:దాహం వేసింది_google_female.mp3]	న    	na   	A1
-thirteen	పదమూడు	padamūḍu	[sound:పదమూడు_google_female.mp3]	న    	na   	A1
-thirty	ముప్పై	muppai	[sound:ముప్పై_google_female.mp3]	న    	na   	A1
-this	ఇది	idi	[sound:ఇది_google_female.mp3]	న    	na   	A1
-thousand	వెయ్యి	veyyi	[sound:వెయ్యి_google_female.mp3]	న    	na   	A1
-three	మూడు	mūḍu	[sound:మూడు_google_female.mp3]	న    	na   	A1
-through	ద్వారా	dvārā	[sound:ద్వారా_google_female.mp3]	న    	na   	A1
-Thursday	గురువారం	guruvāraṁ	[sound:గురువారం_google_female.mp3]	న    	na   	A1
-ticket	టిక్కెట్టు	ṭikkeṭṭu	[sound:టిక్కెట్టు_google_female.mp3]	న    	na   	A1
-time	సమయం	samayaṁ	[sound:సమయం_google_female.mp3]	న    	na   	A1
-tired	అలసిపోయాడు	alasipōyāḍu	[sound:అలసిపోయాడు_google_female.mp3]	న    	na   	A1
-title	శీర్షిక	śīrṣika	[sound:శీర్షిక_google_female.mp3]	న    	na   	A1
-today	నేడు	nēḍu	[sound:నేడు_google_female.mp3]	న    	na   	A1
-together	కలిసి	kalisi	[sound:కలిసి_google_female.mp3]	న    	na   	A1
-toilet	టాయిలెట్	ṭāyileṭ	[sound:టాయిలెట్_google_female.mp3]	న    	na   	A1
-tomato	టమోటా	ṭamōṭā	[sound:టమోటా_google_female.mp3]	న    	na   	A1
-tomorrow	రేపు	rēpu	[sound:రేపు_google_female.mp3]	న    	na   	A1
-tonight	ఈ రాత్రి	ī rātri	[sound:ఈ రాత్రి_google_female.mp3]	న    	na   	A1
-tooth	పంటి	paṇṭi	[sound:పంటి_google_female.mp3]	న    	na   	A1
-too	చాలా	cālā	[sound:చాలా_google_female.mp3]	న    	na   	A1
-topic	అంశం	anśaṁ	[sound:అంశం_google_female.mp3]	న    	na   	A1
-tourist	పర్యాటకుడు	paryāṭakuḍu	[sound:పర్యాటకుడు_google_female.mp3]	న    	na   	A1
-town	పట్టణం	paṭṭaṇaṁ	[sound:పట్టణం_google_female.mp3]	న    	na   	A1
-to	కు	ku	[sound:కు_google_female.mp3]	న    	na   	A1
-traffic	ట్రాఫిక్	ṭrāphik	[sound:ట్రాఫిక్_google_female.mp3]	న    	na   	A1
-train	రైలు	railu	[sound:రైలు_google_female.mp3]	న    	na   	A1
-travel	ప్రయాణం	prayāṇaṁ	[sound:ప్రయాణం_google_female.mp3]	న    	na   	A1
-tree	చెట్టు	ceṭṭu	[sound:చెట్టు_google_female.mp3]	న    	na   	A1
-trip	యాత్ర	yātra	[sound:యాత్ర_google_female.mp3]	న    	na   	A1
-trousers	ప్యాంటు	pyāṇṭu	[sound:ప్యాంటు_google_female.mp3]	న    	na   	A1
-true	నిజం	nijaṁ	[sound:నిజం_google_female.mp3]	న    	na   	A1
-try on	ప్రయత్నించండి	prayatnin̄caṇḍi	[sound:ప్రయత్నించండి_google_female.mp3]	న    	na   	A1
-try out	ప్రయత్నించండి	prayatnin̄caṇḍi	[sound:ప్రయత్నించండి_google_female.mp3]	న    	na   	A1
-try	ప్రయత్నించండి	prayatnin̄caṇḍi	[sound:ప్రయత్నించండి_google_female.mp3]	న    	na   	A1
-Tuesday	మంగళవారం	maṅgaḷavāraṁ	[sound:మంగళవారం_google_female.mp3]	న    	na   	A1
-turn back	వెనక్కి తిరగండి	venakki tiragaṇḍi	[sound:వెనక్కి తిరగండి_google_female.mp3]	న    	na   	A1
-turn down	తిరస్కరించు	tiraskarin̄cu	[sound:తిరస్కరించు_google_female.mp3]	న    	na   	A1
-turn into	లోకి మారుతాయి	lōki mārutāyi	[sound:లోకి మారుతాయి_google_female.mp3]	న    	na   	A1
-turn off	ఆఫ్ చేయండి	āph cēyaṇḍi	[sound:ఆఫ్ చేయండి_google_female.mp3]	న    	na   	A1
-turn on	ఆన్ చేయండి	ān cēyaṇḍi	[sound:ఆన్ చేయండి_google_female.mp3]	న    	na   	A1
-turn out	మారతాయి	māratāyi	[sound:మారతాయి_google_female.mp3]	న    	na   	A1
-turn over	తిరగండి	tiragaṇḍi	[sound:తిరగండి_google_female.mp3]	న    	na   	A1
-turn round	చుట్టూ తిరగండి	cuṭṭū tiragaṇḍi	[sound:చుట్టూ తిరగండి_google_female.mp3]	న    	na   	A1
-turn to	వైపు తిరగండి	vaipu tiragaṇḍi	[sound:వైపు తిరగండి_google_female.mp3]	న    	na   	A1
-turn up	తిరగండి	tiragaṇḍi	[sound:తిరగండి_google_female.mp3]	న    	na   	A1
-turn	మలుపు	malupu	[sound:మలుపు_google_female.mp3]	న    	na   	A1
-TV	టీవీ	ṭīvī	[sound:టీవీ_google_female.mp3]	న    	na   	A1
-twelve	పన్నెండు	panneṇḍu	[sound:పన్నెండు_google_female.mp3]	న    	na   	A1
-twenty	ఇరవై	iravai	[sound:ఇరవై_google_female.mp3]	న    	na   	A1
-twice	రెండుసార్లు	reṇḍusārlu	[sound:రెండుసార్లు_google_female.mp3]	న    	na   	A1
-two	రెండు	reṇḍu	[sound:రెండు_google_female.mp3]	న    	na   	A1
-type	రకం	rakaṁ	[sound:రకం_google_female.mp3]	న    	na   	A1
-umbrella	గొడుగు	goḍugu	[sound:గొడుగు_google_female.mp3]	న    	na   	A1
-uncle	మామ	māma	[sound:మామ_google_female.mp3]	న    	na   	A1
-understand	అర్థం చేసుకుంటారు	arthaṁ cēsukuṇṭāru	[sound:అర్థం చేసుకుంటారు_google_female.mp3]	న    	na   	A1
-under	కింద	kinda	[sound:కింద_google_female.mp3]	న    	na   	A1
-university	విశ్వవిద్యాలయం	viśvavidyālayaṁ	[sound:విశ్వవిద్యాలయం_google_female.mp3]	న    	na   	A1
-until	వరకు	varaku	[sound:వరకు_google_female.mp3]	న    	na   	A1
-upstairs	మేడమీద	mēḍamīda	[sound:మేడమీద_google_female.mp3]	న    	na   	A1
-up	పైకి	paiki	[sound:పైకి_google_female.mp3]	న    	na   	A1
-useful	ఉపయోగకరమైన	upayōgakaramaina	[sound:ఉపయోగకరమైన_google_female.mp3]	న    	na   	A1
-use up	అప్ ఉపయోగించండి	ap upayōgin̄caṇḍi	[sound:అప్ ఉపయోగించండి_google_female.mp3]	న    	na   	A1
-use	ఉపయోగించండి	upayōgin̄caṇḍi	[sound:ఉపయోగించండి_google_female.mp3]	న    	na   	A1
-usually	సాధారణంగా	sādhāraṇaṅgā	[sound:సాధారణంగా_google_female.mp3]	న    	na   	A1
-us	మాకు	māku	[sound:మాకు_google_female.mp3]	న    	na   	A1
-vacation	సెలవు	selavu	[sound:సెలవు_google_female.mp3]	న    	na   	A1
-vegetable	కూరగాయల	kūragāyala	[sound:కూరగాయల_google_female.mp3]	న    	na   	A1
-very	చాలా	cālā	[sound:చాలా_google_female.mp3]	న    	na   	A1
-video	వీడియో	vīḍiyō	[sound:వీడియో_google_female.mp3]	న    	na   	A1
-village	గ్రామం	grāmaṁ	[sound:గ్రామం_google_female.mp3]	న    	na   	A1
-visitor	సందర్శకుడు	sandarśakuḍu	[sound:సందర్శకుడు_google_female.mp3]	న    	na   	A1
-visit	సందర్శించండి	sandarśin̄caṇḍi	[sound:సందర్శించండి_google_female.mp3]	న    	na   	A1
-waiter	వెయిటర్	veyiṭar	[sound:వెయిటర్_google_female.mp3]	న    	na   	A1
-wait	వేచి ఉండండి	vēci uṇḍaṇḍi	[sound:వేచి ఉండండి_google_female.mp3]	న    	na   	A1
-wake	మేల్కొలపండి	mēlkolapaṇḍi	[sound:మేల్కొలపండి_google_female.mp3]	న    	na   	A1
-walk out	బయటకు నడవండి	bayaṭaku naḍavaṇḍi	[sound:బయటకు నడవండి_google_female.mp3]	న    	na   	A1
-walk up	పైకి నడవండి	paiki naḍavaṇḍi	[sound:పైకి నడవండి_google_female.mp3]	న    	na   	A1
-walk	నడవండి	naḍavaṇḍi	[sound:నడవండి_google_female.mp3]	న    	na   	A1
-wall	గోడ	gōḍa	[sound:గోడ_google_female.mp3]	న    	na   	A1
-want	కావాలి	kāvāli	[sound:కావాలి_google_female.mp3]	న    	na   	A1
-warm up	వేడెక్కుతుంది	vēḍekkutundi	[sound:వేడెక్కుతుంది_google_female.mp3]	న    	na   	A1
-warm	వెచ్చని	veccani	[sound:వెచ్చని_google_female.mp3]	న    	na   	A1
-wash away	కొట్టుకుపోతాయి	koṭṭukupōtāyi	[sound:కొట్టుకుపోతాయి_google_female.mp3]	న    	na   	A1
-wash off	కడగడం	kaḍagaḍaṁ	[sound:కడగడం_google_female.mp3]	న    	na   	A1
-wash out	వాష్ అవుట్	vāṣ avuṭ	[sound:వాష్ అవుట్_google_female.mp3]	న    	na   	A1
-wash up	కడగడం	kaḍagaḍaṁ	[sound:కడగడం_google_female.mp3]	న    	na   	A1
-wash	కడగడం	kaḍagaḍaṁ	[sound:కడగడం_google_female.mp3]	న    	na   	A1
-watch out for	కోసం చూడండి	kōsaṁ cūḍaṇḍi	[sound:కోసం చూడండి_google_female.mp3]	న    	na   	A1
-watch out	జాగ్రత్తగా ఉండు	jāgrattagā uṇḍu	[sound:జాగ్రత్తగా ఉండు_google_female.mp3]	న    	na   	A1
-watch	వాచ్	vāc	[sound:వాచ్_google_female.mp3]	న    	na   	A1
-water	నీరు	nīru	[sound:నీరు_google_female.mp3]	న    	na   	A1
-way	మార్గం	mārgaṁ	[sound:మార్గం_google_female.mp3]	న    	na   	A1
-wear away	ధరిస్తారు	dharistāru	[sound:ధరిస్తారు_google_female.mp3]	న    	na   	A1
-wear off	ధరిస్తారు	dharistāru	[sound:ధరిస్తారు_google_female.mp3]	న    	na   	A1
-wear out	అరిగిపోతాయి	arigipōtāyi	[sound:అరిగిపోతాయి_google_female.mp3]	న    	na   	A1
-wear	ధరిస్తారు	dharistāru	[sound:ధరిస్తారు_google_female.mp3]	న    	na   	A1
-weather	వాతావరణం	vātāvaraṇaṁ	[sound:వాతావరణం_google_female.mp3]	న    	na   	A1
-website	వెబ్సైట్	vebsaiṭ	[sound:వెబ్సైట్_google_female.mp3]	న    	na   	A1
-Wednesday	బుధవారం	budhavāraṁ	[sound:బుధవారం_google_female.mp3]	న    	na   	A1
-weekend	వారాంతం	vārāntaṁ	[sound:వారాంతం_google_female.mp3]	న    	na   	A1
-week	వారం	vāraṁ	[sound:వారం_google_female.mp3]	న    	na   	A1
-welcome	స్వాగతం	svāgataṁ	[sound:స్వాగతం_google_female.mp3]	న    	na   	A1
-well known	బాగా తెలిసిన	bāgā telisina	[sound:బాగా తెలిసిన_google_female.mp3]	న    	na   	A1
-well	బాగా	bāgā	[sound:బాగా_google_female.mp3]	న    	na   	A1
-west	పడమర	paḍamara	[sound:పడమర_google_female.mp3]	న    	na   	A1
-we	మేము	mēmu	[sound:మేము_google_female.mp3]	న    	na   	A1
-what	ఏమి	ēmi	[sound:ఏమి_google_female.mp3]	న    	na   	A1
-when	ఎప్పుడు	eppuḍu	[sound:ఎప్పుడు_google_female.mp3]	న    	na   	A1
-where	ఎక్కడ	ekkaḍa	[sound:ఎక్కడ_google_female.mp3]	న    	na   	A1
-which	ఏది	ēdi	[sound:ఏది_google_female.mp3]	న    	na   	A1
-white	తెలుపు	telupu	[sound:తెలుపు_google_female.mp3]	న    	na   	A1
-who	WHO	wHO	[sound:WHO_google_female.mp3]	న    	na   	A1
-why	ఎందుకు	enduku	[sound:ఎందుకు_google_female.mp3]	న    	na   	A1
-wife	భార్య	bhārya	[sound:భార్య_google_female.mp3]	న    	na   	A1
-will	రెడీ	reḍī	[sound:రెడీ_google_female.mp3]	న    	na   	A1
-window	కిటికీ	kiṭikī	[sound:కిటికీ_google_female.mp3]	న    	na   	A1
-wine	వైన్	vain	[sound:వైన్_google_female.mp3]	న    	na   	A1
-winter	చలికాలం	calikālaṁ	[sound:చలికాలం_google_female.mp3]	న    	na   	A1
-win	గెలుస్తారు	gelustāru	[sound:గెలుస్తారు_google_female.mp3]	న    	na   	A1
-without	లేకుండా	lēkuṇḍā	[sound:లేకుండా_google_female.mp3]	న    	na   	A1
-with	తో	tō	[sound:తో_google_female.mp3]	న    	na   	A1
-woman	స్త్రీ	strī	[sound:స్త్రీ_google_female.mp3]	న    	na   	A1
-wonderful	అద్భుతమైన	adbhutamaina	[sound:అద్భుతమైన_google_female.mp3]	న    	na   	A1
-word	పదం	padaṁ	[sound:పదం_google_female.mp3]	న    	na   	A1
-worker	కార్మికుడు	kārmikuḍu	[sound:కార్మికుడు_google_female.mp3]	న    	na   	A1
-work out	పని చేయండి	pani cēyaṇḍi	[sound:పని చేయండి_google_female.mp3]	న    	na   	A1
-work	పని	pani	[sound:పని_google_female.mp3]	న    	na   	A1
-world	ప్రపంచం	prapan̄caṁ	[sound:ప్రపంచం_google_female.mp3]	న    	na   	A1
-would	ఉంటుంది	uṇṭundi	[sound:ఉంటుంది_google_female.mp3]	న    	na   	A1
-write back	తిరిగి వ్రాయండి	tirigi vrāyaṇḍi	[sound:తిరిగి వ్రాయండి_google_female.mp3]	న    	na   	A1
-write down	వ్రాయండి	vrāyaṇḍi	[sound:వ్రాయండి_google_female.mp3]	న    	na   	A1
-writer	రచయిత	racayita	[sound:రచయిత_google_female.mp3]	న    	na   	A1
-write	వ్రాయండి	vrāyaṇḍi	[sound:వ్రాయండి_google_female.mp3]	న    	na   	A1
-writing	రాయడం	rāyaḍaṁ	[sound:రాయడం_google_female.mp3]	న    	na   	A1
-wrong	తప్పు	tappu	[sound:తప్పు_google_female.mp3]	న    	na   	A1
-yeah	అవును	avunu	[sound:అవును_google_female.mp3]	న    	na   	A1
-year	సంవత్సరం	sanvatsaraṁ	[sound:సంవత్సరం_google_female.mp3]	న    	na   	A1
-yellow	పసుపు	pasupu	[sound:పసుపు_google_female.mp3]	న    	na   	A1
-yesterday	నిన్న	ninna	[sound:నిన్న_google_female.mp3]	న    	na   	A1
-yes	అవును	avunu	[sound:అవును_google_female.mp3]	న    	na   	A1
-young	యువకుడు	yuvakuḍu	[sound:యువకుడు_google_female.mp3]	న    	na   	A1
-yourself	మీరే	mīrē	[sound:మీరే_google_female.mp3]	న    	na   	A1
-your	మీ	mī	[sound:మీ_google_female.mp3]	న    	na   	A1
-you	మీరు	mīru	[sound:మీరు_google_female.mp3]	న    	na   	A1
+special	ప్రత్యేక	pratyēka	[sound:ప్రత్యేక_google_female.mp3]	ఈరోజు ఒక ప్రత్యేక దినం.	Today is a special day.	A1
+spelling	స్పెల్లింగ్	spelliṅg	[sound:స్పెల్లింగ్_google_female.mp3]	నా పేరు స్పెల్లింగ్ చెప్పడానికి కష్టపడుతాను.	I find it hard to spell my name.	A1
+spell	స్పెల్	spel	[sound:స్పెల్_google_female.mp3]	ఈ పదాన్ని సరైన విధంగా స్పెల్ చేయండి.	Spell this word correctly.	A1
+spend	ఖర్చు చేస్తారు	kharcu cēstāru	[sound:ఖర్చు చేస్తారు_google_female.mp3]	వారు విహార యాత్ర కోసం చాలా డబ్బు ఖర్చు చేస్తారు.	They spend a lot of money on vacations.	A1
+sport	క్రీడ	krīḍa	[sound:క్రీడ_google_female.mp3]	క్రీడలు మన శారీరక ఆరోగ్యం కోసం మేలు చేస్తాయి.	Sports are good for our physical health.	A1
+spring	వసంత	vasanta	[sound:వసంత_google_female.mp3]	వసంత కాలంలో పువ్వులు వికసిస్తాయి.	Flowers bloom in the spring.	A1
+stand back	తిరిగి నిలబడు	tirigi nilabaḍu	[sound:తిరిగి నిలబడు_google_female.mp3]	నువ్వు పడిపోయినప్పటికీ, తిరిగి నిలబడు.	Even if you fall, stand up again.	A1
+stand by	నిలబడు	nilabaḍu	[sound:నిలబడు_google_female.mp3]	ఆట ముగిసిన తరువాత తాను ధైర్యంగా నిలబడ్డాడు.	He stood firm after the game ended.	A1
+stand for	నిలబడు	nilabaḍu	[sound:నిలబడు_google_female.mp3]	దయచేసి గౌరవంగా నిలబడు.	Please stand respectfully.	A1
+stand out	నిలబడి	nilabaḍi	[sound:నిలబడి_google_female.mp3]	అతను ప్రశాంతంగా నిలబడి వేచిచూశాడు.	He stood calmly and waited.	A1
+stand up for	నిలబడు	nilabaḍu	[sound:నిలబడు_google_female.mp3]	మనం చర్చ సందర్భంగా తమ భావాలను గౌరవంగా నిలబడి చెప్పాలి.	We should stand firmly and express our views during discussions.	A1
+stand up	లేచి నిలబడండి	lēci nilabaḍaṇḍi	[sound:లేచి నిలబడండి_google_female.mp3]	అన్ని పాఠశాల విద్యార్థులు జాతీయ గీతం కోసం లేచి నిలబడండి.	All school students, stand up for the national anthem.	A1
+stand	నిలబడండి	nilabaḍaṇḍi	[sound:నిలబడండి_google_female.mp3]	చర్చాసభలో మీ అభిప్రాయాలను చెప్పడానికి ధైర్యంగా నిలబడండి.	Stand firmly to express your opinions in the debate.	A1
+start off	ప్రారంభించండి	prārambhin̄caṇḍi	[sound:ప్రారంభించండి_google_female.mp3]	మీ రోజును వ్యాయామంతో ప్రారంభించండి.	Start your day with exercise.	A1
+start out	ప్రారంభించండి	prārambhin̄caṇḍi	[sound:ప్రారంభించండి_google_female.mp3]	మీ ఉద్యోగాన్ని సమర్థంగా ప్రారంభించండి.	Start your work efficiently.	A1
+start up	ప్రారంభించండి	prārambhin̄caṇḍi	[sound:ప్రారంభించండి_google_female.mp3]	కొత్త హాబీని ప్రారంభించండి.	Start a new hobby.	A1
+start	ప్రారంభించండి	prārambhin̄caṇḍi	[sound:ప్రారంభించండి_google_female.mp3]	మీ ప్రయాణాన్ని ఆనందంగా ప్రారంభించండి.	Start your journey happily.	A1
+star	నక్షత్రం	nakṣatraṁ	[sound:నక్షత్రం_google_female.mp3]	ఆకాశంలో ఆ నక్షత్రం చాలా అందంగా కనిపిస్తోంది.	That star in the sky looks very beautiful.	A1
+statement	ప్రకటన	prakaṭana	[sound:ప్రకటన_google_female.mp3]	టీవీలో ఒక ఆసక్తికరమైన ప్రకటన చూశాను.	I saw an interesting advertisement on TV.	A1
+station	స్టేషన్	sṭēṣan	[sound:స్టేషన్_google_female.mp3]	రైలు స్టేషన్‌కు సమయానికి చేరుకోవాలి.	Reach the train station on time.	A1
+stay away	దూరంగా ఉండండి	dūraṅgā uṇḍaṇḍi	[sound:దూరంగా ఉండండి_google_female.mp3]	ప్రమాదం చోటు చేసుకున్న ప్రాంతం నుండి దూరంగా ఉండండి.	Stay away from the accident site.	A1
+stay out of	బయట ఉండు	bayaṭa uṇḍu	[sound:బయట ఉండు_google_female.mp3]	పసివాడా, గదిలోకి వెళ్లకుండా బయట ఉండు.	Child, stay outside without entering the room.	A1
+stay	ఉండు	uṇḍu	[sound:ఉండు_google_female.mp3]	నేను ఇక్కడే ఉండి నీకు సహాయం చేస్తాను.	I will stay here and help you.	A1
+still	ఇప్పటికీ	ippaṭikī	[sound:ఇప్పటికీ_google_female.mp3]	సమస్య ఇప్పటికీ పరిష్కారం కాలేదు.	The issue is still unresolved.	A1
+stop	ఆపండి	āpaṇḍi	[sound:ఆపండి_google_female.mp3]	ఈపాటికే మాట్లాడటం ఆపండి.	Stop talking already.	A1
+story	కథ	katha	[sound:కథ_google_female.mp3]	ఆ కథ చాలా ఆసక్తికరంగా ఉంది.	That story is very interesting.	A1
+street	వీధి	vīdhi	[sound:వీధి_google_female.mp3]	వీధిలో పిల్లలు ఆడుకుంటున్నారు.	Children are playing in the street.	A1
+strong	బలమైన	balamaina	[sound:బలమైన_google_female.mp3]	ఆయన బలమైన నాయకుడు.	He is a strong leader.	A1
+student	విద్యార్థి	vidyārthi	[sound:విద్యార్థి_google_female.mp3]	ఆ విద్యార్థి తన చదువులో ప్రతిభావంతుడు.	That student is brilliant in his studies.	A1
+study	చదువు	caduvu	[sound:చదువు_google_female.mp3]	చదువు మన జీవితానికి వెలుగు.	Education is the light of our life.	A1
+style	శైలి	śaili	[sound:శైలి_google_female.mp3]	అతని డ్రెస్‌ శైలి చాలా ప్రత్యేకంగా ఉంటుంది.	His dressing style is very unique.	A1
+subject	విషయం	viṣayaṁ	[sound:విషయం_google_female.mp3]	ఆ విషయంపై స్పష్టమైన చర్చ జరిగింది.	A clear discussion was held on the topic.	A1
+success	విజయం	vijayaṁ	[sound:విజయం_google_female.mp3]	కృషి చేసినవారికి విజయం సులభంగా దక్కుతుంది.	Success comes easily to those who work hard.	A1
+sugar	చక్కెర	cakkera	[sound:చక్కెర_google_female.mp3]	చాయ్‌లో చక్కెర తక్కువ వేసి తాగండి.	Add less sugar to your tea.	A1
+summer	వేసవి	vēsavi	[sound:వేసవి_google_female.mp3]	వేసవి కాలంలో వేడి తట్టుకోలేము.	We can't bear the heat during summer.	A1
+Sunday	ఆదివారం	ādivāraṁ	[sound:ఆదివారం_google_female.mp3]	ఆదివారం నాకు సెలవు ఉంటుంది.	Sunday is my day off.	A1
+sun	సూర్యుడు	sūryuḍu	[sound:సూర్యుడు_google_female.mp3]	ఉదయం సూర్యుడు అద్భుతంగా కనిపిస్తాడు.	The sun looks magnificent in the morning.	A1
+supermarket	సూపర్ మార్కెట్	sūpar mārkeṭ	[sound:సూపర్ మార్కెట్_google_female.mp3]	నేడు సూపర్ మార్కెట్‌కు వెళ్ళి కూరగాయలు కొనుగోలు చేశాను.	I went to the supermarket today to buy vegetables.	A1
+sure	ఖచ్చితంగా	khaccitaṅgā	[sound:ఖచ్చితంగా_google_female.mp3]	ఖచ్చితంగా ఈ పుస్తకం చదవాలి.	Definitely, you must read this book.	A1
+sweater	స్వెటర్	sveṭar	[sound:స్వెటర్_google_female.mp3]	చలికాలంలో స్వెటర్ వేసుకోవడం అవసరం.	It is necessary to wear a sweater in winter.	A1
+swimming pool	ఈత కొలను	īta kolanu	[sound:ఈత కొలను_google_female.mp3]	ఆ హోటల్‌లో ఒక పెద్ద ఈత కొలను ఉంది.	The hotel has a large swimming pool.	A1
+swimming	ఈత కొట్టడం	īta koṭṭaḍaṁ	[sound:ఈత కొట్టడం_google_female.mp3]	ఈత కొట్టడం ఆరోగ్యానికి మంచిది.	Swimming is good for health.	A1
+swim	ఈత కొట్టండి	īta koṭṭaṇḍi	[sound:ఈత కొట్టండి_google_female.mp3]	నీరు లోతుగా ఉంటే సురక్షితంగా ఈత కొట్టండి.	Swim safely if the water is deep.	A1
+table	పట్టిక	paṭṭika	[sound:పట్టిక_google_female.mp3]	సమీక్ష ఫలితాలను ఒక పట్టికలో చూపించారు.	The review results were shown in a table.	A1
+take away	తీసుకెళ్ళండి	tīsukeḷḷaṇḍi	[sound:తీసుకెళ్ళండి_google_female.mp3]	ఈ పుస్తకాన్ని మీ గదికి తీసుకెళ్ళండి.	Take this book to your room.	A1
+take back	వెనక్కి తీసుకో	venakki tīsukō	[sound:వెనక్కి తీసుకో_google_female.mp3]	వారు ఇచ్చిన ఆవరణను వెనక్కి తీసుకోవాలని నిర్ణయించారు.	They decided to take back the given space.	A1
+take down	దించు	din̄cu	[sound:దించు_google_female.mp3]	పిల్లలను నెమ్మదిగా కారు నుండి దించు.	Carefully help the kids out of the car.	A1
+take in	లోపలికి తీసుకోండి	lōpaliki tīsukōṇḍi	[sound:లోపలికి తీసుకోండి_google_female.mp3]	దయచేసి మీ సామాను లోపలికి తీసుకోండి.	Please bring your luggage inside.	A1
+take off	బయలుదేరు	bayaludēru	[sound:బయలుదేరు_google_female.mp3]	పరికరాలను సకాలంలో పనిచేయించేందుకు దయచేసి బయటకు దేరు.	Please take out the tools to work on time.	A1
+take on	తీసుకుంటారు	tīsukuṇṭāru	[sound:తీసుకుంటారు_google_female.mp3]	ఆ ఫలాన్ని వారు తినడానికి తీసుకుంటారు.	They take that fruit to eat.	A1
+take over	స్వాధీనం చేసుకుంటాయి	svādhīnaṁ cēsukuṇṭāyi	[sound:స్వాధీనం చేసుకుంటాయి_google_female.mp3]	ధిత వస్తువులను స్వాధీనం చేసుకుంటారు.	The police seize prohibited items.	A1
+take up	చేపట్టండి	cēpaṭṭaṇḍi	[sound:చేపట్టండి_google_female.mp3]	మనం కొత్త ప్రాజెక్టును చేపట్టండి.	Let us undertake a new project.	A1
+take	పడుతుంది	paḍutundi	[sound:పడుతుంది_google_female.mp3]	నీతిగా పనిచేస్తే మంచి పేరు పడుతుంది.	If you work honestly, you'll earn a good name.	A1
+talk	మాట్లాడండి	māṭlāḍaṇḍi	[sound:మాట్లాడండి_google_female.mp3]	సందేహాలు ఉంటే, ఉపాధ్యాయుడితో మాట్లాడండి.	Talk to your teacher if you have doubts.	A1
+tall	పొడవు	poḍavu	[sound:పొడవు_google_female.mp3]	ఆ నది పొడవు 500 కిలోమీటర్లదాకా ఉంటుంది.	The river is 500 kilometers long.	A1
+taxi	టాక్సీ	ṭāksī	[sound:టాక్సీ_google_female.mp3]	స్టేషన్‌కు చేరడానికి టాక్సీ తీసుకుందాం.	Let's take a taxi to reach the station.	A1
+teacher	గురువు	guruvu	[sound:గురువు_google_female.mp3]	ప్రతి విద్యార్థికి మంచి గురువు అవసరం.	Every student needs a good teacher.	A1
+teach	బోధిస్తారు	bōdhistāru	[sound:బోధిస్తారు_google_female.mp3]	మా ఉపాధ్యాయుడు గణితంలో అత్యంత బాగా బోధిస్తారు.	Our teacher explains mathematics very well.	A1
+team	జట్టు	jaṭṭu	[sound:జట్టు_google_female.mp3]	మా జట్టు ఈసారి కప్ గెలిచింది.	Our team won the cup this time.	A1
+tea	టీ	ṭī	[sound:టీ_google_female.mp3]	సాయంత్రం టీ తాగడం నాకు అలవాటు.	I am used to having tea in the evening.	A1
+telephone	టెలిఫోన్	ṭeliphōn	[sound:టెలిఫోన్_google_female.mp3]	మీరు నన్ను టెలిఫోన్ ద్వారా సంప్రదించవచ్చు.	You can contact me via telephone.	A1
+television	టెలివిజన్	ṭelivijan	[sound:టెలివిజన్_google_female.mp3]	పిల్లలు ఎక్కువ సమయం టెలివిజన్ చూడకూడదు.	Children shouldn't spend too much time watching television.	A1
+tell off	చెప్పు	ceppu	[sound:చెప్పు_google_female.mp3]	బహిరంగ ప్రదేశంలో చెప్పులు ధరించండి.	Wear shoes in public places.	A1
+tell	చెప్పు	ceppu	[sound:చెప్పు_google_female.mp3]	అతను తన పాత చెప్పులు విసిరేశాడు.	He threw away his old shoes.	A1
+ten	పది	padi	[sound:పది_google_female.mp3]	మా తరగతిలో పదిమంది విద్యార్థులు ఉన్నారు.	There are ten students in our class.	A1
+terrible	భయంకరమైన	bhayaṅkaramaina	[sound:భయంకరమైన_google_female.mp3]	అది ఒక భయంకరమైన అనుభవం.	That was a terrifying experience.	A1
+test	పరీక్ష	parīkṣa	[sound:పరీక్ష_google_female.mp3]	రేపు నాకు గణిత పరీక్ష ఉంది.	I have a math exam tomorrow.	A1
+text	వచనం	vacanaṁ	[sound:వచనం_google_female.mp3]	ఈ కవితలో ప్రతి వచనం అద్భుతంగా ఉంది.	Every verse in this poem is wonderful.	A1
+thanks	ధన్యవాదాలు	dhan'yavādālu	[sound:ధన్యవాదాలు_google_female.mp3]	మీ సహకారానికి ధన్యవాదాలు.	Thank you for your support.	A1
+thank you	ధన్యవాదాలు	dhan'yavādālu	[sound:ధన్యవాదాలు_google_female.mp3]	మీ సూచనలకు ధన్యవాదాలు తెలియజేస్తున్నాను.	I express my gratitude for your suggestions.	A1
+thank	ధన్యవాదాలు	dhan'yavādālu	[sound:ధన్యవాదాలు_google_female.mp3]	ధన్యవాదాలు చెప్పడం మంచినీతి.	Saying thank you is good manners.	A1
+than	కంటే	kaṇṭē	[sound:కంటే_google_female.mp3]	నన్ను కన్నా అతను గొప్ప చదువరుడు.	He is a better reader than me.	A1
+that	అని	ani	[sound:అని_google_female.mp3]	ఆమె చెప్పింది "నేను కలవాలని అనుకుంటున్నాను."	She said, "I want to meet."	A1
+theatre	థియేటర్	thiyēṭar	[sound:థియేటర్_google_female.mp3]	ఆ సినిమా థియేటర్ చాలా పెద్దది.	That movie theater is very big.	A1
+their	వారి	vāri	[sound:వారి_google_female.mp3]	వారి సమయం చాలా విలువైనది.	Their time is very precious.	A1
+them	వాటిని	vāṭini	[sound:వాటిని_google_female.mp3]	నాకు ఆ పుస్తకాలు కావాలి; వాటిని ఇవ్వండి.	I need those books; please give them.	A1
+then	అప్పుడు	appuḍu	[sound:అప్పుడు_google_female.mp3]	నీవు వచ్చేటప్పుడు, నేను అప్పుడు చదువుతున్నాను.	When you came, I was studying then.	A1
+there	అక్కడ	akkaḍa	[sound:అక్కడ_google_female.mp3]	నేను అప్పుడు అక్కడే ఉన్నాను.	I was there at that time.	A1
+the unemployed	నిరుద్యోగులు	nirudyōgulu	[sound:నిరుద్యోగులు_google_female.mp3]	ఆ సంస్థ నిరుద్యోగులకు శిక్షణ ఇస్తుంది.	That organization provides training to the unemployed.	A1
+the unexpected	ఊహించనిది	ūhin̄canidi	[sound:ఊహించనిది_google_female.mp3]	పరిస్థితులు ఊహించనిది గా మారాయి.	The circumstances turned out to be unexpected.	A1
+they	వారు	vāru	[sound:వారు_google_female.mp3]	వారు పుస్తకాలను తీసుకెళ్లారు.	They took the books.	A1
+the	ది	di	[sound:ది_google_female.mp3]	ఇది 2024 సంవత్సరం యొక్క మొదటి రోజు.	This is the first day of the year 2024.	A1
+thing	విషయం	viṣayaṁ	[sound:విషయం_google_female.mp3]	ఆ విషయం చర్చించడం అవసరం.	Discussing that matter is important.	A1
+think about	గురించి ఆలోచించండి	gurin̄ci ālōcin̄caṇḍi	[sound:గురించి ఆలోచించండి_google_female.mp3]	 చి ఆలోచించండి.	Think about that matter.	A1
+think of as	గా ఆలోచించండి	gā ālōcin̄caṇḍi	[sound:గా ఆలోచించండి_google_female.mp3]	సమస్యను సత్వర పరిష్కారం గా ఆలోచించండి.	Think of the problem as a quick resolution.	A1
+think of	అనుకుంటాను	anukuṇṭānu	[sound:అనుకుంటాను_google_female.mp3]	నేను రేపు పార్క్‌కు వెళ్ళాలనుకుంటాను.	I think I will go to the park tomorrow.	A1
+think over	ఆలోచించండి	ālōcin̄caṇḍi	[sound:ఆలోచించండి_google_female.mp3]	ఒక సమస్యపై గమనంగా ఆలోచించండి.	Reflect deeply on a problem.	A1
+think up	ఆలోచించు	ālōcin̄cu	[sound:ఆలోచించు_google_female.mp3]	పాఠం పట్ల బాగా ఆలోచించు.	Think carefully about the lesson.	A1
+think	అనుకుంటాను	anukuṇṭānu	[sound:అనుకుంటాను_google_female.mp3]	తాను సాధించగలుగుతాడని అతను అనుకుంటాడు.	He thinks he can achieve it.	A1
+third	మూడవది	mūḍavadi	[sound:మూడవది_google_female.mp3]	మూడవది నాకే కావాలి.	I want the third one.	A1
+thirsty	దాహం వేసింది	dāhaṁ vēsindi	[sound:దాహం వేసింది_google_female.mp3]	నడిచిన తరువాత నాకు దాహం వేసింది.	I felt thirsty after walking.	A1
+thirteen	పదమూడు	padamūḍu	[sound:పదమూడు_google_female.mp3]	నిన్న మా టీమ్ పదమూడు రన్లు చేసింది.	Yesterday, our team scored thirteen runs.	A1
+thirty	ముప్పై	muppai	[sound:ముప్పై_google_female.mp3]	ముప్పై నిమిషాలు ఆగి తర్వాత వెళ్ళాం.	We waited thirty minutes before leaving.	A1
+this	ఇది	idi	[sound:ఇది_google_female.mp3]	ఇది నా పెన్.	This is my pen.	A1
+thousand	వెయ్యి	veyyi	[sound:వెయ్యి_google_female.mp3]	ఈ ఇంటి ధర వెయ్యి రూపాయలు.	This house costs a thousand rupees.	A1
+three	మూడు	mūḍu	[sound:మూడు_google_female.mp3]	నాకు మూడు ఆపిల్స్ కావాలి.	I need three apples.	A1
+through	ద్వారా	dvārā	[sound:ద్వారా_google_female.mp3]	ఈ పుస్తకం ద్వారా నాకు ఎక్కువ తెలియజేసింది.	This book taught me a lot.	A1
+Thursday	గురువారం	guruvāraṁ	[sound:గురువారం_google_female.mp3]	గురువారం నాకు సెలవు ఉంది.	I have a holiday on Thursday.	A1
+ticket	టిక్కెట్టు	ṭikkeṭṭu	[sound:టిక్కెట్టు_google_female.mp3]	నాకు రైలు టిక్కెట్టు కావాలి.	I need a train ticket.	A1
+time	సమయం	samayaṁ	[sound:సమయం_google_female.mp3]	మీకు సమయం ఉందా?	Do you have time?	A1
+tired	అలసిపోయాడు	alasipōyāḍu	[sound:అలసిపోయాడు_google_female.mp3]	అతను రోజంతా పని చేసి అలసిపోయాడు.	He was tired after working all day.	A1
+title	శీర్షిక	śīrṣika	[sound:శీర్షిక_google_female.mp3]	ఆ కథకు శీర్షిక అద్భుతంగా ఉంది.	The title of the story is amazing.	A1
+today	నేడు	nēḍu	[sound:నేడు_google_female.mp3]	నేడు చాలా చల్లగా ఉంది.	Today is very cold.	A1
+together	కలిసి	kalisi	[sound:కలిసి_google_female.mp3]	మేము మా స్నేహితులతో కలిసి భోజనం చేశాము.	We had dinner with our friends.	A1
+toilet	టాయిలెట్	ṭāyileṭ	[sound:టాయిలెట్_google_female.mp3]	టాయిలెట్ ఎక్కడ ఉంది?	Where is the toilet?	A1
+tomato	టమోటా	ṭamōṭā	[sound:టమోటా_google_female.mp3]	నాకు టమోటా పచ్చడి ఇష్టం.	I like tomato chutney.	A1
+tomorrow	రేపు	rēpu	[sound:రేపు_google_female.mp3]	రేపు మనం సినిమా చూస్తామా?	Shall we watch a movie tomorrow?	A1
+tonight	ఈ రాత్రి	ī rātri	[sound:ఈ రాత్రి_google_female.mp3]	ఈ రాత్రి నేను త్వరగా నిద్రపోతాను.	Tonight I will sleep early.	A1
+tooth	పంటి	paṇṭi	[sound:పంటి_google_female.mp3]	నాకు పంటి నొప్పి ఉంది.	I have a toothache.	A1
+too	చాలా	cālā	[sound:చాలా_google_female.mp3]	ఈ పుస్తకం చాలా ఆసక్తికరంగా ఉంది.	This book is very interesting.	A1
+topic	అంశం	anśaṁ	[sound:అంశం_google_female.mp3]	ఆ అంశం గురించి చర్చించండి.	Discuss that topic.	A1
+tourist	పర్యాటకుడు	paryāṭakuḍu	[sound:పర్యాటకుడు_google_female.mp3]	ఆ పర్యాటకుడు భారతదేశాన్ని సందర్శించాడు.	The tourist visited India.	A1
+town	పట్టణం	paṭṭaṇaṁ	[sound:పట్టణం_google_female.mp3]	హైదరాబాద్ ఒక పెద్ద పట్టణం.	Hyderabad is a big city.	A1
+to	కు	ku	[sound:కు_google_female.mp3]	మీరు పుస్తకాన్ని నాకు ఇవ్వగలరా?	Can you give the book to me?	A1
+traffic	ట్రాఫిక్	ṭrāphik	[sound:ట్రాఫిక్_google_female.mp3]	నగరంలో ట్రాఫిక్ చాలా ఉంది.	There is a lot of traffic in the city.	A1
+train	రైలు	railu	[sound:రైలు_google_female.mp3]	రైలు సమయానికి వచ్చింది.	The train arrived on time.	A1
+travel	ప్రయాణం	prayāṇaṁ	[sound:ప్రయాణం_google_female.mp3]	మా ప్రయాణం అద్భుతంగా ఉంది.	Our journey was wonderful.	A1
+tree	చెట్టు	ceṭṭu	[sound:చెట్టు_google_female.mp3]	ఆ చెట్టు చాలా పొడవుగా ఉంది.	That tree is very tall.	A1
+trip	యాత్ర	yātra	[sound:యాత్ర_google_female.mp3]	యాత్ర చాలా సందడి గా సాగింది.	The trip was very lively.	A1
+trousers	ప్యాంటు	pyāṇṭu	[sound:ప్యాంటు_google_female.mp3]	నాకు నీలం రంగు ప్యాంటు కావాలి.	I want blue pants.	A1
+true	నిజం	nijaṁ	[sound:నిజం_google_female.mp3]	నిజం చెప్పడం చాలా ముఖ్యం.	Telling the truth is very important.	A1
+try on	ప్రయత్నించండి	prayatnin̄caṇḍi	[sound:ప్రయత్నించండి_google_female.mp3]	దయచేసి ఇది ప్రయత్నించండి.	Please try this.	A1
+try out	ప్రయత్నించండి	prayatnin̄caṇḍi	[sound:ప్రయత్నించండి_google_female.mp3]	మీరు మరోసారి ప్రయత్నించండి.	Try again.	A1
+try	ప్రయత్నించండి	prayatnin̄caṇḍi	[sound:ప్రయత్నించండి_google_female.mp3]	ప్రయత్నించడం అలవాటు చేసుకోండి.	Make it a habit to try.	A1
+Tuesday	మంగళవారం	maṅgaḷavāraṁ	[sound:మంగళవారం_google_female.mp3]	మంగళవారం నా పుట్టినరోజు.	Tuesday is my birthday.	A1
+turn back	వెనక్కి తిరగండి	venakki tiragaṇḍi	[sound:వెనక్కి తిరగండి_google_female.mp3]	దయచేసి గమ్యానికి వెళ్ళిన తరువాత వెనక్కి తిరగండి.	Please turn back after reaching the destination.	A1
+turn down	తిరస్కరించు	tiraskarin̄cu	[sound:తిరస్కరించు_google_female.mp3]	అతను ఆ అవకాశం తిరస్కరించాడు.	He rejected the opportunity.	A1
+turn into	లోకి మారుతాయి	lōki mārutāyi	[sound:లోకి మారుతాయి_google_female.mp3]	ఆ రంగులు లోపలికి మారుతాయి.	Those colors will change inside.	A1
+turn off	ఆఫ్ చేయండి	āph cēyaṇḍi	[sound:ఆఫ్ చేయండి_google_female.mp3]	ఫ్యాన్ ఆఫ్ చేయండి.	Turn off the fan.	A1
+turn on	ఆన్ చేయండి	ān cēyaṇḍi	[sound:ఆన్ చేయండి_google_female.mp3]	లైటు ఆన్ చేయండి.	Turn on the light.	A1
+turn out	మారతాయి	māratāyi	[sound:మారతాయి_google_female.mp3]	పరిస్థితులు త్వరలో మారతాయి.	The conditions will soon change.	A1
+turn over	తిరగండి	tiragaṇḍi	[sound:తిరగండి_google_female.mp3]	రోడ్డు చివర్లో తిరగండి.	Turn at the end of the road.	A1
+turn round	చుట్టూ తిరగండి	cuṭṭū tiragaṇḍi	[sound:చుట్టూ తిరగండి_google_female.mp3]	ఈ ప్రదేశం చుట్టూ తిరగండి.	Walk around this place.	A1
+turn to	వైపు తిరగండి	vaipu tiragaṇḍi	[sound:వైపు తిరగండి_google_female.mp3]	కుడి వైపు తిరగండి.	Turn to the right.	A1
+turn up	తిరగండి	tiragaṇḍi	[sound:తిరగండి_google_female.mp3]	బస్సు ఎడమ వైపుకు తిరగండి.	The bus turned to the left.	A1
+turn	మలుపు	malupu	[sound:మలుపు_google_female.mp3]	ఆ మలుపు చాలా ప్రమాదకరమైనది.	That turn is very dangerous.	A1
+TV	టీవీ	ṭīvī	[sound:టీవీ_google_female.mp3]	టీవీ ఆన్ చేయండి.	Turn on the TV.	A1
+twelve	పన్నెండు	panneṇḍu	[sound:పన్నెండు_google_female.mp3]	పన్నెండు గంటలకు మీతో కలుస్తాను.	I will meet you at twelve o'clock.	A1
+twenty	ఇరవై	iravai	[sound:ఇరవై_google_female.mp3]	నాకు ఇరవై మామిడి పండ్లు కావాలి.	I want twenty mangoes.	A1
+twice	రెండుసార్లు	reṇḍusārlu	[sound:రెండుసార్లు_google_female.mp3]	ఈ క్రియాన్న రెండుసార్లు అనుసరించండి.	Follow this process twice.	A1
+two	రెండు	reṇḍu	[sound:రెండు_google_female.mp3]	నాకు రెండు బుక్కులు కావాలి.	I need two books.	A1
+type	రకం	rakaṁ	[sound:రకం_google_female.mp3]	ఇది ఏ రకం పదార్థం?	What kind of material is this?	A1
+umbrella	గొడుగు	goḍugu	[sound:గొడుగు_google_female.mp3]	వర్షంలో గొడుగు ఉపయోగించండి.	Use an umbrella in the rain.	A1
+uncle	మామ	māma	[sound:మామ_google_female.mp3]	నా మామ చాలా స్నేహశీలి.	My uncle is very friendly.	A1
+understand	అర్థం చేసుకుంటారు	arthaṁ cēsukuṇṭāru	[sound:అర్థం చేసుకుంటారు_google_female.mp3]	మీరు ఈ విషయాన్ని త్వరలో అర్థం చేసుకుంటారు.	You will understand this matter soon.	A1
+under	కింద	kinda	[sound:కింద_google_female.mp3]	పుస్తకం డెస్క్ కింద ఉంది.	The book is under the desk.	A1
+university	విశ్వవిద్యాలయం	viśvavidyālayaṁ	[sound:విశ్వవిద్యాలయం_google_female.mp3]	నేను విశ్వవిద్యాలయంలో చదువుతున్నాను.	I am studying at the university.	A1
+until	వరకు	varaku	[sound:వరకు_google_female.mp3]	ఈ బస్సు కోఠి వరకు వెళ్తుంది.	This bus goes up to Koti.	A1
+upstairs	మేడమీద	mēḍamīda	[sound:మేడమీద_google_female.mp3]	పిల్లలు మేడమీద ఆడుతున్నారు.	The children are playing on the terrace.	A1
+up	పైకి	paiki	[sound:పైకి_google_female.mp3]	పైకి వెళ్లండి, మీ గది అక్కడే ఉంది.	Go upstairs; your room is there.	A1
+useful	ఉపయోగకరమైన	upayōgakaramaina	[sound:ఉపయోగకరమైన_google_female.mp3]	ఈ పుస్తకం చాలా ఉపయోగకరమైనది.	This book is very useful.	A1
+use up	అప్ ఉపయోగించండి	ap upayōgin̄caṇḍi	[sound:అప్ ఉపయోగించండి_google_female.mp3]	సరికొత్త ఫీచర్ ను అప్ ఉపయోగించండి.	Use the new feature.	A1
+use	ఉపయోగించండి	upayōgin̄caṇḍi	[sound:ఉపయోగించండి_google_female.mp3]	ఈ అవకాశాన్ని ఉపయోగించండి.	Make use of this opportunity.	A1
+usually	సాధారణంగా	sādhāraṇaṅgā	[sound:సాధారణంగా_google_female.mp3]	నేను సాధారణంగా ఆరవ గంటకు లేస్తాను.	I usually wake up at six o'clock.	A1
+us	మాకు	māku	[sound:మాకు_google_female.mp3]	మాకు సహాయం అవసరం ఉంది.	We need help.	A1
+vacation	సెలవు	selavu	[sound:సెలవు_google_female.mp3]	రేపు సెలవు ఉంటుందని చెప్పారు.	They said there will be a holiday tomorrow.	A1
+vegetable	కూరగాయల	kūragāyala	[sound:కూరగాయల_google_female.mp3]	కూరగాయల మార్కెట్ రద్దీగా ఉంది.	The vegetable market is crowded.	A1
+very	చాలా	cālā	[sound:చాలా_google_female.mp3]	నీవు చాలా బాగా ఆడుతున్నావు.	You are playing very well.	A1
+video	వీడియో	vīḍiyō	[sound:వీడియో_google_female.mp3]	ఈ వీడియో చాలా ఆసక్తికరంగా ఉంది.	This video is very interesting.	A1
+village	గ్రామం	grāmaṁ	[sound:గ్రామం_google_female.mp3]	నా బంధువులు గ్రామంలో ఉంటారు.	My relatives live in the village.	A1
+visitor	సందర్శకుడు	sandarśakuḍu	[sound:సందర్శకుడు_google_female.mp3]	ఈ ప్రదేశానికి చాలా మంది సందర్శకులు వస్తారు.	Many visitors come to this place.	A1
+visit	సందర్శించండి	sandarśin̄caṇḍi	[sound:సందర్శించండి_google_female.mp3]	ఆ వింత ప్రదేశాన్ని సందర్శించండి.	Visit that amazing place.	A1
+waiter	వెయిటర్	veyiṭar	[sound:వెయిటర్_google_female.mp3]	వెయిటర్ ఆహారం వెంటనే తెచ్చాడు.	The waiter brought the food immediately.	A1
+wait	వేచి ఉండండి	vēci uṇḍaṇḍi	[sound:వేచి ఉండండి_google_female.mp3]	కొంత సమయం వేచి ఉండండి.	Please wait for some time.	A1
+wake	మేల్కొలపండి	mēlkolapaṇḍi	[sound:మేల్కొలపండి_google_female.mp3]	రోజూ ఆరున్నర గంటలకు మేల్కొంటాను.	I wake up at 6:30 every day.	A1
+walk out	బయటకు నడవండి	bayaṭaku naḍavaṇḍi	[sound:బయటకు నడవండి_google_female.mp3]	స్వచ్ఛమైన గాలి కోసం బయటకు నడవండి.	Walk outside for fresh air.	A1
+walk up	పైకి నడవండి	paiki naḍavaṇḍi	[sound:పైకి నడవండి_google_female.mp3]	మీరు మెట్లపైకి నడవండి.	Walk upstairs.	A1
+walk	నడవండి	naḍavaṇḍi	[sound:నడవండి_google_female.mp3]	పార్క్ లో నడవండి, అది ఆరోగ్యకరం.	Walk in the park; it is healthy.	A1
+wall	గోడ	gōḍa	[sound:గోడ_google_female.mp3]	ఆ గోడ మీద ఒక అందమైన చిత్రం ఉంది.	There is a beautiful painting on that wall.	A1
+want	కావాలి	kāvāli	[sound:కావాలి_google_female.mp3]	నాకు ఒక గాజు నీరు కావాలి.	I need a glass of water.	A1
+warm up	వేడెక్కుతుంది	vēḍekkutundi	[sound:వేడెక్కుతుంది_google_female.mp3]	ఈ వంటగది వేడెక్కుతుంది.	This kitchen is getting hot.	A1
+warm	వెచ్చని	veccani	[sound:వెచ్చని_google_female.mp3]	ఆ వడ్డిన టీ వెచ్చగా ఉంది.	The served tea is warm.	A1
+wash away	కొట్టుకుపోతాయి	koṭṭukupōtāyi	[sound:కొట్టుకుపోతాయి_google_female.mp3]	మంచులో వృక్షాలు కొట్టుకుపోతాయి.	Trees are swept away in the flood.	A1
+wash off	కడగడం	kaḍagaḍaṁ	[sound:కడగడం_google_female.mp3]	మీ చేతులను బాగా కడగండి.	Wash your hands properly.	A1
+wash out	వాష్ అవుట్	vāṣ avuṭ	[sound:వాష్ అవుట్_google_female.mp3]	పగడాలు వాష్ అవుట్ చేయండి.	Wash out the stains.	A1
+wash up	కడగడం	kaḍagaḍaṁ	[sound:కడగడం_google_female.mp3]	మీ చేతులను బాగా కడగండి.	Wash your hands properly.	A1
+wash	కడగడం	kaḍagaḍaṁ	[sound:కడగడం_google_female.mp3]	మీ చేతులను బాగా కడగండి.	Wash your hands properly.	A1
+watch out for	కోసం చూడండి	kōsaṁ cūḍaṇḍi	[sound:కోసం చూడండి_google_female.mp3]	మీరు ఆ పుస్తకం కోసం చూడండి.	Look for that book.	A1
+watch out	జాగ్రత్తగా ఉండు	jāgrattagā uṇḍu	[sound:జాగ్రత్తగా ఉండు_google_female.mp3]	రోడ్డు దాటేటప్పుడు జాగ్రత్తగా ఉండు.	Be careful while crossing the road.	A1
+watch	వాచ్	vāc	[sound:వాచ్_google_female.mp3]	మీరు కొత్త వాచ్ ధరించారు.	You are wearing a new watch.	A1
+water	నీరు	nīru	[sound:నీరు_google_female.mp3]	నీరు మంచిదిగా తాగండి.	Drink water properly.	A1
+way	మార్గం	mārgaṁ	[sound:మార్గం_google_female.mp3]	మీరు సరైన మార్గంలో ఉన్నారు.	You are on the right path.	A1
+wear away	ధరిస్తారు	dharistāru	[sound:ధరిస్తారు_google_female.mp3]	వారు శుభకార్యానికి పట్టు చీరలను ధరిస్తారు.	They wear silk sarees for ceremonies.	A1
+wear off	ధరిస్తారు	dharistāru	[sound:ధరిస్తారు_google_female.mp3]	వారు శుభకార్యానికి పట్టు చీరలను ధరిస్తారు.	They wear silk sarees for ceremonies.	A1
+wear out	అరిగిపోతాయి	arigipōtāyi	[sound:అరిగిపోతాయి_google_female.mp3]	ఎక్కువగా వాడితే బట్టలు అరిగిపోతాయి.	Clothes wear out if used excessively.	A1
+wear	ధరిస్తారు	dharistāru	[sound:ధరిస్తారు_google_female.mp3]	వారు పండుగలకు సంప్రదాయ దుస్తులు ధరిస్తారు.	They wear traditional clothes for festivals.	A1
+weather	వాతావరణం	vātāvaraṇaṁ	[sound:వాతావరణం_google_female.mp3]	ఈ రోజు వాతావరణం చాలా చల్లగా ఉంది.	The weather is very cold today.	A1
+website	వెబ్సైట్	vebsaiṭ	[sound:వెబ్సైట్_google_female.mp3]	ఆ వెబ్సైట్ ఉపయోగకరమైన సమాచారం అందిస్తుంది.	That website provides useful information.	A1
+Wednesday	బుధవారం	budhavāraṁ	[sound:బుధవారం_google_female.mp3]	బుధవారం రోజున ఒక సమావేశం ఉంది.	There is a meeting on Wednesday.	A1
+weekend	వారాంతం	vārāntaṁ	[sound:వారాంతం_google_female.mp3]	వారాంతంలో నా స్నేహితులతో కలుసుకుంటాను.	I meet my friends on the weekend.	A1
+week	వారం	vāraṁ	[sound:వారం_google_female.mp3]	ప్రతి వారం వ్యాయామం చేయడం అవసరం.	Exercising every week is necessary.	A1
+welcome	స్వాగతం	svāgataṁ	[sound:స్వాగతం_google_female.mp3]	మీరు మా ఇంటికి స్వాగతం.	You are welcome to our home.	A1
+well known	బాగా తెలిసిన	bāgā telisina	[sound:బాగా తెలిసిన_google_female.mp3]	ఆమె ఒక బాగా తెలిసిన గాయని.	She is a well-known singer.	A1
+well	బాగా	bāgā	[sound:బాగా_google_female.mp3]	నీవు నీ పని బాగా చేయావు.	You did your work well.	A1
+west	పడమర	paḍamara	[sound:పడమర_google_female.mp3]	సూర్యుడు పడమర వైపుకు మాయమవుతున్నాడు.	The sun is setting in the west.	A1
+we	మేము	mēmu	[sound:మేము_google_female.mp3]	మేము మీ కోసం ఒక విందు ఏర్పాటు చేసాం.	We organized a feast for you.	A1
+what	ఏమి	ēmi	[sound:ఏమి_google_female.mp3]	ఇది ఏమి జరిగింది?	What happened here?	A1
+when	ఎప్పుడు	eppuḍu	[sound:ఎప్పుడు_google_female.mp3]	మీరు ఎప్పుడు వస్తారు?	When will you come?	A1
+where	ఎక్కడ	ekkaḍa	[sound:ఎక్కడ_google_female.mp3]	మీరెక్కడ వెళ్ళారు?	Where did you go?	A1
+which	ఏది	ēdi	[sound:ఏది_google_female.mp3]	మీరు ఏది తీసుకోవాలనుకుంటున్నారు?	Which one do you want to take?	A1
+white	తెలుపు	telupu	[sound:తెలుపు_google_female.mp3]	ఆమె తెలుపు రంగు దుస్తులు ధరిస్తోంది.	She is wearing white clothes.	A1
+who	WHO	wHO	[sound:WHO_google_female.mp3]	WHO ప్రపంచ ఆరోగ్య సంస్థ యొక్క సంక్షిప్త రూపం.	WHO is the abbreviation for World Health Organization.	A1
+why	ఎందుకు	enduku	[sound:ఎందుకు_google_female.mp3]	మీరు ఎందుకు ఆలస్యమయ్యారు?	Why were you late?	A1
+wife	భార్య	bhārya	[sound:భార్య_google_female.mp3]	అతని భార్య చాలా సహనంగా ఉంటుంది.	His wife is very patient.	A1
+will	రెడీ	reḍī	[sound:రెడీ_google_female.mp3]	నేను మీ ఆదేశాల కోసం రెడీగా ఉన్నాను.	I am ready for your instructions.	A1
+window	కిటికీ	kiṭikī	[sound:కిటికీ_google_female.mp3]	కిటికీ ద్వారా చల్లని గాలి వస్తోంది.	Cool air is coming through the window.	A1
+wine	వైన్	vain	[sound:వైన్_google_female.mp3]	అతను అతని భోజనానికి వైన్ ఆర్డర్ చేశాడు.	He ordered wine with his meal.	A1
+winter	చలికాలం	calikālaṁ	[sound:చలికాలం_google_female.mp3]	చలికాలంలో ఉష్ణోగ్రతలు బాగా తగ్గుతాయి.	Temperatures drop significantly during winter.	A1
+win	గెలుస్తారు	gelustāru	[sound:గెలుస్తారు_google_female.mp3]	మీరు కష్టపడితే గెలుస్తారు.	You will win if you work hard.	A1
+without	లేకుండా	lēkuṇḍā	[sound:లేకుండా_google_female.mp3]	ఆహారంలో చక్కెర లేకుండా తినడం మంచిది.	It’s good to eat food without sugar.	A1
+with	తో	tō	[sound:తో_google_female.mp3]	నేను నా స్నేహితులతో సినిమా చూసాను.	I watched a movie with my friends.	A1
+woman	స్త్రీ	strī	[sound:స్త్రీ_google_female.mp3]	ఆమె ఒక ధైర్యవంతమైన స్త్రీ.	She is a courageous woman.	A1
+wonderful	అద్భుతమైన	adbhutamaina	[sound:అద్భుతమైన_google_female.mp3]	అది ఒక అద్భుతమైన అనుభవం.	That was a wonderful experience.	A1
+word	పదం	padaṁ	[sound:పదం_google_female.mp3]	ఈ పదం అర్థం ఏమిటి?	What is the meaning of this word?	A1
+worker	కార్మికుడు	kārmikuḍu	[sound:కార్మికుడు_google_female.mp3]	ఆ కంపెనీ లో పది కార్మికులు పనిచేస్తున్నారు.	Ten workers are working in that company.	A1
+work out	పని చేయండి	pani cēyaṇḍi	[sound:పని చేయండి_google_female.mp3]	మీరు మీ విధులను సమర్థంగా పని చేయండి.	Do your duties efficiently.	A1
+work	పని	pani	[sound:పని_google_female.mp3]	పని సమయానికి పూర్తి చేయాలి.	The work should be completed on time.	A1
+world	ప్రపంచం	prapan̄caṁ	[sound:ప్రపంచం_google_female.mp3]	ప్రపంచం చాలా అందంగా ఉంది.	The world is very beautiful.	A1
+would	ఉంటుంది	uṇṭundi	[sound:ఉంటుంది_google_female.mp3]	ఈ సీజన్‌లో ఎక్కువగా చలి ఉంటుంది.	It will be mostly cold in this season.	A1
+write back	తిరిగి వ్రాయండి	tirigi vrāyaṇḍi	[sound:తిరిగి వ్రాయండి_google_female.mp3]	దయచేసి మీరు ఆ పేరును తిరిగి వ్రాయండి.	Please rewrite that name.	A1
+write down	వ్రాయండి	vrāyaṇḍi	[sound:వ్రాయండి_google_female.mp3]	మీరు మీ అభిప్రాయాన్ని ఒక కాగితంపై వ్రాయండి.	Write your opinion on a piece of paper.	A1
+writer	రచయిత	racayita	[sound:రచయిత_google_female.mp3]	ఆ రచయిత అనేక ప్రసిద్ధ పుస్తకాలు వ్రాశాడు.	That author has written many famous books.	A1
+write	వ్రాయండి	vrāyaṇḍi	[sound:వ్రాయండి_google_female.mp3]	మీరు మీ అభిప్రాయాన్ని ఒక కాగితంపై వ్రాయండి.	Write your opinion on a piece of paper.	A1
+writing	రాయడం	rāyaḍaṁ	[sound:రాయడం_google_female.mp3]	ఆమెకు కవితలు రాయడం అంటే ఇష్టం.	She loves writing poems.	A1
+wrong	తప్పు	tappu	[sound:తప్పు_google_female.mp3]	మీ సమాధానంలో ఒక చిన్న తప్పు ఉంది.	There is a small mistake in your answer.	A1
+yeah	అవును	avunu	[sound:అవును_google_female.mp3]	మీరు ఆహారాన్ని తీసుకున్నారా? అవును, తీసుకున్నాను.	Did you eat the food? Yes, I did.	A1
+year	సంవత్సరం	sanvatsaraṁ	[sound:సంవత్సరం_google_female.mp3]	ఈ సంవత్సరం వర్షపాతం తక్కువగా ఉంది.	The rainfall was low this year.	A1
+yellow	పసుపు	pasupu	[sound:పసుపు_google_female.mp3]	పసుపు రంగు చాలా ప్రకాశవంతంగా ఉంటుంది.	Yellow is a very bright color.	A1
+yesterday	నిన్న	ninna	[sound:నిన్న_google_female.mp3]	నిన్న నేను సినిమా చూసాను.	I watched a movie yesterday.	A1
+yes	అవును	avunu	[sound:అవును_google_female.mp3]	మీరు ఆహారాన్ని తీసుకున్నారా? అవును, తీసుకున్నాను.	Did you eat the food? Yes, I did.	A1
+young	యువకుడు	yuvakuḍu	[sound:యువకుడు_google_female.mp3]	ఆ యువకుడు చదువులో చాలా ప్రతిభావంతుడు.	That young man is very talented in academics.	A1
+yourself	మీరే	mīrē	[sound:మీరే_google_female.mp3]	ఈ చిత్రాన్ని రూపొందించిన వ్యక్తి మీరేనా?	Are you the one who created this painting?	A1
+your	మీ	mī	[sound:మీ_google_female.mp3]	మీ ఉచిత సలహా చాలా ఉపయోగకరంగా ఉంది.	Your free advice is very helpful.	A1
+you	మీరు	mīru	[sound:మీరు_google_female.mp3]	మీరు ఈ కార్యక్రమంలో పాల్గొంటారా?	Will you participate in this event?	A1
 ability	సామర్థ్యం	sāmarthyaṁ	[sound:సామర్థ్యం_google_female.mp3]	ఆమెకు ఏ పని అయినా చేయగల సామర్థ్యం ఉంది.	She has the ability to do any task.	A2
 able	చేయగలరు	cēyagalaru	[sound:చేయగలరు_google_female.mp3]	మీరు ఈ పని సులభంగా చేయగలరు.	You can easily do this task.	A2
 abroad	విదేశాలలో	vidēśālalō	[sound:విదేశాలలో_google_female.mp3]	అతని సోదరుడు విదేశాలలో చదువుతున్నాడు.	His brother is studying abroad.	A2
