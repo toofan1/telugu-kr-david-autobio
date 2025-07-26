@@ -708,7 +708,7 @@ one	ఒకటి	okaṭi	[sound:ఒకటి_google_female.mp3]	నా టేబ
 onion	ఉల్లిపాయ	ullipāya	[sound:ఉల్లిపాయ_google_female.mp3]	ఉల్లిపాయలను కూరల్లో ఎక్కువగా ఉపయోగిస్తారు.	Onions are used a lot in curries.	A1
 online	ఆన్లైన్	ānlain	[sound:ఆన్లైన్_google_female.mp3]	నేను ఈ పుస్తకాన్ని ఆన్లైన్ లో కొనుగోలు చేశాను.	I bought this book online.	A1
 only	మాత్రమే	mātramē	[sound:మాత్రమే_google_female.mp3]	ఈ సమావేశానికి నేను మాత్రమే హాజరయ్యాను.	I alone attended this meeting.	A1
-on	న	na	[sound:న_google_female.mp3]	నన్ను మీ మాటలు చాలా ఇబ్బంది పెట్టాయి.	Your words upset me a lot.	A1
+on	మీద	mīda 	[sound:న_google_female.mp3]	పుస్తకాన్ని షెల్ఫ్ మీద పెట్ట.	Put the book on the shelf.	A1
 open up	తెరవండి	teravaṇḍi	[sound:తెరవండి_google_female.mp3]	కిటికీ ని తెరవండి.	Open the window.	A1
 open	తెరవండి	teravaṇḍi	[sound:తెరవండి_google_female.mp3]	మీరు ఈ బాక్స్ ను తెరవండి.	Open this box.	A1
 opinion	అభిప్రాయం	abhiprāyaṁ	[sound:అభిప్రాయం_google_female.mp3]	మీ అభిప్రాయం చాలా ముఖ్యమైనది.	Your opinion is very important.	A1
